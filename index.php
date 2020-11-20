@@ -16,49 +16,97 @@
     <title>ImmoEliza</title>
 </head>
 <body>
-    <!-- ***** HEADER START ***** -->
-    <div class="jumbotron" style="$primerybleu">
+ <!-- ***** HEADER START ***** -->
+ <div class="jumbotron" style="$primerybleu">
+    <!-- NAV -->
         <div class="nav">
-            <ul>
-                <li><p>A VENDRE</p></li>
-                <li><p>A LOUER</p></li>
-                <li><p>ESTIMER</p></li>
-                <li><p>AGENCES</p></li>
-                <li><p>SERVICES</p></li>
-            <ul>
-        </div>
-        <div class="connecter">
-            <ul>
-                <li>
-                    <button type="button" class="btn btn-outline-info">se connecter</button>
-                </li>
-            </ul>
+            <div>
+                <ul>
+                    <li><p>A VENDRE</p></li>
+                    <li><p>A LOUER</p></li>
+                    <li><p>ESTIMER</p></li>
+                    <li><p>AGENCES</p></li>
+                    <li><p>SERVICES</p></li>
+                <ul>
+            </div>
+            <div class="connecter">
+                <ul>
+                    <li>
+                        <button type="button" class="btn btn-outline-info">se connecter</button>
+                    </li>
+                </ul>
+            </div>
+            <div class="langue">
+                <ul>
+                    <li>
+                        <button type="button" class="">Nl | Fr</button>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
-    <!--<header class="container-fluid" id="header">-->
-
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-
-            <div class="navbar-header">
-
-                <a href="#" class="navbar-brand">Immo Eliza</a>
-            
+    <!-- MAIN -->
+    <div class="titre">
+        <div class="container">
+            <div class="row col-12">
+                <h1>Bienvenue sur IMMOEliza</h1>
             </div>
-            <ul class="nav navbar-nav">
-            
-                <li><a href="#">A Vendre</a></li>
-                <li><a href="#">A Louer</a></li>
-                <li><a href="#">Estimer</a></li>
-                <li><a href="#">Agences</a></li>
-                <li><a href="#">Services</a></li>
-
-
-            </ul>
-        
         </div>
-    </nav>
+    </div>
+    <div class="filtre">
+        <div class="container">
+            <div class="row col-12">
+                <ul>
+                    <li>></li>
+                    <li></li>
+                    <li><button type="button" class="btn btn-link">PRIX</button></li>
+                    <li><div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Type de bien
+                        </a>
 
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="#">Maison</a>
+                            <a class="dropdown-item" href="#">Appartement</a>
+                            <a class="dropdown-item" href="#">Loft</a>
+                        </div>
+                        </div></li>
+                    <li><button type="button" class="btn btn-primary">RECHERCHER</button></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <section class="contente">
+        <div class="container">
+            <div class="row col-12">
+                <h2>Dernières publications à vendre</h2>
+            </div>
+        </div>
+        <div class='imageimmo'>
+            <div class="container">
+                <div class="row">
+                    <ul>
+                        <li><img src=""></li>
+                        <li><img src=""></li>
+                        <li><img src=""></li>
+                        <li><img src=""></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class='imageimmo'>
+            <div class="container">
+                <div class="row">
+                    <ul>
+                        <li><img src=""></li>
+                        <li><img src=""></li>
+                        <li><img src=""></li>
+                        <li><img src=""></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
         <!-- JUMBOTRON - HERO ZONE -->
         
     <div class="jumbotron jumbotron-fluid" id="jumbotron">
