@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Font Awesome -->
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <!-- Custom styles -->
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
     <link rel="stylesheet" href="./assets/css/style.css">
     
     <title>ImmoEliza</title>
@@ -37,8 +37,43 @@
     </div>
     <!--<header class="container-fluid" id="header">-->
 
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+
+            <div class="navbar-header">
+
+                <a href="#" class="navbar-brand">Immo Eliza</a>
+            
+            </div>
+            <ul class="nav navbar-nav">
+            
+                <li><a href="#">A Vendre</a></li>
+                <li><a href="#">A Louer</a></li>
+                <li><a href="#">Estimer</a></li>
+                <li><a href="#">Agences</a></li>
+                <li><a href="#">Services</a></li>
+
+
+            </ul>
+        
+        </div>
+    </nav>
+
         <!-- JUMBOTRON - HERO ZONE -->
         
+    <div class="jumbotron jumbotron-fluid" id="jumbotron">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-4">IMMO ELIZA</div>
+                <div class="col-8">
+                    <a href="Calcul.php" type="button" class="btn btn-light" role="button">Quelle est la valeur de mon bien ?</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
             <!-- THE NAV BAR -->
 
 
