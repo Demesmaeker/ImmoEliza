@@ -17,7 +17,24 @@
 </head>
 <body>
     <!-- ***** HEADER START ***** -->
-
+    <div class="jumbotron" style="$primerybleu">
+        <div class="nav">
+            <ul>
+                <li><p>A VENDRE</p></li>
+                <li><p>A LOUER</p></li>
+                <li><p>ESTIMER</p></li>
+                <li><p>AGENCES</p></li>
+                <li><p>SERVICES</p></li>
+            <ul>
+        </div>
+        <div class="connecter">
+            <ul>
+                <li>
+                    <button type="button" class="btn btn-outline-info">se connecter</button>
+                </li>
+            </ul>
+        </div>
+    </div>
     <!--<header class="container-fluid" id="header">-->
 
     <nav class="navbar navbar-default">
