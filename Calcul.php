@@ -26,7 +26,7 @@
     <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
 
     <!-- Custom styles -->
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
     
     <title>ImmoEliza</title>
     
@@ -100,7 +100,7 @@
             <div class="col-1">
                 <div class="checkbox">
                     <label>
-                        <input type="checkbox" checked data-toggle="toggle" data-width="80" data-height="130"  data-on="Maison<br>simple" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                        <input type="checkbox" checked data-toggle="toggle" data-width="80" data-height="130"  data-on="Maison \r simple" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
                     </label>
                 </div>
                 </div>

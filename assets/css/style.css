@@ -1,7 +1,10 @@
-div.container.bg {
-  background-image: url(//assets/IMG/pexels-pixabay-207142.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.label.btn.btn-dark.toggle-on {
+  color: #219ebc;
+  font-size: 1em;
+}
+
+.label.btn.btn-dark.toggle-on {
+  color: #219ebc;
+  font-size: 1em;
 }
 /*# sourceMappingURL=style.css.map */
