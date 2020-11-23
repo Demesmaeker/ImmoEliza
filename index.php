@@ -17,7 +17,7 @@
 </head>
 <body>
  <!-- ***** HEADER START ***** -->
- <div class="jumbotron" style="$primerybleu">
+<div class="jumbotron" style="primary">
     <!-- NAV -->
         <div class="nav">
             <div>
