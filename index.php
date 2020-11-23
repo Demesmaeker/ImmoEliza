@@ -76,9 +76,11 @@
 
             <!-- THE NAV BAR -->
 
+            <form action="resultat.php" method="post"><label for="mot">Mot recherch&eacute;</label> <input type="text" name="mot" /> <input type="submit" value="Rechercher" /></form>
+<?php 
+phpinfo();            
 
-            <!-- BOTTOM NAVBAR -->
-        
+ ?>       
 
     <!-- MAIN START -->
 
