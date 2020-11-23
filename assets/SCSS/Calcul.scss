@@ -1,6 +1,8 @@
-div.container.bg {
-    background-image: url(//assets/IMG/pexels-pixabay-207142.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+.btn.btn-primary {
+    width: 6rem!important;
+    font-size: small;
+    // cursor: text !important;
+    text-decoration: none;
+    pointer-events: none;
+  }
+  
