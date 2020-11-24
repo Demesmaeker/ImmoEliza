@@ -1,2782 +1,1148 @@
-zip,locality,commune,province,rank
-5670,Mazée,VIROINVAL,Namur,13.0
-1860,MEISE,MEISE,Brabant Flamand,524.0
-9700,Melden,OUDENAARDE,Flandre-Orientale,271.0
-1370,Mélin,JODOIGNE,Brabant Wallon,489.0
-4520,Moha,WANZE,Liège,136.0
-6592,Monceau-Imbrechies,MOMIGNIES,Hainaut,3.0
-7542,Mont-Saint-Aubert,TOURNAI,Hainaut,262.0
-5190,Mornimont,JEMEPPE-SUR-SAMBRE,Namur,71.0
-5300,Namêche,ANDENNE,Namur,93.0
-3221,Nieuwrode,HOLSBEEK,Brabant Flamand,525.0
-7387,Onnezies,HONNELLES,Hainaut,125.0
-1315,Opprebais,INCOURT,Brabant Wallon,362.0
-4360,Otrange,OREYE,Liège,100.0
-4577,Outrelouxhe,MODAVE,Liège,144.0
-5575,Patignies,GEDINNE,Namur,61.0
-7760,Popuelles,CELLES,Hainaut,142.0
-8972,Proven,POPERINGE,Flandre-Occidentale,150.0
-2242,Pulderbos,ZANDHOVEN,Anvers,451.0
-1430,REBECQ,REBECQ,Brabant Wallon,343.0
-5081,Saint-Denis-Bovesse,LA BRUYÈRE,Namur,467.0
-5575,Sart-Custinne,GEDINNE,Namur,61.0
-2970,SCHILDE,SCHILDE,Anvers,569.0
-2900,SCHOTEN,SCHOTEN,Anvers,472.0
-8554,Sint-Denijs,ZWEVEGEM,Flandre-Occidentale,156.0
-6920,Sohier,WELLIN,Luxembourg,337.0
-3510,Spalbeek,HASSELT,Limbourg,412.0
-9140,TEMSE,TEMSE,Flandre-Orientale,313.0
-3080,TERVUREN,TERVUREN,Brabant Flamand,571.0
-7350,Thulin,HENSIES,Hainaut,20.0
-7971,Thumaide,BELOEIL,Hainaut,331.0
-5621,Thy-Le-Baudouin,FLORENNES,Namur,68.0
-4420,Tilleur,SAINT-NICOLAS,Liège,12.0
-6637,Tintange,FAUVILLERS,Luxembourg,67.0
-6941,Tohogne,DURBUY,Luxembourg,196.0
-1180,UCCLE,UCCLE,Bruxelles (19 communes),548.0
-7812,Villers-Saint-Amand,ATH,Hainaut,104.0
-5570,Vonêche,BEAURAING,Namur,41.0
-3080,Vossem,TERVUREN,Brabant Flamand,571.0
-9185,WACHTEBEKE,WACHTEBEKE,Flandre-Orientale,419.0
-6920,WELLIN,WELLIN,Luxembourg,337.0
-7620,Wez-Velvain,BRUNEHAUT,Hainaut,493.0
-6666,Wibrin,HOUFFALIZE,Luxembourg,80.0
-7608,Wiers,PÉRUWELZ,Hainaut,177.0
-1861,Wolvertem,MEISE,Brabant Flamand,524.0
-8470,Zevekote,GISTEL,Flandre-Occidentale,392.0
-4780,Recht,SAINT-VITH,Liège,56.0
-3791,Remersdaal,FOURONS,Limbourg,460.0
-2310,RIJKEVORSEL,RIJKEVORSEL,Anvers,532.0
-3454,Rummen,GEETBETS,Brabant Flamand,148.0
-9150,Rupelmonde,KRUIBEKE,Flandre-Orientale,439.0
-1703,Schepdaal,DILBEEK,Brabant Flamand,487.0
-3270,Scherpenheuvel,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,197.0
-6750,Signeulx,MUSSON,Luxembourg,92.0
-9620,Sint-Goriks-Oudenhove,ZOTTEGEM,Flandre-Orientale,246.0
-5503,Sorinnes,DINANT,Namur,134.0
-4801,Stembert,VERVIERS,Liège,53.0
-8600,Stuivekenskerke,DIKSMUIDE,Flandre-Occidentale,348.0
-1740,TERNAT,TERNAT,Brabant Flamand,497.0
-4910,THEUX,THEUX,Liège,294.0
-6230,Thiméon,PONT-À-CELLES,Hainaut,113.0
-7904,Tourpes,LEUZE-EN-HAINAUT,Hainaut,238.0
-6183,Trazegnies,COURCELLES,Hainaut,42.0
-6960,Vaux-Chavanne,MANHAY,Luxembourg,373.0
-6823,Villers-Devant-Orval,FLORENVILLE,Luxembourg,22.0
-5080,Villers-Lez-Heest,LA BRUYÈRE,Namur,467.0
-9921,Vinderhoute,LIEVEGEM,Flandre-Orientale,409.0
-2290,VORSELAAR,VORSELAAR,Anvers,421.0
-3890,Vorsen,GINGELOM,Limbourg,132.0
-5377,Waillet,SOMME-LEUZE,Namur,73.0
-5570,Wancennes,BEAURAING,Namur,41.0
-4280,Wansin,HANNUT,Liège,200.0
-7740,Warcoing,PECQ,Hainaut,138.0
-8610,Werken,KORTEMARK,Flandre-Occidentale,141.0
-8560,WEVELGEM,WEVELGEM,Flandre-Occidentale,128.0
-2222,Wiekevorst,HEIST-OP-DEN-BERG,Anvers,446.0
-5571,Wiesme,BEAURAING,Namur,41.0
-3370,Willebringen,BOUTERSEM,Brabant Flamand,486.0
-7506,Willemeau,TOURNAI,Hainaut,262.0
-1150,WOLUWE-SAINT-PIERRE,WOLUWE-SAINT-PIERRE,Bruxelles (19 communes),574.0
-9032,Wondelgem,GENT,Flandre-Orientale,491.0
-4432,Xhendremael,ANS,Liège,70.0
-3690,ZUTENDAAL,ZUTENDAAL,Limbourg,212.0
-2070,ZWIJNDRECHT,ZWIJNDRECHT,Anvers,456.0
-4557,Abée,TINLOT,Liège,386.0
-6280,Acoz,GERPINNES,Hainaut,287.0
-9991,Adegem,MALDEGEM,Flandre-Orientale,315.0
-2020,ANTWERPEN,ANTWERPEN,Anvers,339.0
-5060,Auvelais,SAMBREVILLE,Namur,79.0
-7830,Bassilly,SILLY,Hainaut,231.0
-7604,Baugnies,PÉRUWELZ,Hainaut,177.0
-9080,Beervelde,LOCHRISTI,Flandre-Orientale,522.0
-8370,BLANKENBERGE,BLANKENBERGE,Flandre-Occidentale,153.0
-6700,Bonnert,ARLON,Luxembourg,311.0
-3300,Bost,TIENEN,Brabant Flamand,178.0
-9660,BRAKEL,BRAKEL,Flandre-Orientale,371.0
-7940,BRUGELETTE,BRUGELETTE,Hainaut,72.0
-2070,Burcht,ZWIJNDRECHT,Anvers,456.0
-6460,CHIMAY,CHIMAY,Hainaut,115.0
-5590,CINEY,CINEY,Namur,75.0
-1380,Couture-Saint-Germain,LASNE,Brabant Wallon,580.0
-4280,Crehen,HANNUT,Liège,200.0
-5332,Crupet,ASSESSE,Namur,427.0
-6860,Ebly,LÉGLISE,Luxembourg,120.0
-1140,EVERE,EVERE,Bruxelles (19 communes),266.0
-9940,EVERGEM,EVERGEM,Flandre-Orientale,389.0
-4870,Fraipont,TROOZ,Liège,47.0
-1315,Glimes,INCOURT,Brabant Wallon,362.0
-3740,Grote-Spouwen,BILZEN,Limbourg,182.0
-3800,Halmaal,SINT-TRUIDEN,Limbourg,206.0
-5190,Ham-Sur-Sambre,JEMEPPE-SUR-SAMBRE,Namur,71.0
-3500,HASSELT,HASSELT,Limbourg,412.0
-3440,Helen-Bos,ZOUTLEEUW,Brabant Flamand,112.0
-7090,Henripont,BRAINE-LE-COMTE,Hainaut,60.0
-6887,HERBEUMONT,HERBEUMONT,Luxembourg,76.0
-2270,HERENTHOUT,HERENTHOUT,Anvers,353.0
-6984,Hives,LA ROCHE-EN-ARDENNE,Luxembourg,65.0
-3840,Hoepertingen,BORGLOON,Limbourg,221.0
-7387,HONNELLES,HONNELLES,Hainaut,125.0
-4460,Horion-Hozémont,GRÂCE-HOLLOGNE,Liège,45.0
-8650,HOUTHULST,HOUTHULST,Flandre-Occidentale,257.0
-6120,Jamioulx,HAM-SUR-HEURE,Hainaut,320.0
-1370,JODOIGNE,JODOIGNE,Brabant Wallon,489.0
-1730,Kobbegem,ASSE,Brabant Flamand,393.0
-8670,KOKSIJDE,KOKSIJDE,Flandre-Occidentale,325.0
-8500,KORTRIJK,KORTRIJK,Flandre-Occidentale,391.0
-3840,Kuttekoven,BORGLOON,Limbourg,221.0
-9850,Landegem,DEINZE,Flandre-Orientale,444.0
-5070,Le Roux,FOSSES-LA-VILLE,Namur,114.0
-2275,LILLE,LILLE,Anvers,452.0
-4287,LINCENT,LINCENT,Liège,218.0
-3040,Loonbeek,HULDENBERG,Brabant Flamand,565.0
-1830,MACHELEN,MACHELEN,Brabant Flamand,282.0
-5300,Maizeret,ANDENNE,Namur,93.0
-6960,MANHAY,MANHAY,Luxembourg,373.0
-8650,Merkem,HOUTHULST,Flandre-Occidentale,257.0
-9200,Mespelare,DENDERMONDE,Flandre-Orientale,243.0
-6661,Mont,HOUFFALIZE,Luxembourg,80.0
-7911,Moustier,FRASNES-LEZ-ANVAING,Hainaut,249.0
-5340,Mozet,GESVES,Namur,187.0
-5680,Niverlée,DOISCHE,Namur,143.0
-4360,OREYE,OREYE,Liège,100.0
-2360,OUD-TURNHOUT,OUD-TURNHOUT,Anvers,531.0
-1600,Oudenaken,SINT-PIETERS-LEEUW,Brabant Flamand,455.0
-5555,Petit-Fays,BIÈVRE,Namur,52.0
-4280,Petit-Hallet,HANNUT,Liège,200.0
-7904,Pipaix,LEUZE-EN-HAINAUT,Hainaut,238.0
-4850,PLOMBIÈRES,PLOMBIÈRES,Liège,126.0
-3930,Achel,HAMONT-ACHEL,Limbourg,349.0
-1790,AFFLIGEM,AFFLIGEM,Brabant Flamand,445.0
-1070,ANDERLECHT,ANDERLECHT,Bruxelles (19 communes),285.0
-6890,Anloy,LIBIN,Luxembourg,368.0
-3271,Averbode,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,197.0
-9200,Baasrode,DENDERMONDE,Flandre-Orientale,243.0
-2490,BALEN,BALEN,Anvers,241.0
-5570,Baronville,BEAURAING,Namur,41.0
-7534,Barry,TOURNAI,Hainaut,262.0
-4520,Bas-Oha,WANZE,Liège,136.0
-6500,BEAUMONT,BEAUMONT,Hainaut,30.0
-1730,Bekkerzeel,ASSE,Brabant Flamand,393.0
-5030,Beuzet,GEMBLOUX,Namur,179.0
-2560,Bevel,NIJLEN,Anvers,327.0
-6543,Bienne-Lez-Happart,LOBBES,Hainaut,214.0
-3850,Binderveld,NIEUWERKERKEN,Limbourg,202.0
-8501,Bissegem,KORTRIJK,Flandre-Occidentale,391.0
-1325,Bonlez,CHAUMONT-GISTOUX,Brabant Wallon,563.0
-3190,BOORTMEERBEEK,BOORTMEERBEEK,Brabant Flamand,484.0
-4300,Bovenistier,WAREMME,Liège,116.0
-7604,Brasménil,PÉRUWELZ,Hainaut,177.0
-4750,BUTGENBACH,BUTGENBACH,Liège,398.0
-4317,Celles,FAIMES,Liège,350.0
-5650,Clermont,WALCOURT,Namur,33.0
-4180,Comblain-Fairon,HAMOIR,Liège,94.0
-5020,Daussoulx,NAMUR,Namur,276.0
-4590,Ellemelle,OUFFET,Liège,345.0
-8906,Elverdinge,IEPER,Flandre-Occidentale,270.0
-7760,Escanaffles,CELLES,Hainaut,142.0
-6220,FLEURUS,FLEURUS,Hainaut,31.0
-5650,Fontenelle,WALCOURT,Namur,33.0
-7830,Fouleng,SILLY,Hainaut,231.0
-5504,Foy-Notre-Dame,DINANT,Namur,134.0
-5380,Franc-Waret,FERNELMONT,Namur,471.0
-7040,Genly,QUÉVY,Hainaut,74.0
-9500,GERAARDSBERGEN,GERAARDSBERGEN,Flandre-Orientale,211.0
-4000,Glain,LIÈGE,Liège,89.0
-7100,Haine-Saint-Paul,LA LOUVIÈRE,Hainaut,36.0
-6922,Halma,WELLIN,Luxembourg,337.0
-6700,Heinsch,ARLON,Luxembourg,311.0
-9310,Herdersem,AALST,Flandre-Orientale,247.0
-8020,Hertsberge,OOSTKAMP,Flandre-Occidentale,482.0
-3640,Kessenich,KINROOI,Limbourg,186.0
-8300,KNOKKE-HEIST,KNOKKE-HEIST,Flandre-Occidentale,573.0
-4560,Les Avins,CLAVIER,Liège,119.0
-6953,Lesterny,NASSOGNE,Luxembourg,109.0
-6890,LIBIN,LIBIN,Luxembourg,368.0
-4987,Lorcé,STOUMONT,Liège,475.0
-1360,Malèves-Sainte-Marie-Wastinnes,PERWEZ,Brabant Wallon,382.0
-5530,Houx,YVOIR,Namur,286.0
-3511,Kuringen,HASSELT,Limbourg,412.0
-8600,Lampernisse,DIKSMUIDE,Flandre-Occidentale,348.0
-9860,Landskouter,OOSTERZELE,Flandre-Orientale,447.0
-8920,LANGEMARK-POELKAPELLE,LANGEMARK-POELKAPELLE,Flandre-Occidentale,173.0
-3700,Lauw,TONGEREN,Limbourg,203.0
-8600,Leke,DIKSMUIDE,Flandre-Occidentale,348.0
-9400,Lieferinge,NINOVE,Flandre-Orientale,237.0
-7534,Maulde,TOURNAI,Hainaut,262.0
-9820,MERELBEKE,MERELBEKE,Flandre-Orientale,465.0
-9992,Middelburg,MALDEGEM,Flandre-Orientale,315.0
-3891,Mielen-Boven-Aalst,GINGELOM,Limbourg,132.0
-1730,Mollem,ASSE,Brabant Flamand,393.0
-4607,Mortroux,DALHEM,Liège,333.0
-6660,Nadrin,HOUFFALIZE,Luxembourg,80.0
-5100,Naninne,NAMUR,Namur,276.0
-1910,Nederokkerzeel,KAMPENHOUT,Brabant Flamand,556.0
-7862,Ogy,LESSINES,Hainaut,131.0
-4540,Ombret,AMAY,Liège,27.0
-9968,Oosteeklo,ASSENEDE,Flandre-Orientale,341.0
-3350,Orsmaal-Gussenhoven,LINTER,Brabant Flamand,264.0
-1340,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,515.0
-7640,Péronnes-Lez-Antoing,ANTOING,Hainaut,5.0
-6230,PONT-À-CELLES,PONT-À-CELLES,Hainaut,113.0
-4350,REMICOURT,REMICOURT,Liège,188.0
-6927,Resteigne,TELLIN,Luxembourg,84.0
-5080,Rhisnes,LA BRUYÈRE,Namur,467.0
-1640,RHODE-SAINT-GENÈSE,RHODE-SAINT-GENÈSE,Brabant Flamand,572.0
-7500,Saint-Maur,TOURNAI,Hainaut,262.0
-9688,Schorisse,MAARKEDAL,Flandre-Orientale,408.0
-9890,Semmerzake,GAVERE,Flandre-Orientale,453.0
-8710,Sint-Baafs-Vijve,WIELSBEKE,Flandre-Occidentale,227.0
-9520,SINT-LIEVENS-HOUTEM,SINT-LIEVENS-HOUTEM,Flandre-Orientale,319.0
-9940,Sleidinge,EVERGEM,Flandre-Orientale,389.0
-3650,Stokkem,DILSEN-STOKKEM,Limbourg,191.0
-3511,Stokrooie,HASSELT,Limbourg,412.0
-6813,Termes,CHINY,Luxembourg,255.0
-6680,Tillet,SAINTE-ODE,Luxembourg,66.0
-6767,Torgny,ROUVROY,Luxembourg,46.0
-4980,TROIS-PONTS,TROIS-PONTS,Liège,361.0
-8370,Uitkerke,BLANKENBERGE,Flandre-Occidentale,153.0
-8210,Veldegem,ZEDELGEM,Flandre-Occidentale,430.0
-7120,Vellereille-Les-Brayeux,ESTINNES,Hainaut,63.0
-3870,Veulen,HEERS,Limbourg,155.0
-4530,Vieux-Waleffe,VILLERS-LE-BOUILLET,Liège,165.0
-1460,Virginal-Samme,ITTRE,Brabant Wallon,469.0
-3770,Vlijtingen,RIEMST,Limbourg,297.0
-7971,Wadelincourt,BELOEIL,Hainaut,331.0
-3401,Walsbets,LANDEN,Brabant Flamand,85.0
-1741,Wambeek,TERNAT,Brabant Flamand,497.0
-9988,Waterland-Oudeman,SINT-LAUREINS,Flandre-Orientale,205.0
-1300,WAVRE,WAVRE,Brabant Wallon,490.0
-2235,Westmeerbeek,HULSHOUT,Anvers,461.0
-3271,Zichem,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,197.0
-2980,ZOERSEL,ZOERSEL,Anvers,530.0
-4317,Aineffe,FAIMES,Liège,350.0
-4770,AMBLÈVE,AMBLÈVE,Liège,8.0
-6150,ANDERLUES,ANDERLUES,Hainaut,34.0
-4821,Andrimont,DISON,Liège,21.0
-5537,ANHÉE,ANHÉE,Namur,83.0
-9404,Aspelare,NINOVE,Flandre-Orientale,237.0
-7387,Athis,HONNELLES,Hainaut,125.0
-4880,AUBEL,AUBEL,Liège,481.0
-1160,AUDERGHEM,AUDERGHEM,Bruxelles (19 communes),545.0
-7331,Baudour,SAINT-GHISLAIN,Hainaut,40.0
-1401,Baulers,NIVELLES,Brabant Wallon,272.0
-3580,BERINGEN,BERINGEN,Limbourg,195.0
-4831,Bilstain,LIMBOURG,Liège,7.0
-1367,Bomal,RAMILLIES,Brabant Wallon,379.0
-8450,BREDENE,BREDENE,Flandre-Occidentale,111.0
-3380,Bunsbeek,GLABBEEK,Brabant Flamand,478.0
-6230,Buzet,PONT-À-CELLES,Hainaut,113.0
-4367,CRISNÉE,CRISNÉE,Liège,162.0
-3700,Diets-Heur,TONGEREN,Limbourg,203.0
-9630,Dikkele,ZWALM,Flandre-Orientale,420.0
-3650,DILSEN-STOKKEM,DILSEN-STOKKEM,Limbourg,191.0
-9700,Edelare,OUDENAARDE,Flandre-Orientale,271.0
-8480,Eernegem,ICHTEGEM,Flandre-Occidentale,229.0
-9140,Elversele,TEMSE,Flandre-Orientale,313.0
-9420,Erpe,ERPE-MERE,Flandre-Orientale,291.0
-4950,Faymonville,WAIMES,Liège,370.0
-4190,FERRIÈRES,FERRIÈRES,Liège,157.0
-5620,Flavion,FLORENNES,Namur,68.0
-7911,Frasnes-Lez-Buissenal,FRASNES-LEZ-ANVAING,Hainaut,249.0
-5030,GEMBLOUX,GEMBLOUX,Namur,179.0
-5680,Gimnée,DOISCHE,Namur,143.0
-9090,Gontrode,MELLE,Flandre-Orientale,506.0
-3800,Groot-Gelmen,SINT-TRUIDEN,Limbourg,206.0
-6782,Habergy,MESSANCY,Luxembourg,432.0
-7911,Hacquegnies,FRASNES-LEZ-ANVAING,Hainaut,249.0
-5351,Haillot,OHEY,Namur,236.0
-4180,HAMOIR,HAMOIR,Liège,94.0
-8551,Heestert,ZWEVEGEM,Flandre-Occidentale,156.0
-2801,Heffen,MECHELEN,Anvers,479.0
-4480,Hermalle-Sous-Huy,ENGIS,Liège,24.0
-7911,Herquegies,FRASNES-LEZ-ANVAING,Hainaut,249.0
-8501,Heule,KORTRIJK,Flandre-Occidentale,391.0
-2880,Hingene,BORNEM,Anvers,443.0
-3390,Houwaart,TIELT-WINGE,Brabant Flamand,338.0
-1654,Huizingen,BEERSEL,Brabant Flamand,492.0
-3800,Kerkom-Bij-Sint-Truiden,SINT-TRUIDEN,Limbourg,206.0
-5080,LA BRUYÈRE,LA BRUYÈRE,Namur,467.0
-6767,Lamorteau,ROUVROY,Luxembourg,46.0
-8340,Lapscheure,DAMME,Flandre-Occidentale,542.0
-9340,LEDE,LEDE,Flandre-Orientale,281.0
-3061,Leefdaal,BERTEM,Brabant Flamand,513.0
-1750,LENNIK,LENNIK,Brabant Flamand,554.0
-4280,Lens-Saint-Remy,HANNUT,Liège,200.0
-4360,Lens-Sur-Geer,OREYE,Liège,100.0
-9930,LIEVEGEM,LIEVEGEM,Flandre-Orientale,409.0
-3545,Loksbergen,HALEN,Limbourg,201.0
-5310,Longchamps,EGHEZÉE,Namur,340.0
-7700,Luingne,MOUSCRON,Hainaut,147.0
-7812,Mainvault,ATH,Hainaut,104.0
-6810,Jamoigne,CHINY,Luxembourg,255.0
-3770,Kanne,RIEMST,Limbourg,297.0
-3870,Klein-Gelmen,HEERS,Limbourg,155.0
-3700,Koninksem,TONGEREN,Limbourg,203.0
-2430,LAAKDAL,LAAKDAL,Anvers,288.0
-9280,LEBBEKE,LEBBEKE,Flandre-Orientale,394.0
-2890,Lippelo,PUURS-SINT-AMANDS,Anvers,390.0
-6042,Lodelinsart,CHARLEROI,Hainaut,19.0
-8570,ANZEGEM,ANZEGEM,Flandre-Occidentale,292.0
-3460,Assent,BEKKEVOORT,Brabant Flamand,226.0
-5580,Ave-Et-Auffe,ROCHEFORT,Namur,110.0
-9690,Berchem,KLUISBERGEN,Flandre-Orientale,359.0
-6531,Biesme-Sous-Thuin,THUIN,Hainaut,106.0
-4607,Bombaye,DALHEM,Liège,333.0
-5021,Boninne,NAMUR,Namur,276.0
-5032,Bothey,GEMBLOUX,Namur,179.0
-6927,Bure,TELLIN,Luxembourg,84.0
-6743,Buzenol,ETALLE,Luxembourg,375.0
-5550,Chairière,VRESSE-SUR-SEMOIS,Namur,77.0
-7160,CHAPELLE-LEZ-HERLAIMONT,CHAPELLE-LEZ-HERLAIMONT,Hainaut,400.0
-4537,Chapon-Seraing,VERLAINE,Liège,378.0
-6810,CHINY,CHINY,Luxembourg,255.0
-9170,De Klinge,SINT-GILLIS-WAAS,Flandre-Orientale,253.0
-5310,EGHEZÉE,EGHEZÉE,Namur,340.0
-3740,Eigenbilzen,BILZEN,Limbourg,182.0
-9790,Elsegem,WORTEGEM-PETEGEM,Flandre-Orientale,512.0
-4053,Embourg,CHAUDFONTAINE,Liège,254.0
-4800,Ensival,VERVIERS,Liège,53.0
-6441,Erpion,FROIDCHAPELLE,Hainaut,4.0
-7080,Eugies,FRAMERIES,Hainaut,10.0
-4607,Feneur,DALHEM,Liège,333.0
-4347,FEXHE-LE-HAUT-CLOCHER,FEXHE-LE-HAUT-CLOCHER,Liège,97.0
-4181,Filot,HAMOIR,Liège,94.0
-5650,Fraire,WALCOURT,Namur,33.0
-4347,Freloux,FEXHE-LE-HAUT-CLOCHER,Liège,97.0
-5651,Gourdinne,WALCOURT,Namur,33.0
-6940,Grandhan,DURBUY,Luxembourg,196.0
-3723,Guigoven,KORTESSEM,Limbourg,209.0
-1320,Hamme-Mille,BEAUVECHAIN,Brabant Wallon,544.0
-6767,Harnoncourt,ROUVROY,Luxembourg,46.0
-8340,Hoeke,DAMME,Flandre-Occidentale,542.0
-3471,Hoeleden,KORTENAKEN,Brabant Flamand,265.0
-7110,Houdeng-Goegnies,LA LOUVIÈRE,Hainaut,36.0
-8900,IEPER,IEPER,Flandre-Occidentale,270.0
-1745,Mazenzele,OPWIJK,Brabant Flamand,477.0
-6567,MERBES-LE-CHÂTEAU,MERBES-LE-CHÂTEAU,Hainaut,25.0
-4280,Merdorp,HANNUT,Liège,200.0
-6780,MESSANCY,MESSANCY,Luxembourg,432.0
-7942,Mévergnies-Lez-Lens,BRUGELETTE,Hainaut,72.0
-7070,Mignault,LE ROEULX,Hainaut,234.0
-5361,Mohiville,HAMOIS,Namur,436.0
-3294,Molenstede,DIEST,Brabant Flamand,354.0
-1367,Mont-Saint-André,RAMILLIES,Brabant Wallon,379.0
-7812,Moulbaix,ATH,Hainaut,104.0
-2812,Muizen,MECHELEN,Anvers,479.0
-3400,Neerwinden,LANDEN,Brabant Flamand,85.0
-3700,Nerem,TONGEREN,Limbourg,203.0
-3850,NIEUWERKERKEN,NIEUWERKERKEN,Limbourg,202.0
-8800,Oekene,ROESELARE,Flandre-Occidentale,248.0
-5350,OHEY,OHEY,Namur,236.0
-3960,Opitter,BREE,Limbourg,261.0
-8582,Outrijve,AVELGEM,Flandre-Occidentale,101.0
-7134,Péronnes-Lez-Binche,BINCHE,Hainaut,29.0
-9790,Petegem-Aan-De-Schelde,WORTEGEM-PETEGEM,Flandre-Orientale,512.0
-8647,Pollinkhove,LO-RENINGE,Flandre-Occidentale,411.0
-4171,Poulseur,COMBLAIN-AU-PONT,Liège,59.0
-6464,Rièzes,CHIMAY,Hainaut,115.0
-8755,RUISELEDE,RUISELEDE,Flandre-Occidentale,463.0
-3803,Runkelen,SINT-TRUIDEN,Limbourg,206.0
-5002,Saint-Servais,NAMUR,Namur,276.0
-6982,Samrée,LA ROCHE-EN-ARDENNE,Luxembourg,65.0
-9982,Sint-Jan-In-Eremo,SINT-LAUREINS,Flandre-Orientale,205.0
-2960,Sint-Lenaarts,BRECHT,Anvers,514.0
-6470,SIVRY-RANCE,SIVRY-RANCE,Hainaut,23.0
-8433,Slijpe,MIDDELKERKE,Flandre-Occidentale,62.0
-5680,Soulme,DOISCHE,Namur,143.0
-1933,Sterrebeek,ZAVENTEM,Brabant Flamand,494.0
-6970,TENNEVILLE,TENNEVILLE,Luxembourg,184.0
-2830,Tisselt,WILLEBROEK,Anvers,381.0
-3700,TONGEREN,TONGEREN,Limbourg,203.0
-4530,Vaux-Et-Borset,VILLERS-LE-BOUILLET,Liège,165.0
-9130,Verrebroek,BEVEREN-WAAS,Flandre-Orientale,322.0
-6230,Viesville,PONT-À-CELLES,Hainaut,113.0
-7812,Villers-Notre-Dame,ATH,Hainaut,104.0
-6941,Villers-Sainte-Gertrude,DURBUY,Luxembourg,196.0
-9800,Vinkt,DEINZE,Flandre-Orientale,444.0
-5680,Vodelée,DOISCHE,Namur,143.0
-7131,Waudrez,BINCHE,Hainaut,29.0
-3830,WELLEN,WELLEN,Limbourg,387.0
-3401,Wezeren,LANDEN,Brabant Flamand,85.0
-7370,Wihéries,DOUR,Hainaut,2.0
-8980,Zandvoorde,ZONNEBEKE,Flandre-Occidentale,198.0
-9080,Zeveneken,LOCHRISTI,Flandre-Orientale,522.0
-8660,Adinkerke,DE PANNE,Flandre-Occidentale,117.0
-9890,Asper,GAVERE,Flandre-Orientale,453.0
-6717,ATTERT,ATTERT,Luxembourg,533.0
-6870,Awenne,SAINT-HUBERT,Luxembourg,32.0
-7784,Bas-Warneton,COMINES-WARNETON,Hainaut,536.0
-1852,Beigem,GRIMBERGEN,Brabant Flamand,438.0
-6533,Biercée,THUIN,Hainaut,106.0
-5555,BIÈVRE,BIÈVRE,Namur,52.0
-3052,Blanden,OUD-HEVERLEE,Brabant Flamand,557.0
-7370,Blaugies,DOUR,Hainaut,2.0
-4537,Bodegnée,VERLAINE,Liège,378.0
-7170,Bois-D'Haine,MANAGE,Hainaut,48.0
-3840,Bommershoven,BORGLOON,Limbourg,221.0
-3891,Borlo,GINGELOM,Limbourg,132.0
-4990,Bra,LIERNEUX,Liège,496.0
-1000,BRUXELLES,BRUXELLES,Bruxelles (19 communes),498.0
-3440,Budingen,ZOUTLEEUW,Brabant Flamand,112.0
-7061,Casteau,SOIGNIES,Hainaut,64.0
-1450,CHASTRE,CHASTRE,Brabant Wallon,470.0
-7340,COLFONTAINE,COLFONTAINE,Hainaut,6.0
-2100,Deurne,ANTWERPEN,Anvers,339.0
-8951,Dranouter,HEUVELLAND,Flandre-Occidentale,51.0
-8380,Dudzele,BRUGGE,Flandre-Occidentale,458.0
-3080,Duisburg,TERVUREN,Brabant Flamand,571.0
-7190,ECAUSSINNES,ECAUSSINNES,Hainaut,122.0
-4120,Ehein,NEUPRÉ,Liège,476.0
-2430,Eindhout,LAAKDAL,Anvers,288.0
-9700,Eine,OUDENAARDE,Flandre-Orientale,271.0
-1980,Eppegem,ZEMST,Brabant Flamand,523.0
-5101,Erpent,NAMUR,Namur,276.0
-8587,Espierres,ESPIERRES-HELCHIN,Flandre-Occidentale,280.0
-5070,FOSSES-LA-VILLE,FOSSES-LA-VILLE,Namur,114.0
-3798,Fouron-Le-Comte,FOURONS,Limbourg,460.0
-5600,Franchimont,PHILIPPEVILLE,Namur,39.0
-6280,GERPINNES,GERPINNES,Hainaut,287.0
-8470,GISTEL,GISTEL,Flandre-Occidentale,392.0
-4400,Gleixhe,FLÉMALLE,Liège,78.0
-5530,Godinne,YVOIR,Namur,286.0
-9620,Godveerdegem,ZOTTEGEM,Flandre-Orientale,246.0
-5555,Graide,BIÈVRE,Namur,52.0
-2220,Hallaar,HEIST-OP-DEN-BERG,Anvers,446.0
-5360,HAMOIS,HAMOIS,Namur,436.0
-4040,HERSTAL,HERSTAL,Liège,96.0
-5563,Hour,HOUYET,Namur,215.0
-9130,Kallo,BEVEREN-WAAS,Flandre-Orientale,322.0
-8581,Kerkhove,AVELGEM,Flandre-Occidentale,101.0
-4141,Louveigné,SPRIMONT,Liège,308.0
-5101,Loyers,NAMUR,Namur,276.0
-6852,Maissin,PALISEUL,Luxembourg,127.0
-6030,Marchienne-Au-Pont,CHARLEROI,Hainaut,19.0
-6747,Meix-Le-Tige,SAINT-LÉGER,Luxembourg,424.0
-8957,MESSINES,MESSINES,Flandre-Occidentale,51.0
-4850,Montzen,PLOMBIÈRES,Liège,126.0
-5550,Mouzaive,VRESSE-SUR-SEMOIS,Namur,77.0
-7332,Neufmaison,SAINT-GHISLAIN,Hainaut,40.0
-6717,Nobressart,ATTERT,Luxembourg,533.0
-6960,Odeigne,MANHAY,Luxembourg,373.0
-9400,Okegem,NINOVE,Flandre-Orientale,237.0
-1745,OPWIJK,OPWIJK,Brabant Flamand,477.0
-6983,Ortho,LA ROCHE-EN-ARDENNE,Luxembourg,65.0
-7120,Peissant,ESTINNES,Hainaut,63.0
-9850,Poesele,DEINZE,Flandre-Orientale,444.0
-2382,Poppel,RAVELS,Anvers,546.0
-2580,PUTTE,PUTTE,Anvers,417.0
-2870,Puurs,PUURS-SINT-AMANDS,Anvers,390.0
-3840,Hendrieken,BORGLOON,Limbourg,221.0
-7350,HENSIES,HENSIES,Hainaut,20.0
-7712,Herseaux,MOUSCRON,Hainaut,147.0
-5377,Heure,SOMME-LEUZE,Namur,73.0
-6637,Hollange,FAUVILLERS,Luxembourg,67.0
-3870,Horpmaal,HEERS,Limbourg,155.0
-6660,HOUFFALIZE,HOUFFALIZE,Luxembourg,80.0
-5560,HOUYET,HOUYET,Namur,215.0
-9630,Hundelgem,ZWALM,Flandre-Orientale,420.0
-5354,Jallet,OHEY,Namur,236.0
-5570,Javingue,BEAURAING,Namur,41.0
-8600,Kaaskerke,DIKSMUIDE,Flandre-Occidentale,348.0
-3293,Kaggevinne,DIEST,Brabant Flamand,354.0
-8851,Koolskamp,ARDOOIE,Flandre-Occidentale,374.0
-7800,Lanquesaint,ATH,Hainaut,104.0
-6681,Lavacherie,SAINTE-ODE,Luxembourg,66.0
-4250,Lens-Saint-Servais,GEER,Liège,160.0
-2460,Lichtaart,KASTERLEE,Anvers,519.0
-6500,Renlies,BEAUMONT,Hainaut,30.0
-8460,Roksem,OUDENBURG,Flandre-Occidentale,228.0
-4140,Rouvreux,SPRIMONT,Liège,308.0
-7750,Russeignies,MONT-DE-L'ENCLUS,Hainaut,310.0
-6870,SAINT-HUBERT,SAINT-HUBERT,Luxembourg,32.0
-6762,Saint-Mard,VIRTON,Luxembourg,133.0
-7030,Saint-Symphorien,MONS,Hainaut,38.0
-7080,Sars-La-Bruyère,FRAMERIES,Hainaut,10.0
-3270,SCHERPENHEUVEL-ZICHEM,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,197.0
-5521,Serville,ONHAYE,Namur,108.0
-6560,Solre-Sur-Sambre,ERQUELINNES,Hainaut,14.0
-4163,Tavier,ANTHISNES,Liège,43.0
-6536,Thuillies,THUIN,Hainaut,106.0
-6717,Tontelange,ATTERT,Luxembourg,533.0
-6833,Ucimont,BOUILLON,Luxembourg,37.0
-5020,Vedrin,NAMUR,Namur,276.0
-4460,Velroux,GRÂCE-HOLLOGNE,Liège,45.0
-8570,Vichte,ANZEGEM,Flandre-Occidentale,292.0
-7070,Ville-Sur-Haine,LE ROEULX,Hainaut,234.0
-5600,Vodecée,PHILIPPEVILLE,Namur,39.0
-4451,Voroux-Lez-Liers,JUPRELLE,Liège,405.0
-4570,Vyle-Et-Tharoul,MARCHIN,Liège,168.0
-8020,Waardamme,OOSTKAMP,Flandre-Occidentale,482.0
-2550,Waarloos,KONTICH,Anvers,468.0
-6600,Wardin,BASTOGNE,Luxembourg,166.0
-8610,Zarren,KORTEMARK,Flandre-Occidentale,141.0
-9520,Zonnegem,SINT-LIEVENS-HOUTEM,Flandre-Orientale,319.0
-3440,ZOUTLEEUW,ZOUTLEEUW,Brabant Flamand,112.0
-8690,ALVERINGEM,ALVERINGEM,Flandre-Occidentale,414.0
-6791,Athus,AUBANGE,Luxembourg,279.0
-8630,Avekapelle,VEURNE,Flandre-Occidentale,431.0
-9630,Beerlegem,ZWALM,Flandre-Orientale,420.0
-6941,Bende,DURBUY,Luxembourg,196.0
-5640,Biesmerée,METTET,Namur,139.0
-1440,BRAINE-LE-CHÂTEAU,BRAINE-LE-CHÂTEAU,Brabant Wallon,440.0
-5300,Coutisse,ANDENNE,Namur,93.0
-9450,Denderhoutem,HAALTERT,Flandre-Orientale,278.0
-5537,Denée,ANHÉE,Namur,83.0
-8792,Desselgem,WAREGEM,Flandre-Occidentale,300.0
-9042,Desteldonk,GENT,Flandre-Orientale,491.0
-3290,DIEST,DIEST,Brabant Flamand,354.0
-3803,Duras,SINT-TRUIDEN,Limbourg,206.0
-4690,Eben-Emael,BASSENGE,Liège,118.0
-2910,ESSEN,ESSEN,Anvers,275.0
-4631,Evegnée,SOUMAGNE,Liège,159.0
-7170,Fayt-Lez-Manage,MANAGE,Hainaut,48.0
-3790,Fouron-Saint-Martin,FOURONS,Limbourg,460.0
-5150,Franière,FLOREFFE,Namur,183.0
-4250,GEER,GEER,Liège,160.0
-2275,Gierle,LILLE,Anvers,452.0
-1755,GOOIK,GOOIK,Brabant Flamand,503.0
-3840,Gotem,BORGLOON,Limbourg,221.0
-9450,HAALTERT,HAALTERT,Flandre-Orientale,278.0
-6720,HABAY,HABAY,Luxembourg,332.0
-5621,Hanzinelle,FLORENNES,Namur,68.0
-1130,Haren,BRUXELLES,Bruxelles (19 communes),498.0
-6960,Harre,MANHAY,Luxembourg,373.0
-5541,Hastière-Par-Delà,HASTIÈRE,Namur,16.0
-5543,Heer,HASTIÈRE,Namur,16.0
-2830,Heindonk,WILLEBROEK,Anvers,381.0
-1790,Hekelgem,AFFLIGEM,Brabant Flamand,445.0
-3530,Helchteren,HOUTHALEN-HELCHTEREN,Limbourg,207.0
-7830,Hellebecq,SILLY,Hainaut,231.0
-4650,HERVE,HERVE,Liège,384.0
-4671,Housse,BLÉGNY,Liège,369.0
-8630,Houtem,VEURNE,Flandre-Occidentale,431.0
-8480,ICHTEGEM,ICHTEGEM,Flandre-Occidentale,229.0
-8770,INGELMUNSTER,INGELMUNSTER,Flandre-Occidentale,329.0
-6941,Izier,DURBUY,Luxembourg,196.0
-3890,Jeuk,GINGELOM,Limbourg,132.0
-2560,Kessel,NIJLEN,Anvers,327.0
-8610,KORTEMARK,KORTEMARK,Flandre-Occidentale,141.0
-8520,KUURNE,KUURNE,Flandre-Occidentale,135.0
-8920,Langemark,LANGEMARK-POELKAPELLE,Flandre-Occidentale,173.0
-1380,LASNE,LASNE,Brabant Wallon,580.0
-3700,Mal,TONGEREN,Limbourg,203.0
-6900,MARCHE-EN-FAMENNE,MARCHE-EN-FAMENNE,Luxembourg,82.0
-9030,Mariakerke,GENT,Flandre-Orientale,491.0
-1350,Marilles,ORP-JAUCHE,Brabant Wallon,222.0
-2450,MEERHOUT,MEERHOUT,Anvers,334.0
-7822,Meslin-L'Evêque,ATH,Hainaut,104.0
-8760,MEULEBEKE,MEULEBEKE,Flandre-Occidentale,175.0
-7141,Mont-Sainte-Aldegonde,MORLANWELZ,Hainaut,35.0
-3890,Montenaken,GINGELOM,Limbourg,132.0
-6560,Montignies-Saint-Christophe,ERQUELINNES,Hainaut,14.0
-4608,Neufchâteau,DALHEM,Liège,333.0
-8620,NIEUWPOORT,NIEUWPOORT,Flandre-Occidentale,364.0
-6851,Nollevaux,PALISEUL,Luxembourg,127.0
-9520,Oombergen,SINT-LIEVENS-HOUTEM,Flandre-Orientale,319.0
-9420,Ottergem,ERPE-MERE,Flandre-Orientale,291.0
-1340,Ottignies,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,515.0
-9700,OUDENAARDE,OUDENAARDE,Flandre-Orientale,271.0
-3212,Pellenberg,LUBBEEK,Brabant Flamand,480.0
-7600,PÉRUWELZ,PÉRUWELZ,Hainaut,177.0
-8970,POPERINGE,POPERINGE,Flandre-Occidentale,150.0
-4350,Pousset,REMICOURT,Liège,188.0
-5660,Presgaux,COUVIN,Namur,54.0
-6532,Ragnies,THUIN,Hainaut,106.0
-6470,Rance,SIVRY-RANCE,Hainaut,23.0
-4790,Reuland,BURG-REULAND,Liège,87.0
-3700,Riksingen,TONGEREN,Limbourg,203.0
-7623,Rongy,BRUNEHAUT,Hainaut,493.0
-1760,ROOSDAAL,ROOSDAAL,Brabant Flamand,434.0
-6747,SAINT-LÉGER,SAINT-LÉGER,Luxembourg,424.0
-6730,Saint-Vincent,TINTIGNY,Luxembourg,304.0
-5600,Sautour,PHILIPPEVILLE,Namur,39.0
-8700,Schuiferskapelle,TIELT,Flandre-Occidentale,289.0
-6832,Sensenruth,BOUILLON,Luxembourg,37.0
-5630,Senzeilles,CERFONTAINE,Namur,17.0
-6640,Sibret,VAUX-SUR-SÛRE,Luxembourg,151.0
-9170,SINT-GILLIS-WAAS,SINT-GILLIS-WAAS,Flandre-Orientale,253.0
-9980,SINT-LAUREINS,SINT-LAUREINS,Flandre-Orientale,205.0
-9667,Sint-Maria-Horebeke,HOREBEKE,Flandre-Orientale,535.0
-1600,SINT-PIETERS-LEEUW,SINT-PIETERS-LEEUW,Brabant Flamand,455.0
-3800,SINT-TRUIDEN,SINT-TRUIDEN,Limbourg,206.0
-2940,STABROEK,STABROEK,Anvers,267.0
-7618,Taintignies,RUMES,Hainaut,57.0
-3390,Tielt,TIELT-WINGE,Brabant Flamand,338.0
-1495,Tilly,VILLERS-LA-VILLE,Brabant Wallon,429.0
-2431,Varendonk,LAAKDAL,Anvers,288.0
-3870,Vechmaal,HEERS,Limbourg,155.0
-8902,Voormezele,IEPER,Flandre-Occidentale,270.0
-3740,Waltwilder,BILZEN,Limbourg,182.0
-6224,Wanfercée-Baulet,FLEURUS,Hainaut,31.0
-1410,WATERLOO,WATERLOO,Brabant Wallon,558.0
-9988,Watervliet,SINT-LAUREINS,Flandre-Orientale,205.0
-4860,Wegnez,PEPINSTER,Liège,69.0
-2040,Zandvliet,ANTWERPEN,Anvers,339.0
-3545,Zelem,HALEN,Limbourg,201.0
-1731,Zellik,ASSE,Brabant Flamand,393.0
-9620,ZOTTEGEM,ZOTTEGEM,Flandre-Orientale,246.0
-8904,Zuidschote,IEPER,Flandre-Occidentale,270.0
-3742,Martenslinde,BILZEN,Limbourg,182.0
-9700,Mater,OUDENAARDE,Flandre-Orientale,271.0
-3670,Meeuwen,OUDSBERGEN,Limbourg,99.0
-1820,Melsbroek,STEENOKKERZEEL,Brabant Flamand,543.0
-6567,Merbes-Sainte-Marie,MERBES-LE-CHÂTEAU,Hainaut,25.0
-7911,Montroeul-Au-Bois,FRASNES-LEZ-ANVAING,Hainaut,249.0
-5360,Natoye,HAMOIS,Namur,436.0
-9506,Nieuwenhove,GERAARDSBERGEN,Flandre-Orientale,211.0
-7866,Ollignies,LESSINES,Hainaut,131.0
-4252,Omal,GEER,Liège,160.0
-6900,On,MARCHE-EN-FAMENNE,Luxembourg,82.0
-8340,Oostkerke,DAMME,Flandre-Occidentale,542.0
-6852,Opont,PALISEUL,Luxembourg,127.0
-4102,Ougrée,SERAING,Liège,28.0
-3900,Overpelt,PELT,Limbourg,433.0
-4219,Acosse,WASSEIGES,Liège,233.0
-7750,Amougies,MONT-DE-L'ENCLUS,Hainaut,310.0
-9800,Astene,DEINZE,Flandre-Orientale,444.0
-9968,Bassevelde,ASSENEDE,Flandre-Orientale,341.0
-7532,Béclers,TOURNAI,Hainaut,262.0
-2580,Beerzel,PUTTE,Anvers,417.0
-8691,Beveren-Aan-De-Ijzer,ALVERINGEM,Flandre-Occidentale,414.0
-6690,Bihain,VIELSALM,Luxembourg,98.0
-9961,Boekhoute,ASSENEDE,Flandre-Orientale,341.0
-5081,Bovesse,LA BRUYÈRE,Namur,467.0
-7760,CELLES,CELLES,Hainaut,142.0
-4654,Charneux,HERVE,Liège,384.0
-4890,Clermont,THIMISTER-CLERMONT,Liège,356.0
-8890,Dadizele,MOORSLEDE,Flandre-Occidentale,441.0
-8630,De Moeren,VEURNE,Flandre-Occidentale,431.0
-3590,DIEPENBEEK,DIEPENBEEK,Limbourg,223.0
-6960,Dochamps,MANHAY,Luxembourg,373.0
-9130,Doel,BEVEREN-WAAS,Flandre-Orientale,322.0
-5670,Dourbes,VIROINVAL,Namur,13.0
-7191,Ecaussinnes-Lalaing,ECAUSSINNES,Hainaut,122.0
-3630,Eisden,MAASMECHELEN,Limbourg,273.0
-9810,Eke,NAZARETH,Flandre-Orientale,423.0
-3800,Engelmanshoven,SINT-TRUIDEN,Limbourg,206.0
-7743,Esquelmes,PECQ,Hainaut,138.0
-7120,Estinnes-Au-Val,ESTINNES,Hainaut,63.0
-5500,Falmagne,DINANT,Namur,134.0
-5620,FLORENNES,FLORENNES,Namur,68.0
-1190,FOREST,FOREST,Bruxelles (19 communes),474.0
-6440,Fourbechies,FROIDCHAPELLE,Hainaut,4.0
-8980,Geluveld,ZONNEBEKE,Flandre-Occidentale,198.0
-3770,Genoelselderen,RIEMST,Limbourg,297.0
-9860,Gijzenzele,OOSTERZELE,Flandre-Orientale,447.0
-9500,Goeferdinge,GERAARDSBERGEN,Flandre-Orientale,211.0
-6030,Goutroux,CHARLEROI,Hainaut,19.0
-4030,Grivegnée,LIÈGE,Liège,89.0
-8560,Gullegem,WEVELGEM,Flandre-Occidentale,128.0
-6792,Halanzy,AUBANGE,Luxembourg,279.0
-1500,HALLE,HALLE,Brabant Flamand,399.0
-3930,Hamont,HAMONT-ACHEL,Limbourg,349.0
-3730,HOESELT,HOESELT,Limbourg,90.0
-7822,Isières,ATH,Hainaut,104.0
-7050,JURBISE,JURBISE,Hainaut,336.0
-1755,Kester,GOOIK,Brabant Flamand,503.0
-2550,KONTICH,KONTICH,Anvers,468.0
-7622,Laplaigne,BRUNEHAUT,Hainaut,493.0
-1502,Lembeek,HALLE,Brabant Flamand,399.0
-9820,Lemberge,MERELBEKE,Flandre-Orientale,465.0
-6210,LES BONS VILLERS,LES BONS VILLERS,Hainaut,263.0
-6830,Les Hayons,BOUILLON,Luxembourg,37.0
-8647,Lo,LO-RENINGE,Flandre-Occidentale,411.0
-8210,Loppem,ZEDELGEM,Flandre-Occidentale,430.0
-4600,Richelle,VISÉ,Liège,161.0
-1330,RIXENSART,RIXENSART,Brabant Wallon,568.0
-6767,ROUVROY,ROUVROY,Luxembourg,46.0
-7540,Rumillies,TOURNAI,Hainaut,262.0
-Saint-Nicolas,SAINT-NICOLAS,SAINT-NICOLAS,Liège,12.0
-6460,Saint-Remy,CHIMAY,Hainaut,115.0
-6680,SAINTE-ODE,SAINTE-ODE,Luxembourg,66.0
-1480,Saintes,TUBIZE,Brabant Wallon,189.0
-5060,SAMBREVILLE,SAMBREVILLE,Namur,79.0
-3540,Schulen,HERK-DE-STAD,Limbourg,406.0
-6940,Septon,DURBUY,Luxembourg,196.0
-9660,Sint-Maria-Oudenhove,BRAKEL,Flandre-Orientale,371.0
-3220,Sint-Pieters-Rode,HOLSBEEK,Brabant Flamand,525.0
-4450,Slins,JUPRELLE,Liège,405.0
-6182,Souvret,COURCELLES,Hainaut,42.0
-1820,STEENOKKERZEEL,STEENOKKERZEEL,Brabant Flamand,543.0
-9190,STEKENE,STEKENE,Flandre-Orientale,306.0
-3512,Stevoort,HASSELT,Limbourg,412.0
-4577,Strée-Lez-Huy,MODAVE,Liège,144.0
-6717,Thiaumont,ATTERT,Luxembourg,533.0
-2260,Tongerlo,WESTERLO,Anvers,422.0
-5670,Treignes,VIROINVAL,Namur,13.0
-5310,Upigny,EGHEZÉE,Namur,340.0
-6462,Vaulx-Lez-Chimay,CHIMAY,Hainaut,115.0
-7538,Vezon,TOURNAI,Hainaut,262.0
-6769,Villers-La-Loue,MEIX-DEVANT-VIRTON,Luxembourg,193.0
-4453,Villers-Saint-Siméon,JUPRELLE,Liège,405.0
-6760,VIRTON,VIRTON,Luxembourg,133.0
-3724,Vliermaal,KORTESSEM,Limbourg,209.0
-9700,Volkegem,OUDENAARDE,Flandre-Orientale,271.0
-4711,Walhorn,LONTZEN,Liège,326.0
-6780,Wolkrange,MESSANCY,Luxembourg,432.0
-9080,Zaffelare,LOCHRISTI,Flandre-Orientale,522.0
-1930,ZAVENTEM,ZAVENTEM,Brabant Flamand,494.0
-9840,Zevergem,DE PINTE,Flandre-Orientale,560.0
-5362,Achet,HAMOIS,Namur,436.0
-4601,Argenteau,VISÉ,Liège,161.0
-3384,Attenrode,GLABBEEK,Brabant Flamand,478.0
-7040,Aulnois,QUÉVY,Hainaut,74.0
-4280,Avernas-Le-Bauduin,HANNUT,Liège,200.0
-5570,BEAURAING,BEAURAING,Namur,41.0
-1320,BEAUVECHAIN,BEAUVECHAIN,Brabant Wallon,544.0
-5555,Bellefontaine,BIÈVRE,Namur,52.0
-3830,Berlingen,WELLEN,Limbourg,387.0
-5651,Berzée,WALCOURT,Namur,33.0
-4560,Bois-Et-Borsu,CLAVIER,Liège,119.0
-8583,Bossuit,AVELGEM,Flandre-Occidentale,101.0
-7110,Boussoit,LA LOUVIÈRE,Hainaut,36.0
-4020,Bressoux,LIÈGE,Liège,89.0
-3800,Brustem,SINT-TRUIDEN,Limbourg,206.0
-5555,Cornimont,BIÈVRE,Namur,52.0
-6536,Donstiennes,THUIN,Hainaut,106.0
-5530,Dorinne,YVOIR,Namur,286.0
-9320,Erembodegem,AALST,Flandre-Orientale,247.0
-7387,Erquennes,HONNELLES,Hainaut,125.0
-8587,ESPIERRES-HELCHIN,ESPIERRES-HELCHIN,Flandre-Occidentale,280.0
-6856,Fays-Les-Veneurs,PALISEUL,Luxembourg,127.0
-4620,FLÉRON,FLÉRON,Liège,91.0
-3380,GLABBEEK,GLABBEEK,Brabant Flamand,478.0
-5680,Gochenée,DOISCHE,Namur,143.0
-7160,Godarville,CHAPELLE-LEZ-HERLAIMONT,Hainaut,400.0
-3450,Grazen,GEETBETS,Brabant Flamand,148.0
-6927,Grupont,TELLIN,Luxembourg,84.0
-6986,Halleux,LA ROCHE-EN-ARDENNE,Luxembourg,65.0
-6840,Hamipré,NEUFCHÂTEAU,Luxembourg,123.0
-3930,HAMONT-ACHEL,HAMONT-ACHEL,Limbourg,349.0
-6990,Hampteau,HOTTON,Luxembourg,50.0
-5370,HAVELANGE,HAVELANGE,Namur,167.0
-8587,Helchin,ESPIERRES-HELCHIN,Flandre-Occidentale,280.0
-5380,Hemptinne,FERNELMONT,Namur,471.0
-7050,Herchies,JURBISE,Hainaut,336.0
-3770,Herderen,RIEMST,Limbourg,297.0
-9070,Heusden,DESTELBERGEN,Flandre-Orientale,549.0
-1435,Hévillers,MONT-SAINT-GUIBERT,Brabant Wallon,317.0
-9550,Hillegem,HERZELE,Flandre-Orientale,365.0
-4852,Hombourg,PLOMBIÈRES,Liège,126.0
-2320,HOOGSTRATEN,HOOGSTRATEN,Anvers,502.0
-2235,Houtvenne,HULSHOUT,Anvers,461.0
-2235,HULSHOUT,HULSHOUT,Anvers,461.0
-1367,Huppaye,RAMILLIES,Brabant Wallon,379.0
-1350,Jandrain-Jandrenouille,ORP-JAUCHE,Brabant Wallon,222.0
-9970,KAPRIJKE,KAPRIJKE,Flandre-Orientale,529.0
-3472,Kersbeek-Miskom,KORTENAKEN,Brabant Flamand,265.0
-9130,Kieldrecht,BEVEREN-WAAS,Flandre-Orientale,322.0
-3740,Kleine-Spouwen,BILZEN,Limbourg,182.0
-7100,LA LOUVIÈRE,LA LOUVIÈRE,Hainaut,36.0
-1020,Laeken,BRUXELLES,Bruxelles (19 communes),498.0
-3620,LANAKEN,LANAKEN,Limbourg,194.0
-6530,Leers-Et-Fosteau,THUIN,Hainaut,106.0
-5590,Leignon,CINEY,Namur,75.0
-4042,Liers,HERSTAL,Liège,96.0
-9160,LOKEREN,LOKEREN,Flandre-Orientale,342.0
-7870,Lombise,LENS,Hainaut,330.0
-1840,LONDERZEEL,LONDERZEEL,Brabant Flamand,376.0
-9920,Lovendegem,LIEVEGEM,Flandre-Orientale,409.0
-5170,Lustin,PROFONDEVILLE,Namur,344.0
-6591,Macon,MOMIGNIES,Hainaut,3.0
-5060,Moignelée,SAMBREVILLE,Namur,79.0
-4420,Montegnée,SAINT-NICOLAS,Liège,12.0
-7870,Montignies-Lez-Lens,LENS,Hainaut,330.0
-3790,Mouland,FOURONS,Limbourg,460.0
-9636,Nederzwalm-Hermelgem,ZWALM,Flandre-Orientale,420.0
-1390,Nethen,GREZ-DOICEAU,Brabant Wallon,547.0
-7063,Neufvilles,SOIGNIES,Hainaut,64.0
-1930,Nossegem,ZAVENTEM,Brabant Flamand,494.0
-2260,Oevel,WESTERLO,Anvers,422.0
-5670,Olloy-Sur-Viroin,VIROINVAL,Namur,13.0
-8600,Oudekapelle,DIKSMUIDE,Flandre-Occidentale,348.0
-7040,QUÉVY,QUÉVY,Hainaut,74.0
-8880,Rollegem-Kapelle,LEDEGEM,Flandre-Occidentale,210.0
-5680,Romerée,DOISCHE,Namur,143.0
-7601,Roucourt,PÉRUWELZ,Hainaut,177.0
-1601,Ruisbroek,SINT-PIETERS-LEEUW,Brabant Flamand,455.0
-4672,Saint-Remy,BLÉGNY,Liège,369.0
-1030,SCHAERBEEK,SCHAERBEEK,Bruxelles (19 communes),403.0
-9820,Schelderode,MERELBEKE,Flandre-Orientale,465.0
-2960,Sint-Job-In-'T-Goor,BRECHT,Anvers,514.0
-9620,Sint-Maria-Oudenhove,ZOTTEGEM,Flandre-Orientale,246.0
-8433,Sint-Pieters-Kapelle,MIDDELKERKE,Flandre-Occidentale,62.0
-6890,Smuid,LIBIN,Luxembourg,368.0
-5523,Sommière,ONHAYE,Namur,108.0
-8400,Stene,OOSTENDE,Flandre-Occidentale,169.0
-5020,Suarlée,NAMUR,Namur,276.0
-1360,Thorembais-Les-Béguines,PERWEZ,Brabant Wallon,382.0
-4630,Tignée,SOUMAGNE,Liège,159.0
-3120,TREMELO,TREMELO,Brabant Flamand,448.0
-3770,Val-Meer,RIEMST,Limbourg,297.0
-9620,Velzeke-Ruddershove,ZOTTEGEM,Flandre-Orientale,246.0
-6690,VIELSALM,VIELSALM,Luxembourg,98.0
-4260,Ville-En-Hesbaye,BRAIVES,Liège,251.0
-4530,VILLERS-LE-BOUILLET,VILLERS-LE-BOUILLET,Liège,165.0
-8421,Vlissegem,DE HAAN,Flandre-Occidentale,259.0
-3840,Voort,BORGLOON,Limbourg,221.0
-7548,Warchin,TOURNAI,Hainaut,262.0
-8790,WAREGEM,WAREGEM,Flandre-Occidentale,300.0
-3290,Webbekom,DIEST,Brabant Flamand,354.0
-7890,Wodecq,ELLEZELLES,Hainaut,95.0
-1980,ZEMST,ZEMST,Brabant Flamand,523.0
-3700,'S Herenelderen,TONGEREN,Limbourg,203.0
-4432,Alleur,ANS,Liège,70.0
-8850,ARDOOIE,ARDOOIE,Flandre-Occidentale,374.0
-6600,BASTOGNE,BASTOGNE,Luxembourg,166.0
-5001,Belgrade,NAMUR,Namur,276.0
-3360,BIERBEEK,BIERBEEK,Brabant Flamand,562.0
-1547,BIÉVÈNE,BIÉVÈNE,Brabant Flamand,566.0
-8920,Bikschote,LANGEMARK-POELKAPELLE,Flandre-Occidentale,173.0
-7783,Bizet,COMINES-WARNETON,Hainaut,536.0
-6921,Chanly,WELLIN,Luxembourg,337.0
-7521,Chercq,TOURNAI,Hainaut,262.0
-4400,Chokier,FLÉMALLE,Liège,78.0
-9570,Deftinge,LIERDE,Flandre-Orientale,357.0
-8720,DENTERGEM,DENTERGEM,Flandre-Occidentale,507.0
-7050,Erbisoeul,JURBISE,Hainaut,336.0
-3400,Ezemaal,LANDEN,Brabant Flamand,85.0
-7120,Fauroeulx,ESTINNES,Hainaut,63.0
-5370,Flostoy,HAVELANGE,Namur,167.0
-6853,Framont,PALISEUL,Luxembourg,127.0
-3200,Gelrode,AARSCHOT,Brabant Flamand,307.0
-1470,GENAPPE,GENAPPE,Brabant Wallon,504.0
-9800,Gottem,DEINZE,Flandre-Orientale,444.0
-1850,GRIMBERGEN,GRIMBERGEN,Brabant Flamand,438.0
-3440,Halle-Booienhoven,ZOUTLEEUW,Brabant Flamand,112.0
-6900,Hargimont,MARCHE-EN-FAMENNE,Luxembourg,82.0
-7022,Harmignies,MONS,Hainaut,38.0
-6870,Hatrival,SAINT-HUBERT,Luxembourg,32.0
-3940,Hechtel,HECHTEL-EKSEL,Limbourg,124.0
-4680,Hermée,OUPEYE,Liège,130.0
-3550,Heusden,HEUSDEN-ZOLDER,Limbourg,235.0
-4342,Hognoul,AWANS,Liège,347.0
-7060,Horrues,SOIGNIES,Hainaut,64.0
-4845,JALHAY,JALHAY,Liège,508.0
-4357,Jeneffe,DONCEEL,Liège,105.0
-8870,Kachtem,IZEGEM,Flandre-Occidentale,225.0
-1880,KAPELLE-OP-DEN-BOS,KAPELLE-OP-DEN-BOS,Brabant Flamand,500.0
-4367,Kemexhe,CRISNÉE,Liège,162.0
-9451,Kerksken,HAALTERT,Flandre-Orientale,278.0
-4600,Lanaye,VISÉ,Liège,161.0
-5300,Landenne,ANDENNE,Namur,93.0
-6761,Latour,VIRTON,Luxembourg,133.0
-9700,Leupegem,OUDENAARDE,Flandre-Orientale,271.0
-5310,Leuze,EGHEZÉE,Namur,340.0
-5310,Liernu,EGHEZÉE,Namur,340.0
-6463,Lompret,CHIMAY,Hainaut,115.0
-5020,Malonne,NAMUR,Namur,276.0
-8433,Mannekensvere,MIDDELKERKE,Flandre-Occidentale,62.0
-6630,MARTELANGE,MARTELANGE,Luxembourg,355.0
-1785,MERCHTEM,MERCHTEM,Brabant Flamand,413.0
-9500,Moerbeke,GERAARDSBERGEN,Flandre-Orientale,211.0
-1400,Monstreux,NIVELLES,Brabant Wallon,272.0
-5530,Mont,YVOIR,Namur,286.0
-7387,Montignies-Sur-Roc,HONNELLES,Hainaut,125.0
-9860,Moortsele,OOSTERZELE,Flandre-Orientale,447.0
-2640,MORTSEL,MORTSEL,Anvers,328.0
-9700,Nederename,OUDENAARDE,Flandre-Orientale,271.0
-5377,Nettinne,SOMME-LEUZE,Namur,73.0
-3890,Niel-Bij-Sint-Truiden,GINGELOM,Limbourg,132.0
-2491,Olmen,BALEN,Anvers,241.0
-8670,Oostduinkerke,KOKSIJDE,Flandre-Occidentale,325.0
-8980,Passendale,ZONNEBEKE,Flandre-Occidentale,198.0
-5600,PHILIPPEVILLE,PHILIPPEVILLE,Namur,39.0
-7160,Piéton,CHAPELLE-LEZ-HERLAIMONT,Hainaut,400.0
-7782,Ploegsteert,COMINES-WARNETON,Hainaut,536.0
-3840,Rijkel,BORGLOON,Limbourg,221.0
-5620,Rosée,FLORENNES,Namur,68.0
-7034,Saint-Denis,MONS,Hainaut,38.0
-5003,Saint-Marc,NAMUR,Namur,276.0
-6460,Salles,CHIMAY,Hainaut,115.0
-5364,Schaltin,HAMOIS,Namur,436.0
-4100,SERAING,SERAING,Liège,28.0
-9830,SINT-MARTENS-LATEM,SINT-MARTENS-LATEM,Flandre-Orientale,579.0
-1932,Sint-Stevens-Woluwe,ZAVENTEM,Brabant Flamand,494.0
-5651,Somzée,WALCOURT,Namur,33.0
-7061,Thieusies,SOIGNIES,Hainaut,64.0
-4890,THIMISTER-CLERMONT,THIMISTER-CLERMONT,Liège,356.0
-5140,Tongrinne,SOMBREFFE,Namur,219.0
-4280,Trognée,HANNUT,Liège,200.0
-4347,Voroux-Goreux,FEXHE-LE-HAUT-CLOCHER,Liège,97.0
-3770,Vroenhoven,RIEMST,Limbourg,297.0
-3401,Waasmont,LANDEN,Brabant Flamand,85.0
-5650,WALCOURT,WALCOURT,Namur,33.0
-5580,Wavreille,ROCHEFORT,Namur,110.0
-4840,WELKENRAEDT,WELKENRAEDT,Liège,172.0
-3020,Winksele,HERENT,Brabant Flamand,518.0
-9800,Wontergem,DEINZE,Flandre-Orientale,444.0
-9790,WORTEGEM-PETEGEM,WORTEGEM-PETEGEM,Flandre-Orientale,512.0
-4190,Xhoris,FERRIÈRES,Liège,157.0
-8380,Zeebrugge,BRUGGE,Flandre-Occidentale,458.0
-3770,Zichen-Zussen-Bolder,RIEMST,Limbourg,297.0
-4520,Antheit,WANZE,Liège,136.0
-2050,ANTWERPEN,ANTWERPEN,Anvers,339.0
-6700,ARLON,ARLON,Luxembourg,311.0
-7040,Asquillies,QUÉVY,Hainaut,74.0
-8580,AVELGEM,AVELGEM,Flandre-Occidentale,101.0
-8600,Beerst,DIKSMUIDE,Flandre-Occidentale,348.0
-6987,Beffe,RENDEUX,Luxembourg,11.0
-7320,BERNISSART,BERNISSART,Hainaut,107.0
-3950,BOCHOLT,BOCHOLT,Limbourg,252.0
-4250,Boëlhe,GEER,Liège,160.0
-4653,Bolland,HERVE,Liège,384.0
-9820,Bottelare,MERELBEKE,Flandre-Orientale,465.0
-1470,Bousval,GENAPPE,Brabant Wallon,504.0
-7141,Carnières,MORLANWELZ,Hainaut,35.0
-1450,Cortil-Noirmont,CHASTRE,Brabant Wallon,470.0
-6880,Cugnon,BERTRIX,Luxembourg,58.0
-9200,DENDERMONDE,DENDERMONDE,Flandre-Orientale,243.0
-8740,Egem,PITTEM,Flandre-Occidentale,395.0
-9620,Elene,ZOTTEGEM,Flandre-Orientale,246.0
-2520,Emblem,RANST,Anvers,527.0
-9420,ERPE-MERE,ERPE-MERE,Flandre-Orientale,291.0
-5020,Flawinne,NAMUR,Namur,276.0
-4540,Flône,AMAY,Liège,27.0
-5572,Focant,BEAURAING,Namur,41.0
-6800,Freux,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-5500,Furfooz,DINANT,Namur,134.0
-7530,Gaurain-Ramecroix,TOURNAI,Hainaut,262.0
-5024,Gelbressée,NAMUR,Namur,276.0
-8570,Gijzelbrechtegem,ANZEGEM,Flandre-Occidentale,292.0
-2280,GROBBENDONK,GROBBENDONK,Anvers,464.0
-6723,Habay-La-Vieille,HABAY,Luxembourg,332.0
-4357,Haneffe,DONCEEL,Liège,105.0
-5540,HASTIÈRE,HASTIÈRE,Namur,16.0
-7021,Havré,MONS,Hainaut,38.0
-3740,Hees,BILZEN,Limbourg,182.0
-2620,HEMIKSEM,HEMIKSEM,Anvers,301.0
-4682,Heure-Le-Romain,OUPEYE,Liège,130.0
-9667,HOREBEKE,HOREBEKE,Flandre-Orientale,535.0
-3530,Houthalen,HOUTHALEN-HELCHTEREN,Limbourg,207.0
-9750,Huise,KRUISEM,Flandre-Orientale,511.0
-5560,Hulsonniaux,HOUYET,Namur,215.0
-1540,HERNE,HERNE,Brabant Flamand,495.0
-4217,HÉRON,HÉRON,Liège,351.0
-1350,Jauche,ORP-JAUCHE,Brabant Wallon,222.0
-1910,KAMPENHOUT,KAMPENHOUT,Brabant Flamand,556.0
-8510,Kooigem,KORTRIJK,Flandre-Occidentale,391.0
-3470,KORTENAKEN,KORTENAKEN,Brabant Flamand,265.0
-4910,La Reid,THEUX,Liège,294.0
-5580,Lavaux-Sainte-Anne,ROCHEFORT,Namur,110.0
-1755,Leerbeek,GOOIK,Brabant Flamand,503.0
-2811,Leest,MECHELEN,Anvers,479.0
-8810,LICHTERVELDE,LICHTERVELDE,Flandre-Occidentale,324.0
-5140,Ligny,SOMBREFFE,Namur,219.0
-9680,Maarke-Kerkem,MAARKEDAL,Flandre-Orientale,408.0
-6120,Marbaix,HAM-SUR-HEURE,Hainaut,320.0
-5380,Marchovelette,FERNELMONT,Namur,471.0
-2880,Mariekerke,BORNEM,Anvers,443.0
-7050,Masnuy-Saint-Jean,JURBISE,Hainaut,336.0
-2328,Meerle,HOOGSTRATEN,Anvers,502.0
-8377,Meetkerke,ZUIENKERKE,Flandre-Occidentale,561.0
-2330,MERKSPLAS,MERKSPLAS,Anvers,216.0
-9400,Nederhasselt,NINOVE,Flandre-Orientale,237.0
-9771,Nokere,KRUISEM,Flandre-Orientale,511.0
-4347,Noville,FEXHE-LE-HAUT-CLOCHER,Liège,97.0
-4300,Oleye,WAREMME,Liège,116.0
-8600,Oostkerke,DIKSMUIDE,Flandre-Occidentale,348.0
-3870,Opheers,HEERS,Limbourg,155.0
-6880,Orgeo,BERTRIX,Luxembourg,58.0
-1350,ORP-JAUCHE,ORP-JAUCHE,Brabant Wallon,222.0
-3040,Ottenburg,HULDENBERG,Brabant Flamand,565.0
-3321,Outgaarden,HOEGAARDEN,Brabant Flamand,510.0
-7322,Pommeroeul,BERNISSART,Hainaut,107.0
-4610,Queue-Du-Bois,BEYNE-HEUSAY,Liège,164.0
-1367,RAMILLIES,RAMILLIES,Brabant Wallon,379.0
-7804,Rebaix,ATH,Hainaut,104.0
-5580,ROCHEFORT,ROCHEFORT,Namur,110.0
-4120,Rotheux-Rimière,NEUPRÉ,Liège,476.0
-9630,Rozebeke,ZWALM,Flandre-Orientale,420.0
-5190,Saint-Martin,JEMEPPE-SUR-SAMBRE,Namur,71.0
-1370,Saint-Remy-Geest,JODOIGNE,Brabant Wallon,489.0
-5300,Seilles,ANDENNE,Namur,93.0
-8730,Sint-Joris,BEERNEM,Flandre-Occidentale,483.0
-9042,Sint-Kruis-Winkel,GENT,Flandre-Orientale,491.0
-1750,Sint-Martens-Lennik,LENNIK,Brabant Flamand,554.0
-5340,Sorée,GESVES,Namur,187.0
-5590,Sovet,CINEY,Namur,75.0
-6997,Soy,EREZÉE,Luxembourg,103.0
-2460,Tielen,KASTERLEE,Anvers,519.0
-5600,Villers-En-Fagne,PHILIPPEVILLE,Namur,39.0
-9890,Vurste,GAVERE,Flandre-Orientale,453.0
-9250,WAASMUNSTER,WAASMUNSTER,Flandre-Orientale,567.0
-4980,Wanne,TROIS-PONTS,Liège,361.0
-1170,WATERMAEL-BOITSFORT,WATERMAEL-BOITSFORT,Bruxelles (19 communes),575.0
-2390,Westmalle,MALLE,Anvers,437.0
-9550,Woubrechtegem,HERZELE,Flandre-Orientale,365.0
-8600,Woumen,DIKSMUIDE,Flandre-Occidentale,348.0
-9750,Zingem,KRUISEM,Flandre-Orientale,511.0
-4540,Ampsin,AMAY,Liège,27.0
-2018,ANTWERPEN,ANTWERPEN,Anvers,339.0
-5170,Arbre,PROFONDEVILLE,Namur,344.0
-7910,Arc-Wattripont,FRASNES-LEZ-ANVAING,Hainaut,249.0
-4280,Avin,HANNUT,Liège,200.0
-9860,Balegem,OOSTERZELE,Flandre-Orientale,447.0
-3870,Batsheers,HEERS,Limbourg,155.0
-9150,Bazel,KRUIBEKE,Flandre-Orientale,439.0
-9120,BEVEREN-WAAS,BEVEREN-WAAS,Flandre-Orientale,322.0
-8904,Boezinge,IEPER,Flandre-Occidentale,270.0
-9552,Borsbeke,HERZELE,Flandre-Orientale,365.0
-5575,Bourseigne-Vieille,GEDINNE,Namur,61.0
-1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Brabant Wallon,488.0
-2960,BRECHT,BRECHT,Anvers,514.0
-3960,BREE,BREE,Limbourg,261.0
-1501,Buizingen,HALLE,Brabant Flamand,399.0
-7870,Cambron-Saint-Vincent,LENS,Hainaut,330.0
-5560,Ciergnon,HOUYET,Namur,215.0
-7910,Cordes,FRASNES-LEZ-ANVAING,Hainaut,249.0
-1490,COURT-SAINT-ETIENNE,COURT-SAINT-ETIENNE,Brabant Wallon,380.0
-5680,DOISCHE,DOISCHE,Namur,143.0
-6972,Erneuville,TENNEVILLE,Luxembourg,184.0
-9940,Ertvelde,EVERGEM,Flandre-Orientale,389.0
-9680,Etikhove,MAARKEDAL,Flandre-Orientale,408.0
-5600,Fagnolle,PHILIPPEVILLE,Namur,39.0
-4317,FAIMES,FAIMES,Liège,350.0
-1570,GALMAARDEN,GALMAARDEN,Brabant Flamand,363.0
-9050,Gentbrugge,GENT,Flandre-Orientale,491.0
-4834,Goé,LIMBOURG,Liège,7.0
-5030,Grand-Manil,GEMBLOUX,Namur,179.0
-6560,Grand-Reng,ERQUELINNES,Hainaut,14.0
-1702,Groot-Bijgaarden,DILBEEK,Brabant Flamand,487.0
-5555,Gros-Fays,BIÈVRE,Namur,52.0
-6950,Harsin,NASSOGNE,Luxembourg,109.0
-3870,HEERS,HEERS,Limbourg,155.0
-3717,HERSTAPPE,HERSTAPPE,Limbourg,129.0
-9550,HERZELE,HERZELE,Flandre-Orientale,365.0
-1701,Itterbeek,DILBEEK,Brabant Flamand,487.0
-3381,Kapellen,GLABBEEK,Brabant Flamand,478.0
-8420,Klemskerke,DE HAAN,Flandre-Occidentale,259.0
-3840,Kolmont,BORGLOON,Limbourg,221.0
-8972,Krombeke,POPERINGE,Flandre-Occidentale,150.0
-7080,La Bouverie,FRAMERIES,Hainaut,10.0
-1310,LA HULPE,LA HULPE,Brabant Wallon,537.0
-6567,Labuissière,MERBES-LE-CHÂTEAU,Hainaut,25.0
-6821,Lacuisine,FLORENVILLE,Luxembourg,22.0
-7890,Lahamaide,ELLEZELLES,Hainaut,95.0
-6220,Lambusart,FLEURUS,Hainaut,31.0
-4000,LIÈGE,LIÈGE,Liège,89.0
-2040,Lillo,ANTWERPEN,Anvers,339.0
-1348,Louvain-La-Neuve,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,515.0
-2240,Massenhoven,ZANDHOVEN,Anvers,451.0
-5372,Méan,HAVELANGE,Namur,167.0
-3391,Meensel-Kiezegem,TIELT-WINGE,Brabant Flamand,338.0
-6769,MEIX-DEVANT-VIRTON,MEIX-DEVANT-VIRTON,Luxembourg,193.0
-9090,MELLE,MELLE,Flandre-Orientale,506.0
-9120,Melsele,BEVEREN-WAAS,Flandre-Orientale,322.0
-4837,Membach,BAELEN,Liège,230.0
-5560,Mesnil-Saint-Blaise,HOUYET,Namur,215.0
-6031,Monceau-Sur-Sambre,CHARLEROI,Hainaut,19.0
-7350,Montroeul-Sur-Haine,HENSIES,Hainaut,20.0
-4850,Moresnet,PLOMBIÈRES,Liège,126.0
-9810,NAZARETH,NAZARETH,Flandre-Orientale,423.0
-3350,Neerhespen,LINTER,Brabant Flamand,264.0
-3350,Neerlinter,LINTER,Brabant Flamand,264.0
-5520,ONHAYE,ONHAYE,Namur,108.0
-9340,Oordegem,LEDE,Flandre-Orientale,281.0
-3300,Oplinter,TIENEN,Brabant Flamand,178.0
-3050,OUD-HEVERLEE,OUD-HEVERLEE,Brabant Flamand,557.0
-7540,Quartes,TOURNAI,Hainaut,262.0
-8647,Reninge,LO-RENINGE,Flandre-Occidentale,411.0
-3202,Rillaar,AARSCHOT,Brabant Flamand,307.0
-4347,Roloux,FEXHE-LE-HAUT-CLOCHER,Liège,97.0
-9932,Ronsele,LIEVEGEM,Flandre-Orientale,409.0
-3650,Rotem,DILSEN-STOKKEM,Limbourg,191.0
-8020,Ruddervoorde,OOSTKAMP,Flandre-Occidentale,482.0
-3400,Rumsdorp,LANDEN,Brabant Flamand,85.0
-5640,Saint-Gérard,METTET,Namur,139.0
-5600,Sart-En-Fagne,PHILIPPEVILLE,Namur,39.0
-5361,Scy,HAMOIS,Namur,436.0
-6596,Seloignes,MOMIGNIES,Hainaut,3.0
-9630,Sint-Blasius-Boekel,ZWALM,Flandre-Orientale,420.0
-7032,Spiennes,MONS,Hainaut,38.0
-4970,STAVELOT,STAVELOT,Liège,277.0
-7110,Strépy-Bracquegnies,LA LOUVIÈRE,Hainaut,36.0
-1402,Thines,NIVELLES,Brabant Wallon,272.0
-4263,Tourinne,BRAIVES,Liège,251.0
-6741,Vance,ETALLE,Luxembourg,375.0
-4537,VERLAINE,VERLAINE,Liège,378.0
-3370,Vertrijk,BOUTERSEM,Brabant Flamand,486.0
-2880,Weert,BORNEM,Anvers,443.0
-6940,Wéris,DURBUY,Luxembourg,196.0
-3730,Werm,HOESELT,Limbourg,90.0
-9260,WICHELEN,WICHELEN,Flandre-Orientale,192.0
-3700,Widooie,TONGEREN,Limbourg,203.0
-3670,Wijshagen,OUDSBERGEN,Limbourg,99.0
-5530,YVOIR,YVOIR,Namur,286.0
-3520,ZONHOVEN,ZONHOVEN,Limbourg,360.0
-3470,Ransberg,KORTENAKEN,Brabant Flamand,265.0
-6800,Recogne,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-2840,Reet,RUMST,Anvers,407.0
-1315,Roux-Miroir,INCOURT,Brabant Wallon,362.0
-6221,Saint-Amand,FLEURUS,Hainaut,31.0
-6781,Sélange,MESSANCY,Luxembourg,432.0
-4537,Seraing-Le-Château,VERLAINE,Liège,378.0
-2890,Sint-Amands,PUURS-SINT-AMANDS,Anvers,390.0
-2860,SINT-KATELIJNE-WAVER,SINT-KATELIJNE-WAVER,Anvers,449.0
-9981,Sint-Margriete,SINT-LAUREINS,Flandre-Orientale,205.0
-1700,Sint-Martens-Bodegem,DILBEEK,Brabant Flamand,487.0
-1541,Sint-Pieters-Kapelle,HERNE,Brabant Flamand,495.0
-3700,Sluizen,TONGEREN,Limbourg,203.0
-4900,SPA,SPA,Liège,520.0
-5530,Spontin,YVOIR,Namur,286.0
-4890,Thimister,THIMISTER-CLERMONT,Liège,356.0
-3631,Uikhoven,MAASMECHELEN,Limbourg,273.0
-6210,Villers-Perwin,LES BONS VILLERS,Hainaut,263.0
-8460,Westkerke,OUDENBURG,Flandre-Occidentale,228.0
-3850,Wijer,NIEUWERKERKEN,Limbourg,202.0
-4652,Xhendelesse,HERVE,Liège,384.0
-4280,Abolens,HANNUT,Liège,200.0
-5300,ANDENNE,ANDENNE,Namur,93.0
-7387,Angre,HONNELLES,Hainaut,125.0
-5500,Anseremme,DINANT,Namur,134.0
-2370,ARENDONK,ARENDONK,Anvers,402.0
-1730,ASSE,ASSE,Brabant Flamand,393.0
-4340,AWANS,AWANS,Liège,347.0
-9800,Bachte-Maria-Leerne,DEINZE,Flandre-Orientale,444.0
-1470,Baisy-Thy,GENAPPE,Brabant Wallon,504.0
-6940,Barvaux-Sur-Ourthe,DURBUY,Luxembourg,196.0
-1650,BEERSEL,BEERSEL,Brabant Flamand,492.0
-1673,Beert,PEPINGEN,Brabant Flamand,576.0
-1082,BERCHEM-SAINTE-AGATHE,BERCHEM-SAINTE-AGATHE,Bruxelles (19 communes),367.0
-2590,BERLAAR,BERLAAR,Anvers,505.0
-6560,Bersillies-L'Abbaye,ERQUELINNES,Hainaut,14.0
-4960,Bevercé,MALMEDY,Liège,199.0
-7040,Blaregnies,QUÉVY,Hainaut,74.0
-3890,Boekhout,GINGELOM,Limbourg,132.0
-5550,Bohan,VRESSE-SUR-SEMOIS,Namur,77.0
-7604,Braffe,PÉRUWELZ,Hainaut,177.0
-3840,Broekom,BORGLOON,Limbourg,221.0
-5561,Celles,HOUYET,Namur,215.0
-7033,Cuesmes,MONS,Hainaut,38.0
-1325,Dion-Valmont,CHAUMONT-GISTOUX,Brabant Wallon,563.0
-7711,Dottignies,MOUSCRON,Hainaut,147.0
-3650,Elen,DILSEN-STOKKEM,Limbourg,191.0
-6560,ERQUELINNES,ERQUELINNES,Hainaut,14.0
-1790,Essene,AFFLIGEM,Brabant Flamand,445.0
-1040,ETTERBEEK,ETTERBEEK,Bruxelles (19 communes),540.0
-5560,Finnevaux,HOUYET,Namur,215.0
-7863,Ghoy,LESSINES,Hainaut,131.0
-8691,Gijverinkhove,ALVERINGEM,Flandre-Occidentale,414.0
-4280,HANNUT,HANNUT,Liège,200.0
-5621,Hanzinne,FLORENNES,Namur,68.0
-3840,Haren,BORGLOON,Limbourg,221.0
-5620,Hemptinne-Lez-Florennes,FLORENNES,Namur,68.0
-2940,Hoevenen,STABROEK,Anvers,267.0
-6724,Houdemont,HABAY,Luxembourg,332.0
-4540,Jehay,AMAY,Liège,27.0
-6280,Joncret,GERPINNES,Hainaut,287.0
-6040,Jumet,CHARLEROI,Hainaut,19.0
-3640,KINROOI,KINROOI,Limbourg,186.0
-2500,Koningshooikt,LIER,Anvers,388.0
-4987,La Gleize,STOUMONT,Liège,475.0
-5170,Lesve,PROFONDEVILLE,Namur,344.0
-3630,Leut,MAASMECHELEN,Limbourg,273.0
-1770,LIEDEKERKE,LIEDEKERKE,Brabant Flamand,245.0
-9080,LOCHRISTI,LOCHRISTI,Flandre-Orientale,522.0
-8958,Loker,HEUVELLAND,Flandre-Occidentale,51.0
-5030,Lonzée,GEMBLOUX,Namur,179.0
-9880,Lotenhulle,AALTER,Flandre-Orientale,312.0
-4920,Louveigné,AYWAILLE,Liège,146.0
-6663,Mabompré,HOUFFALIZE,Luxembourg,80.0
-7387,Marchipont,HONNELLES,Hainaut,125.0
-8720,Markegem,DENTERGEM,Flandre-Occidentale,507.0
-7050,Masnuy-Saint-Pierre,JURBISE,Hainaut,336.0
-9170,Meerdonk,SINT-GILLIS-WAAS,Flandre-Orientale,253.0
-5310,Mehaigne,EGHEZÉE,Namur,340.0
-3560,Meldert,LUMMEN,Limbourg,410.0
-7540,Melles,TOURNAI,Hainaut,262.0
-9660,Michelbeke,BRAKEL,Flandre-Orientale,371.0
-4041,Milmort,HERSTAL,Liège,96.0
-8470,Moere,GISTEL,Flandre-Occidentale,392.0
-4400,Mons-Lez-Liège,FLÉMALLE,Liège,78.0
-1435,MONT-SAINT-GUIBERT,MONT-SAINT-GUIBERT,Brabant Wallon,317.0
-9310,Moorsel,AALST,Flandre-Orientale,247.0
-6600,Noville,BASTOGNE,Luxembourg,166.0
-1380,Ohain,LASNE,Brabant Wallon,580.0
-9660,Opbrakel,BRAKEL,Flandre-Orientale,371.0
-3680,Opoeteren,MAASEIK,Limbourg,426.0
-1350,Orp-Le-Grand,ORP-JAUCHE,Brabant Wallon,222.0
-7804,Ostiches,ATH,Hainaut,104.0
-5660,Pétigny,COUVIN,Namur,54.0
-6600,Villers-La-Bonne-Eau,BASTOGNE,Luxembourg,166.0
-5600,Villers-Le-Gambon,PHILIPPEVILLE,Namur,39.0
-6833,Vivy,BOUILLON,Luxembourg,37.0
-2430,Vorst,LAAKDAL,Anvers,288.0
-5564,Wanlin,HOUYET,Namur,215.0
-7340,Wasmes,COLFONTAINE,Hainaut,6.0
-8978,Watou,POPERINGE,Flandre-Occidentale,150.0
-5100,Wépion,NAMUR,Namur,276.0
-4452,Wihogne,JUPRELLE,Liège,405.0
-3990,Wijchmaal,PEER,Limbourg,190.0
-3012,Wilsele,LEUVEN,Brabant Flamand,466.0
-8750,WINGENE,WINGENE,Flandre-Occidentale,284.0
-2240,ZANDHOVEN,ZANDHOVEN,Anvers,451.0
-8980,ZONNEBEKE,ZONNEBEKE,Flandre-Occidentale,198.0
-4761,Rocherath,BULLANGE,Liège,55.0
-1210,SAINT-JOSSE-TEN-NOODE,SAINT-JOSSE-TEN-NOODE,Bruxelles (19 communes),274.0
-4671,Saive,BLÉGNY,Liège,369.0
-7180,SENEFFE,SENEFFE,Hainaut,171.0
-9630,Sint-Denijs-Boekel,ZWALM,Flandre-Orientale,420.0
-9200,Sint-Gillis-Dendermonde,DENDERMONDE,Flandre-Orientale,243.0
-9572,Sint-Martens-Lierde,LIERDE,Flandre-Orientale,357.0
-6470,Sivry,SIVRY-RANCE,Hainaut,23.0
-8490,Snellegem,JABBEKE,Flandre-Occidentale,462.0
-5646,Stave,METTET,Namur,139.0
-6661,Tailles,HOUFFALIZE,Luxembourg,80.0
-6530,THUIN,THUIN,Hainaut,106.0
-7950,Tongre-Saint-Martin,CHIÈVRES,Hainaut,44.0
-3570,ALKEN,ALKEN,Limbourg,372.0
-6790,AUBANGE,AUBANGE,Luxembourg,279.0
-5660,Aublain,COUVIN,Namur,54.0
-6706,Autelbas,ARLON,Luxembourg,311.0
-1674,Bellingen,PEPINGEN,Brabant Flamand,576.0
-3700,Berg,TONGEREN,Limbourg,203.0
-6830,BOUILLON,BOUILLON,Luxembourg,37.0
-5575,Bourseigne-Neuve,GEDINNE,Namur,61.0
-6800,Bras,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-4760,BULLANGE,BULLANGE,Liège,55.0
-5620,Corenne,FLORENNES,Namur,68.0
-5380,Cortil-Wodon,FERNELMONT,Namur,471.0
-8660,DE PANNE,DE PANNE,Flandre-Occidentale,117.0
-9470,DENDERLEEUW,DENDERLEEUW,Flandre-Orientale,217.0
-8630,Eggewaartskapelle,VEURNE,Flandre-Occidentale,431.0
-1982,Elewijt,ZEMST,Brabant Flamand,523.0
-8870,Emelgem,IZEGEM,Flandre-Occidentale,225.0
-5060,Falisolle,SAMBREVILLE,Namur,79.0
-4260,Fallais,BRAIVES,Liège,251.0
-7181,Familleureux,SENEFFE,Hainaut,171.0
-5340,Faulx-Les-Tombes,GESVES,Namur,187.0
-6440,FROIDCHAPELLE,FROIDCHAPELLE,Hainaut,4.0
-5576,Froidfontaine,BEAURAING,Namur,41.0
-3960,Gerdingen,BREE,Limbourg,261.0
-9308,Gijzegem,AALST,Flandre-Orientale,247.0
-4140,Gomzé-Andoumont,SPRIMONT,Liège,308.0
-6041,Gosselies,CHARLEROI,Hainaut,19.0
-9620,Grotenberge,ZOTTEGEM,Flandre-Orientale,246.0
-9220,HAMME,HAMME,Flandre-Orientale,154.0
-9700,Heurne,OUDENAARDE,Flandre-Orientale,271.0
-9308,Hofstade,AALST,Flandre-Orientale,247.0
-7830,Hoves,SILLY,Hainaut,231.0
-7950,Huissignies,CHIÈVRES,Hainaut,44.0
-7801,Irchonwelz,ATH,Hainaut,104.0
-8691,Izenberge,ALVERINGEM,Flandre-Occidentale,414.0
-3990,Kleine-Brogel,PEER,Limbourg,190.0
-8300,Knokke,KNOKKE-HEIST,Flandre-Occidentale,573.0
-1950,KRAAINEM,KRAAINEM,Brabant Flamand,577.0
-1320,L'Ecluse,BEAUVECHAIN,Brabant Wallon,544.0
-4300,Lantremange,WAREMME,Liège,116.0
-7070,LE ROEULX,LE ROEULX,Hainaut,234.0
-6142,Leernes,FONTAINE-L'EVÊQUE,Hainaut,49.0
-8434,Lombardsijde,MIDDELKERKE,Flandre-Occidentale,62.0
-1651,Lot,BEERSEL,Brabant Flamand,492.0
-3630,MAASMECHELEN,MAASMECHELEN,Limbourg,273.0
-5374,Maffe,HAVELANGE,Namur,167.0
-4960,MALMEDY,MALMEDY,Liège,199.0
-7190,Marche-Lez-Ecaussinnes,ECAUSSINNES,Hainaut,122.0
-3630,Meeswijk,MAASMECHELEN,Limbourg,273.0
-4577,MODAVE,MODAVE,Liège,144.0
-7750,MONT-DE-L'ENCLUS,MONT-DE-L'ENCLUS,Hainaut,310.0
-6470,Montbliart,SIVRY-RANCE,Hainaut,23.0
-9790,Moregem,WORTEGEM-PETEGEM,Flandre-Orientale,512.0
-9630,Munkzwalm,ZWALM,Flandre-Orientale,420.0
-6820,Muno,FLORENVILLE,Luxembourg,22.0
-3740,Munsterbilzen,BILZEN,Limbourg,182.0
-7062,Naast,SOIGNIES,Hainaut,64.0
-4121,Neuville-En-Condroz,NEUPRÉ,Liège,476.0
-9320,Nieuwerkerken,AALST,Flandre-Orientale,247.0
-1755,Oetingen,GOOIK,Brabant Flamand,503.0
-4877,OLNE,OLNE,Liège,268.0
-8780,OOSTROZEBEKE,OOSTROZEBEKE,Flandre-Occidentale,404.0
-3640,Ophoven,KINROOI,Limbourg,186.0
-5550,Orchimont,VRESSE-SUR-SEMOIS,Namur,77.0
-4210,Oteppe,BURDINNE,Liège,145.0
-8460,OUDENBURG,OUDENBURG,Flandre-Occidentale,228.0
-3670,OUDSBERGEN,OUDSBERGEN,Limbourg,99.0
-9406,Outer,NINOVE,Flandre-Orientale,237.0
-4800,Polleur,VERVIERS,Liège,53.0
-5370,Porcheresse,HAVELANGE,Namur,167.0
-4280,Poucet,HANNUT,Liège,200.0
-2870,PUURS-SINT-AMANDS,PUURS-SINT-AMANDS,Anvers,390.0
-8301,Ramskapelle,KNOKKE-HEIST,Flandre-Occidentale,573.0
-9600,RENAIX,RENAIX,Flandre-Orientale,137.0
-3370,Roosbeek,BOUTERSEM,Brabant Flamand,486.0
-3110,ROTSELAAR,ROTSELAAR,Brabant Flamand,383.0
-4780,SAINT-VITH,SAINT-VITH,Liège,56.0
-9260,Schellebelle,WICHELEN,Flandre-Orientale,192.0
-9506,Schendelbeke,GERAARDSBERGEN,Flandre-Orientale,211.0
-8200,Sint-Andries,BRUGGE,Flandre-Occidentale,458.0
-3300,Sint-Margriete-Houtem,TIENEN,Brabant Flamand,178.0
-4557,Soheit-Tinlot,TINLOT,Liège,386.0
-7060,SOIGNIES,SOIGNIES,Hainaut,64.0
-5190,Spy,JEMEPPE-SUR-SAMBRE,Namur,71.0
-1840,Steenhuffel,LONDERZEEL,Brabant Flamand,376.0
-7090,Steenkerque,BRAINE-LE-COMTE,Hainaut,60.0
-9620,Strijpen,ZOTTEGEM,Flandre-Orientale,246.0
-7951,Tongre-Notre-Dame,CHIÈVRES,Hainaut,44.0
-5370,Verlée,HAVELANGE,Namur,167.0
-9500,Viane,GERAARDSBERGEN,Flandre-Orientale,211.0
-6460,Villers-La-Tour,CHIMAY,Hainaut,115.0
-1602,Vlezenbeek,SINT-PIETERS-LEEUW,Brabant Flamand,455.0
-5650,Vogenée,WALCOURT,Namur,33.0
-8581,Waarmaarde,AVELGEM,Flandre-Occidentale,101.0
-4950,WAIMES,WAIMES,Liège,370.0
-4219,WASSEIGES,WASSEIGES,Liège,233.0
-8420,Wenduine,DE HAAN,Flandre-Occidentale,259.0
-9230,WETTEREN,WETTEREN,Flandre-Orientale,220.0
-9280,Wieze,LEBBEKE,Flandre-Orientale,394.0
-3350,Wommersom,LINTER,Brabant Flamand,264.0
-8670,Wulpen,KOKSIJDE,Flandre-Occidentale,325.0
-2990,WUUSTWEZEL,WUUSTWEZEL,Anvers,435.0
-8902,Zillebeke,IEPER,Flandre-Occidentale,270.0
-8511,Aalbeke,KORTRIJK,Flandre-Occidentale,391.0
-3200,AARSCHOT,AARSCHOT,Brabant Flamand,307.0
-5590,Achêne,CINEY,Namur,75.0
-6250,Aiseau,AISEAU-PRESLES,Hainaut,208.0
-7640,ANTOING,ANTOING,Hainaut,5.0
-7972,Aubechies,BELOEIL,Hainaut,331.0
-7387,Autreppe,HONNELLES,Hainaut,125.0
-6900,Aye,MARCHE-EN-FAMENNE,Luxembourg,82.0
-9111,Belsele,SINT-NIKLAAS,Flandre-Orientale,318.0
-4500,Ben-Ahin,HUY,Liège,81.0
-3581,Beverlo,BERINGEN,Limbourg,195.0
-4690,Boirs,BASSENGE,Liège,118.0
-1404,Bornival,NIVELLES,Brabant Wallon,272.0
-6850,Carlsbourg,PALISEUL,Luxembourg,127.0
-4987,Chevron,STOUMONT,Liège,475.0
-5022,Cognelée,NAMUR,Namur,276.0
-7120,Croix-Lez-Rouveroy,ESTINNES,Hainaut,63.0
-5660,Cul-Des-Sarts,COUVIN,Namur,54.0
-9160,Daknam,LOKEREN,Flandre-Orientale,342.0
-3440,Dormaal,ZOUTLEEUW,Brabant Flamand,112.0
-1620,DROGENBOS,DROGENBOS,Brabant Flamand,401.0
-1653,Dworp,BEERSEL,Brabant Flamand,492.0
-1671,Elingen,PEPINGEN,Brabant Flamand,576.0
-7120,ESTINNES,ESTINNES,Hainaut,63.0
-5530,Evrehailles,YVOIR,Namur,286.0
-6141,Forchies-La-Marche,FONTAINE-L'EVÊQUE,Hainaut,49.0
-4557,Fraiture,TINLOT,Liège,386.0
-3800,Gelinden,SINT-TRUIDEN,Limbourg,206.0
-3890,GINGELOM,GINGELOM,Limbourg,132.0
-7070,Gottignies,LE ROEULX,Hainaut,234.0
-6534,Gozée,THUIN,Hainaut,106.0
-7950,Grosage,CHIÈVRES,Hainaut,44.0
-3945,HAM,HAM,Limbourg,303.0
-7321,Harchies,BERNISSART,Hainaut,107.0
-5540,Hastière-Lavaux,HASTIÈRE,Namur,16.0
-1461,Haut-Ittre,ITTRE,Brabant Wallon,469.0
-8301,Heist-Aan-Zee,KNOKKE-HEIST,Flandre-Occidentale,573.0
-9571,Hemelveerdegem,LIERDE,Flandre-Orientale,357.0
-7090,Hennuyères,BRAINE-LE-COMTE,Hainaut,60.0
-3191,Hever,BOORTMEERBEEK,Brabant Flamand,484.0
-1560,HOEILAART,HOEILAART,Brabant Flamand,551.0
-8377,Houtave,ZUIENKERKE,Flandre-Occidentale,561.0
-9340,Impe,LEDE,Flandre-Orientale,281.0
-1370,Jodoigne-Souveraine,JODOIGNE,Brabant Wallon,489.0
-3010,Kessel Lo,LEUVEN,Brabant Flamand,466.0
-3890,Kortijs,GINGELOM,Limbourg,132.0
-7950,Ladeuze,CHIÈVRES,Hainaut,44.0
-9050,Ledeberg,GENT,Flandre-Orientale,491.0
-1300,Limal,WAVRE,Brabant Wallon,490.0
-8647,LO-RENINGE,LO-RENINGE,Flandre-Occidentale,411.0
-4710,LONTZEN,LONTZEN,Liège,326.0
-1471,Loupoigne,GENAPPE,Brabant Wallon,504.0
-6593,Macquenoise,MOMIGNIES,Hainaut,3.0
-5330,Maillen,ASSESSE,Namur,427.0
-2390,MALLE,MALLE,Anvers,437.0
-6987,Marcourt,RENDEUX,Luxembourg,11.0
-3630,Mechelen-Aan-De-Maas,MAASMECHELEN,Limbourg,273.0
-2321,Meer,HOOGSTRATEN,Anvers,502.0
-9630,Meilegem,ZWALM,Flandre-Orientale,420.0
-8930,MENEN,MENEN,Flandre-Occidentale,102.0
-2170,Merksem,ANTWERPEN,Anvers,339.0
-7000,MONS,MONS,Hainaut,38.0
-9660,Nederbrakel,BRAKEL,Flandre-Orientale,371.0
-3620,Neerharen,LANAKEN,Limbourg,194.0
-3370,Neervelp,BOUTERSEM,Brabant Flamand,486.0
-8647,Noordschote,LO-RENINGE,Flandre-Occidentale,411.0
-5380,Noville-Les-Bois,FERNELMONT,Namur,471.0
-7743,Obigies,PECQ,Hainaut,138.0
-3300,Oorbeek,TIENEN,Brabant Flamand,178.0
-2890,Oppuurs,PUURS-SINT-AMANDS,Anvers,390.0
-5660,Pesche,COUVIN,Namur,54.0
-9800,Petegem-Aan-De-Leie,DEINZE,Flandre-Orientale,444.0
-5660,Petite-Chapelle,COUVIN,Namur,54.0
-8740,PITTEM,PITTEM,Flandre-Occidentale,395.0
-8920,Poelkapelle,LANGEMARK-POELKAPELLE,Flandre-Occidentale,173.0
-7040,Quévy-Le-Grand,QUÉVY,Hainaut,74.0
-6043,Ransart,CHARLEROI,Hainaut,19.0
-1731,Relegem,ASSE,Brabant Flamand,393.0
-3770,RIEMST,RIEMST,Limbourg,297.0
-6830,Rochehaut,BOUILLON,Luxembourg,37.0
-8800,Rumbeke,ROESELARE,Flandre-Occidentale,248.0
-7610,RUMES,RUMES,Hainaut,57.0
-5310,Saint-Germain,EGHEZÉE,Namur,340.0
-7730,Saint-Léger,ESTAIMPUIS,Hainaut,346.0
-4845,Sart-Lez-Spa,JALHAY,Liège,508.0
-5070,Sart-Saint-Laurent,FOSSES-LA-VILLE,Namur,114.0
-6470,Sautin,SIVRY-RANCE,Hainaut,23.0
-3730,Sint-Huibrechts-Hern,HOESELT,Limbourg,90.0
-1600,Sint-Laureins-Berchem,SINT-PIETERS-LEEUW,Brabant Flamand,455.0
-6662,Tavigny,HOUFFALIZE,Luxembourg,80.0
-6840,Tournay,NEUFCHÂTEAU,Luxembourg,123.0
-6890,Transinne,LIBIN,Luxembourg,368.0
-7100,Trivières,LA LOUVIÈRE,Hainaut,36.0
-9290,Uitbergen,BERLARE,Flandre-Orientale,454.0
-4051,Vaux-Sous-Chèvremont,CHAUDFONTAINE,Liège,254.0
-2431,Veerle,LAAKDAL,Anvers,288.0
-3620,Veldwezelt,LANAKEN,Limbourg,194.0
-9850,Vosselare,DEINZE,Flandre-Orientale,444.0
-7390,Wasmuel,QUAREGNON,Hainaut,9.0
-2275,Wechelderzande,LILLE,Anvers,452.0
-1970,WEZEMBEEK-OPPEM,WEZEMBEEK-OPPEM,Brabant Flamand,552.0
-5570,Winenne,BEAURAING,Namur,41.0
-3722,Wintershoven,KORTESSEM,Limbourg,209.0
-8952,Wulvergem,HEUVELLAND,Flandre-Occidentale,51.0
-9930,Zomergem,LIEVEGEM,Flandre-Orientale,409.0
-6890,Redu,LIBIN,Luxembourg,368.0
-6987,RENDEUX,RENDEUX,Luxembourg,11.0
-4950,Robertville,WAIMES,Liège,370.0
-7387,Roisin,HONNELLES,Hainaut,125.0
-1331,Rosières,RIXENSART,Brabant Wallon,568.0
-1450,Saint-Géry,CHASTRE,Brabant Wallon,470.0
-7330,SAINT-GHISLAIN,SAINT-GHISLAIN,Hainaut,40.0
-8340,Sijsele,DAMME,Flandre-Occidentale,542.0
-8620,Sint-Joris,NIEUWPOORT,Flandre-Occidentale,364.0
-7332,Sirault,SAINT-GHISLAIN,Hainaut,40.0
-8840,STADEN,STADEN,Flandre-Occidentale,335.0
-5060,Tamines,SAMBREVILLE,Namur,79.0
-7333,Tertre,SAINT-GHISLAIN,Hainaut,40.0
-3272,Testelt,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,197.0
-5300,Thon,ANDENNE,Namur,93.0
-5502,Thynes,DINANT,Namur,134.0
-5680,Vaucelles,DOISCHE,Namur,143.0
-6870,Vesqueville,SAINT-HUBERT,Luxembourg,32.0
-4317,Viemme,FAIMES,Liège,350.0
-8600,Vladslo,DIKSMUIDE,Flandre-Occidentale,348.0
-5537,Warnant,ANHÉE,Namur,83.0
-9230,Westrem,WETTEREN,Flandre-Orientale,220.0
-2830,WILLEBROEK,WILLEBROEK,Anvers,381.0
-8640,Woesten,VLETEREN,Flandre-Occidentale,152.0
-9660,Zegelsem,BRAKEL,Flandre-Orientale,371.0
-4841,Henri-Chapelle,WELKENRAEDT,Liège,172.0
-8902,Hollebeke,IEPER,Flandre-Occidentale,270.0
-7624,Howardries,BRUNEHAUT,Hainaut,493.0
-3720,KORTESSEM,KORTESSEM,Limbourg,209.0
-4357,Limont,DONCEEL,Liège,105.0
-4760,Manderfeld,BULLANGE,Liège,55.0
-4990,Arbrefontaine,LIERNEUX,Liège,496.0
-4920,AYWAILLE,AYWAILLE,Liège,146.0
-5377,Baillonville,SOMME-LEUZE,Namur,73.0
-1670,Bogaarden,PEPINGEN,Brabant Flamand,576.0
-2140,Borgerhout,ANTWERPEN,Anvers,339.0
-6941,Borlon,DURBUY,Luxembourg,196.0
-6440,Boussu-Lez-Walcourt,FROIDCHAPELLE,Hainaut,4.0
-3870,Bovelingen,HEERS,Limbourg,155.0
-8000,BRUGGE,BRUGGE,Flandre-Occidentale,458.0
-5660,Brûly-De-Pesche,COUVIN,Namur,54.0
-6222,Brye,FLEURUS,Hainaut,31.0
-5650,Castillon,WALCOURT,Namur,33.0
-4050,CHAUDFONTAINE,CHAUDFONTAINE,Liège,254.0
-4602,Cheratte,VISÉ,Liège,161.0
-7780,Comines,COMINES-WARNETON,Hainaut,536.0
-1435,Corbais,MONT-SAINT-GUIBERT,Brabant Wallon,317.0
-6010,Couillet,CHARLEROI,Hainaut,19.0
-5562,Custinne,HOUYET,Namur,215.0
-6767,Dampicourt,ROUVROY,Luxembourg,46.0
-9840,DE PINTE,DE PINTE,Flandre-Orientale,560.0
-7864,Deux-Acren,LESSINES,Hainaut,131.0
-3540,Donk,HERK-DE-STAD,Limbourg,406.0
-5350,Evelette,OHEY,Namur,236.0
-5570,Felenne,BEAURAING,Namur,41.0
-4400,FLÉMALLE,FLÉMALLE,Liège,78.0
-6060,Gilly,CHARLEROI,Hainaut,19.0
-7830,Gondregnies,SILLY,Hainaut,231.0
-5310,Hanret,EGHEZÉE,Namur,340.0
-3700,Haren,TONGEREN,Limbourg,203.0
-5537,Haut-Le-Wastia,ANHÉE,Namur,83.0
-5540,Hermeton-Sur-Meuse,HASTIÈRE,Namur,16.0
-1981,Hofstade,ZEMST,Brabant Flamand,523.0
-6640,Hompré,VAUX-SUR-SÛRE,Luxembourg,151.0
-7301,Hornu,BOUSSU,Hainaut,15.0
-6900,Humain,MARCHE-EN-FAMENNE,Luxembourg,82.0
-5032,Isnes,GEMBLOUX,Namur,179.0
-3060,Korbeek-Dijle,BERTEM,Brabant Flamand,513.0
-5550,Laforêt,VRESSE-SUR-SEMOIS,Namur,77.0
-6960,Malempré,MANHAY,Luxembourg,373.0
-6001,Marcinelle,CHARLEROI,Hainaut,19.0
-3320,Meldert,HOEGAARDEN,Brabant Flamand,510.0
-5580,Mont-Gauthier,ROCHEFORT,Namur,110.0
-9820,Munte,MERELBEKE,Flandre-Orientale,465.0
-6120,Nalinnes,HAM-SUR-HEURE,Hainaut,320.0
-3700,Neerrepen,TONGEREN,Limbourg,203.0
-1880,Nieuwenrode,KAPELLE-OP-DEN-BOS,Brabant Flamand,500.0
-9400,NINOVE,NINOVE,Flandre-Orientale,237.0
-6890,Ochamps,LIBIN,Luxembourg,368.0
-9870,Olsene,ZULTE,Flandre-Orientale,459.0
-9041,Oostakker,GENT,Flandre-Orientale,491.0
-9931,Oostwinkel,LIEVEGEM,Flandre-Orientale,409.0
-1421,Ophain-Bois-Seigneur-Isaac,BRAINE-L'ALLEUD,Brabant Wallon,488.0
-1357,Opheylissem,HÉLÉCINE,Brabant Wallon,176.0
-1360,Orbais,PERWEZ,Brabant Wallon,382.0
-7802,Ormeignies,ATH,Hainaut,104.0
-8553,Otegem,ZWEVEGEM,Flandre-Occidentale,156.0
-9500,Overboelare,GERAARDSBERGEN,Flandre-Orientale,211.0
-7340,Pâturages,COLFONTAINE,Hainaut,6.0
-9880,Poeke,AALTER,Flandre-Orientale,312.0
-6929,Porcheresse,DAVERDISSE,Luxembourg,485.0
-3800,Aalst,SINT-TRUIDEN,Limbourg,206.0
-8700,Aarsele,TIELT,Flandre-Occidentale,289.0
-6250,AISEAU-PRESLES,AISEAU-PRESLES,Hainaut,208.0
-5550,Alle,VRESSE-SUR-SEMOIS,Namur,77.0
-6680,Amberloup,SAINTE-ODE,Luxembourg,66.0
-9960,ASSENEDE,ASSENEDE,Flandre-Orientale,341.0
-3404,Attenhoven,LANDEN,Brabant Flamand,85.0
-5550,Bagimont,VRESSE-SUR-SEMOIS,Namur,77.0
-7730,Bailleul,ESTAIMPUIS,Hainaut,346.0
-3460,BEKKEVOORT,BEKKEVOORT,Brabant Flamand,226.0
-4280,Bertrée,HANNUT,Liège,200.0
-5310,Boneffe,EGHEZÉE,Namur,340.0
-5032,Bossière,GEMBLOUX,Namur,179.0
-9420,Burst,ERPE-MERE,Flandre-Orientale,291.0
-6824,Chassepierre,FLORENVILLE,Luxembourg,22.0
-1480,Clabecq,TUBIZE,Brabant Wallon,189.0
-4480,Clermont-Sous-Huy,ENGIS,Liège,24.0
-4607,DALHEM,DALHEM,Liège,333.0
-8900,Dikkebus,IEPER,Flandre-Occidentale,270.0
-4820,DISON,DISON,Liège,21.0
-4920,Ernonheid,AYWAILLE,Liège,146.0
-7120,Estinnes-Au-Mont,ESTINNES,Hainaut,63.0
-6740,ETALLE,ETALLE,Luxembourg,375.0
-5570,Feschaux,BEAURAING,Namur,41.0
-4458,Fexhe-Slins,JUPRELLE,Liège,405.0
-6140,FONTAINE-L'EVÊQUE,FONTAINE-L'EVÊQUE,Hainaut,49.0
-7643,Fontenoy,ANTOING,Hainaut,5.0
-6953,Forrières,NASSOGNE,Luxembourg,109.0
-1083,GANSHOREN,GANSHOREN,Bruxelles (19 communes),213.0
-9890,GAVERE,GAVERE,Flandre-Orientale,453.0
-6769,Gérouville,MEIX-DEVANT-VIRTON,Luxembourg,193.0
-1367,Grand-Rosière-Hottomont,RAMILLIES,Brabant Wallon,379.0
-7742,Hérinnes-Lez-Pecq,PECQ,Hainaut,138.0
-3001,Heverlee,LEUVEN,Brabant Flamand,466.0
-2660,Hoboken,ANTWERPEN,Anvers,339.0
-7620,Hollain,BRUNEHAUT,Hainaut,493.0
-7781,Houthem,COMINES-WARNETON,Hainaut,536.0
-9506,Idegem,GERAARDSBERGEN,Flandre-Orientale,211.0
-3140,KEERBERGEN,KEERBERGEN,Brabant Flamand,541.0
-8680,KOEKELARE,KOEKELARE,Flandre-Occidentale,269.0
-3850,Kozen,NIEUWERKERKEN,Limbourg,202.0
-6670,Limerlé,GOUVY,Luxembourg,425.0
-4431,Loncin,ANS,Liège,70.0
-6990,Marenne,HOTTON,Luxembourg,50.0
-9402,Meerbeke,NINOVE,Flandre-Orientale,237.0
-8430,MIDDELKERKE,MIDDELKERKE,Flandre-Occidentale,62.0
-9220,Moerzeke,HAMME,Flandre-Orientale,154.0
-6800,Moircy,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-1080,MOLENBEEK-SAINT-JEAN,MOLENBEEK-SAINT-JEAN,Bruxelles (19 communes),239.0
-6950,NASSOGNE,NASSOGNE,Luxembourg,109.0
-7730,Néchin,ESTAIMPUIS,Hainaut,346.0
-5600,Neuville,PHILIPPEVILLE,Namur,39.0
-8600,Nieuwkapelle,DIKSMUIDE,Flandre-Occidentale,348.0
-1350,Noduwez,ORP-JAUCHE,Brabant Wallon,222.0
-5377,Noiseux,SOMME-LEUZE,Namur,73.0
-2250,OLEN,OLEN,Anvers,358.0
-8710,Ooigem,WIELSBEKE,Flandre-Occidentale,227.0
-8840,Oostnieuwkerke,STADEN,Flandre-Occidentale,335.0
-8640,Oostvleteren,VLETEREN,Flandre-Occidentale,152.0
-4590,OUFFET,OUFFET,Liège,345.0
-4800,Petit-Rechain,VERVIERS,Liège,53.0
-1370,Piétrain,JODOIGNE,Brabant Wallon,489.0
-4122,Plainevaux,NEUPRÉ,Liège,476.0
-5574,Pondrôme,BEAURAING,Namur,41.0
-3550,HEUSDEN-ZOLDER,HEUSDEN-ZOLDER,Limbourg,235.0
-4500,HUY,HUY,Liège,81.0
-4400,Ivoz-Ramet,FLÉMALLE,Liège,78.0
-9190,Kemzeke,STEKENE,Flandre-Orientale,306.0
-9910,Knesselare,AALTER,Flandre-Orientale,312.0
-8000,Koolkerke,BRUGGE,Flandre-Occidentale,458.0
-9770,KRUISEM,KRUISEM,Flandre-Orientale,511.0
-6980,LA ROCHE-EN-ARDENNE,LA ROCHE-EN-ARDENNE,Luxembourg,65.0
-7860,LESSINES,LESSINES,Hainaut,131.0
-7900,LEUZE-EN-HAINAUT,LEUZE-EN-HAINAUT,Hainaut,238.0
-4783,Lommersweiler,SAINT-VITH,Liège,56.0
-5575,Louette-Saint-Denis,GEDINNE,Namur,61.0
-3560,LUMMEN,LUMMEN,Limbourg,410.0
-9870,Machelen,ZULTE,Flandre-Orientale,459.0
-4623,Magnée,FLÉRON,Liège,91.0
-1380,Maransart,LASNE,Brabant Wallon,580.0
-4557,Ramelot,TINLOT,Liège,386.0
-2520,RANST,RANST,Anvers,527.0
-9551,Ressegem,HERZELE,Flandre-Orientale,365.0
-6250,Roselies,AISEAU-PRESLES,Hainaut,208.0
-2840,RUMST,RUMST,Anvers,407.0
-6800,Saint-Pierre,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-7912,Saint-Sauveur,FRASNES-LEZ-ANVAING,Hainaut,249.0
-7100,Saint-Vaast,LA LOUVIÈRE,Hainaut,36.0
-6800,Sainte-Marie-Chevigny,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-9200,Schoonaarde,DENDERMONDE,Flandre-Orientale,243.0
-9630,Sint-Maria-Latem,ZWALM,Flandre-Orientale,420.0
-8200,Sint-Michiels,BRUGGE,Flandre-Occidentale,458.0
-5377,SOMME-LEUZE,SOMME-LEUZE,Namur,73.0
-5150,Soye,FLOREFFE,Namur,183.0
-4987,STOUMONT,STOUMONT,Liège,475.0
-6812,Suxy,CHINY,Luxembourg,255.0
-2840,Terhagen,RUMST,Anvers,407.0
-9140,Tielrode,TEMSE,Flandre-Orientale,313.0
-5380,Tillier,FERNELMONT,Namur,471.0
-6730,TINTIGNY,TINTIGNY,Luxembourg,304.0
-1320,Tourinnes-La-Grosse,BEAUVECHAIN,Brabant Wallon,544.0
-5630,Villers-Deux-Eglises,CERFONTAINE,Namur,17.0
-4550,Villers-Le-Temple,NANDRIN,Liège,418.0
-6740,Villers-Sur-Semois,ETALLE,Luxembourg,375.0
-4600,VISÉ,VISÉ,Liège,161.0
-9520,Vlierzele,SINT-LIEVENS-HOUTEM,Flandre-Orientale,319.0
-3473,Waanrode,KORTENAKEN,Brabant Flamand,265.0
-2800,Walem,MECHELEN,Anvers,479.0
-5080,Warisoulx,LA BRUYÈRE,Namur,467.0
-4530,Warnant-Dreye,VILLERS-LE-BOUILLET,Liège,165.0
-1440,Wauthier-Braine,BRAINE-LE-CHÂTEAU,Brabant Wallon,440.0
-8953,Wijtschate,HEUVELLAND,Flandre-Occidentale,51.0
-3550,Zolder,HEUSDEN-ZOLDER,Limbourg,235.0
-4540,AMAY,AMAY,Liège,27.0
-5537,Annevoie-Rouillon,ANHÉE,Namur,83.0
-4160,ANTHISNES,ANTHISNES,Liège,43.0
-9200,Appels,DENDERMONDE,Flandre-Orientale,243.0
-4671,Barchon,BLÉGNY,Liège,369.0
-2340,BEERSE,BEERSE,Anvers,377.0
-2830,Blaasveld,WILLEBROEK,Anvers,381.0
-2820,BONHEIDEN,BONHEIDEN,Anvers,559.0
-1761,Borchtlombeek,ROOSDAAL,Brabant Flamand,434.0
-2520,Broechem,RANST,Anvers,527.0
-7620,BRUNEHAUT,BRUNEHAUT,Hainaut,493.0
-1785,Brussegem,MERCHTEM,Brabant Flamand,413.0
-7602,Bury,PÉRUWELZ,Hainaut,177.0
-4032,Chênée,LIÈGE,Liège,89.0
-4170,COMBLAIN-AU-PONT,COMBLAIN-AU-PONT,Liège,59.0
-6120,Cour-Sur-Heure,HAM-SUR-HEURE,Hainaut,320.0
-3650,Dilsen,DILSEN-STOKKEM,Limbourg,191.0
-9031,Drongen,GENT,Flandre-Orientale,491.0
-7910,Ellignies-Lez-Frasnes,FRASNES-LEZ-ANVAING,Hainaut,249.0
-5580,Eprave,ROCHEFORT,Namur,110.0
-5500,Falmignoul,DINANT,Namur,134.0
-6637,FAUVILLERS,FAUVILLERS,Luxembourg,67.0
-4367,Fize-Le-Marsal,CRISNÉE,Liège,162.0
-5524,Gérin,ONHAYE,Namur,108.0
-3300,Goetsenhoven,TIENEN,Brabant Flamand,178.0
-4360,Grandville,OREYE,Liège,100.0
-7830,Graty,SILLY,Hainaut,231.0
-5640,Graux,METTET,Namur,139.0
-3990,Grote-Brogel,PEER,Limbourg,190.0
-6720,Hachy,HABAY,Luxembourg,332.0
-6120,HAM-SUR-HEURE,HAM-SUR-HEURE,Hainaut,320.0
-2220,HEIST-OP-DEN-BERG,HEIST-OP-DEN-BERG,Anvers,446.0
-4802,Heusy,VERVIERS,Liège,53.0
-4162,Hody,ANTHISNES,Liège,43.0
-6780,Hondelange,MESSANCY,Luxembourg,432.0
-5570,Honnay,BEAURAING,Namur,41.0
-7022,Hyon,MONS,Hainaut,38.0
-2222,Itegem,HEIST-OP-DEN-BERG,Anvers,446.0
-5600,Jamagne,PHILIPPEVILLE,Namur,39.0
-2950,KAPELLEN,KAPELLEN,Anvers,526.0
-3510,Kermt,HASSELT,Limbourg,412.0
-3945,Kwaadmechelen,HAM,Limbourg,303.0
-9690,Kwaremont,KLUISBERGEN,Flandre-Orientale,359.0
-3400,LANDEN,LANDEN,Brabant Flamand,85.0
-1380,Lasne-Chapelle-Saint-Lambert,LASNE,Brabant Wallon,580.0
-6860,LÉGLISE,LÉGLISE,Luxembourg,120.0
-7870,LENS,LENS,Hainaut,330.0
-1630,LINKEBEEK,LINKEBEEK,Brabant Flamand,555.0
-9680,MAARKEDAL,MAARKEDAL,Flandre-Orientale,408.0
-5575,Malvoisin,GEDINNE,Namur,61.0
-7170,MANAGE,MANAGE,Hainaut,48.0
-4570,MARCHIN,MARCHIN,Liège,168.0
-5032,Mazy,GEMBLOUX,Namur,179.0
-6211,Mellet,LES BONS VILLERS,Hainaut,263.0
-9850,Merendree,DEINZE,Flandre-Orientale,444.0
-8340,Moerkerke,DAMME,Flandre-Occidentale,542.0
-3640,Molenbeersel,KINROOI,Limbourg,186.0
-5621,Morialmé,FLORENNES,Namur,68.0
-5620,Morville,FLORENNES,Namur,68.0
-4190,My,FERRIÈRES,Liège,157.0
-4550,NANDRIN,NANDRIN,Liège,418.0
-5670,Nismes,VIROINVAL,Namur,13.0
-5600,Omezée,PHILIPPEVILLE,Namur,39.0
-9790,Ooike,WORTEGEM-PETEGEM,Flandre-Orientale,512.0
-9255,Opdorp,BUGGENHOUT,Flandre-Orientale,457.0
-3630,Opgrimbie,MAASMECHELEN,Limbourg,273.0
-9290,Overmere,BERLARE,Flandre-Orientale,454.0
-3400,Overwinden,LANDEN,Brabant Flamand,85.0
-1820,Perk,STEENOKKERZEEL,Brabant Flamand,543.0
-7090,Petit-Roeulx-Lez-Braine,BRAINE-LE-COMTE,Hainaut,60.0
-7181,Petit-Roeulx-Lez-Nivelles,SENEFFE,Hainaut,171.0
-6240,Pironchamps,FARCIENNES,Hainaut,18.0
-2230,Ramsel,HERSELT,Anvers,295.0
-4000,Rocourt,LIÈGE,Liège,89.0
-2870,Ruisbroek,PUURS-SINT-AMANDS,Anvers,390.0
-3390,Sint-Joris-Winge,TIELT-WINGE,Brabant Flamand,338.0
-5630,Soumoy,CERFONTAINE,Namur,17.0
-4950,Sourbrodt,WAIMES,Liège,370.0
-4280,Thisnes,HANNUT,Liège,200.0
-5651,Thy-Le-Château,WALCOURT,Namur,33.0
-3150,Tildonk,HAACHT,Brabant Flamand,366.0
-1570,Tollembeek,GALMAARDEN,Brabant Flamand,363.0
-8820,TORHOUT,TORHOUT,Flandre-Occidentale,293.0
-3832,Ulbeek,WELLEN,Limbourg,387.0
-7536,Vaulx,TOURNAI,Hainaut,262.0
-5060,Velaine-Sur-Sambre,SAMBREVILLE,Namur,79.0
-5575,Vencimont,GEDINNE,Namur,61.0
-2240,Viersel,ZANDHOVEN,Anvers,451.0
-4340,Villers-L'Evêque,AWANS,Liège,347.0
-5550,VRESSE-SUR-SEMOIS,VRESSE-SUR-SEMOIS,Namur,77.0
-8720,Wakken,DENTERGEM,Flandre-Occidentale,507.0
-3400,Wange,LANDEN,Brabant Flamand,85.0
-5310,Waret-La-Chaussée,EGHEZÉE,Namur,340.0
-8300,Westkapelle,KNOKKE-HEIST,Flandre-Occidentale,573.0
-3501,Wimmertingen,HASSELT,Limbourg,412.0
-8630,Wulveringem,VEURNE,Flandre-Occidentale,431.0
-8680,Zande,KOEKELARE,Flandre-Occidentale,269.0
-9240,ZELE,ZELE,Flandre-Orientale,323.0
-9690,Zulzeke,KLUISBERGEN,Flandre-Orientale,359.0
-5024,Marche-Les-Dames,NAMUR,Namur,276.0
-4219,Meeffe,WASSEIGES,Liège,233.0
-9310,Meldert,AALST,Flandre-Orientale,247.0
-1495,Mellery,VILLERS-LA-VILLE,Brabant Wallon,429.0
-5550,Membre,VRESSE-SUR-SEMOIS,Namur,77.0
-3770,Membruggen,RIEMST,Limbourg,297.0
-9042,Mendonk,GENT,Flandre-Orientale,491.0
-3272,Messelbroek,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,197.0
-3461,Molenbeek-Wersbeek,BEKKEVOORT,Brabant Flamand,226.0
-4350,Momalle,REMICOURT,Liège,188.0
-6674,Montleban,GOUVY,Luxembourg,425.0
-9500,Onkerzele,GERAARDSBERGEN,Flandre-Orientale,211.0
-8400,OOSTENDE,OOSTENDE,Flandre-Occidentale,169.0
-9860,OOSTERZELE,OOSTERZELE,Flandre-Orientale,447.0
-9200,Oudegem,DENDERMONDE,Flandre-Orientale,243.0
-3700,Overrepen,TONGEREN,Limbourg,203.0
-4287,Pellaines,LINCENT,Liège,218.0
-6250,Presles,AISEAU-PRESLES,Hainaut,208.0
-6730,Rossignol,TINTIGNY,Luxembourg,304.0
-6724,Rulles,HABAY,Luxembourg,332.0
-1060,SAINT-GILLES,SAINT-GILLES,Bruxelles (19 communes),550.0
-6820,Sainte-Cécile,FLORENVILLE,Luxembourg,22.0
-6740,Sainte-Marie-Sur-Semois,ETALLE,Luxembourg,375.0
-2223,Schriek,HEIST-OP-DEN-BERG,Anvers,446.0
-5590,Serinchamps,CINEY,Namur,75.0
-9667,Sint-Kornelis-Horebeke,HOREBEKE,Flandre-Orientale,535.0
-1750,Sint-Kwintens-Lennik,LENNIK,Brabant Flamand,554.0
-9550,Sint-Lievens-Esse,HERZELE,Flandre-Orientale,365.0
-6769,Sommethonne,MEIX-DEVANT-VIRTON,Luxembourg,193.0
-5537,Sosoye,ANHÉE,Namur,83.0
-4630,SOUMAGNE,SOUMAGNE,Liège,159.0
-1790,Teralfene,AFFLIGEM,Brabant Flamand,445.0
-7901,Thieulain,LEUZE-EN-HAINAUT,Hainaut,238.0
-7533,Thimougies,TOURNAI,Hainaut,262.0
-1360,Thorembais-Saint-Trond,PERWEZ,Brabant Wallon,382.0
-7830,Thoricourt,SILLY,Hainaut,231.0
-4500,Tihange,HUY,Liège,81.0
-6640,VAUX-SUR-SÛRE,VAUX-SUR-SÛRE,Luxembourg,151.0
-8630,VEURNE,VEURNE,Flandre-Occidentale,431.0
-8630,Vinkem,VEURNE,Flandre-Occidentale,431.0
-1780,WEMMEL,WEMMEL,Brabant Flamand,521.0
-8640,Westvleteren,VLETEREN,Flandre-Occidentale,152.0
-9790,Wortegem,WORTEGEM-PETEGEM,Flandre-Orientale,512.0
-1370,Zétrud-Lumay,JODOIGNE,Brabant Wallon,489.0
-9880,AALTER,AALTER,Flandre-Orientale,312.0
-2630,AARTSELAAR,AARTSELAAR,Anvers,509.0
-1652,Alsemberg,BEERSEL,Brabant Flamand,492.0
-2000,ANTWERPEN,ANTWERPEN,Anvers,339.0
-9890,Baaigem,GAVERE,Flandre-Orientale,453.0
-2387,BAARLE-HERTOG,BAARLE-HERTOG,Anvers,578.0
-5555,Baillamont,BIÈVRE,Namur,52.0
-6730,Bellefontaine,TINTIGNY,Luxembourg,304.0
-7130,BINCHE,BINCHE,Hainaut,29.0
-7321,Blaton,BERNISSART,Hainaut,107.0
-6760,Bleid,VIRTON,Luxembourg,133.0
-5170,Bois-De-Villers,PROFONDEVILLE,Namur,344.0
-5004,Bouge,NAMUR,Namur,276.0
-4632,Cérexhe-Heuseux,SOUMAGNE,Liège,159.0
-6000,CHARLEROI,CHARLEROI,Hainaut,19.0
-5650,Chastrès,WALCOURT,Namur,33.0
-5032,Corroy-Le-Château,GEMBLOUX,Namur,179.0
-5570,Dion,BEAURAING,Namur,41.0
-6940,DURBUY,DURBUY,Luxembourg,196.0
-5530,Durnal,YVOIR,Namur,286.0
-2180,Ekeren,ANTWERPEN,Anvers,339.0
-4750,Elsenborn,BUTGENBACH,Liège,398.0
-9700,Ename,OUDENAARDE,Flandre-Orientale,271.0
-3078,Everberg,KORTENBERG,Brabant Flamand,553.0
-4530,Fize-Fontaine,VILLERS-LE-BOUILLET,Liège,165.0
-5380,Forville,FERNELMONT,Namur,471.0
-5575,GEDINNE,GEDINNE,Namur,61.0
-8830,Gits,HOOGLEDE,Flandre-Occidentale,352.0
-5353,Goesnes,OHEY,Namur,236.0
-3840,Gors-Opleeuw,BORGLOON,Limbourg,221.0
-4280,Grand-Hallet,HANNUT,Liège,200.0
-6698,Grand-Halleux,VIELSALM,Luxembourg,98.0
-3870,Gutshoven,HEERS,Limbourg,155.0
-9120,Haasdonk,BEVEREN-WAAS,Flandre-Orientale,322.0
-3870,Heks,HEERS,Limbourg,155.0
-3700,Henis,TONGEREN,Limbourg,203.0
-1476,Houtain-Le-Val,GENAPPE,Brabant Wallon,504.0
-3530,HOUTHALEN-HELCHTEREN,HOUTHALEN-HELCHTEREN,Limbourg,207.0
-8860,LENDELEDE,LENDELEDE,Flandre-Occidentale,242.0
-4254,Ligney,GEER,Liège,160.0
-3560,Linkhout,LUMMEN,Limbourg,410.0
-3350,LINTER,LINTER,Brabant Flamand,264.0
-6840,Longlier,NEUFCHÂTEAU,Luxembourg,123.0
-3680,MAASEIK,MAASEIK,Limbourg,426.0
-3971,Heppen,LEOPOLDSBURG,Limbourg,121.0
-8531,Hulste,HARELBEKE,Flandre-Occidentale,163.0
-4650,Julémont,HERVE,Liège,384.0
-5060,Keumiée,SAMBREVILLE,Namur,79.0
-9770,Kruishoutem,KRUISEM,Flandre-Orientale,511.0
-4800,Lambermont,VERVIERS,Liège,53.0
-8880,LEDEGEM,LEDEGEM,Flandre-Occidentale,210.0
-1495,Marbais,VILLERS-LA-VILLE,Brabant Wallon,429.0
-8211,Aartrijke,ZEDELGEM,Flandre-Occidentale,430.0
-7387,Angreau,HONNELLES,Hainaut,125.0
-4430,ANS,ANS,Liège,70.0
-7750,Anseroeul,MONT-DE-L'ENCLUS,Hainaut,310.0
-7910,Anvaing,FRASNES-LEZ-ANVAING,Hainaut,249.0
-8310,Assebroek,BRUGGE,Flandre-Occidentale,458.0
-4400,Awirs,FLÉMALLE,Liège,78.0
-4690,BASSENGE,BASSENGE,Liège,118.0
-4052,Beaufays,CHAUDFONTAINE,Liège,254.0
-4610,Bellaire,BEYNE-HEUSAY,Liège,164.0
-7170,Bellecourt,MANAGE,Hainaut,48.0
-1910,Berg,KAMPENHOUT,Brabant Flamand,556.0
-8980,Beselare,ZONNEBEKE,Flandre-Occidentale,198.0
-5640,Biesme,METTET,Namur,139.0
-4100,Boncelles,SERAING,Liège,28.0
-5300,Bonneville,ANDENNE,Namur,93.0
-6464,Bourlers,CHIMAY,Hainaut,115.0
-7641,Bruyelle,ANTOING,Hainaut,5.0
-3891,Buvingen,GINGELOM,Limbourg,132.0
-1325,CHAUMONT-GISTOUX,CHAUMONT-GISTOUX,Brabant Wallon,563.0
-7024,Ciply,MONS,Hainaut,38.0
-4560,CLAVIER,CLAVIER,Liège,119.0
-1325,Corroy-Le-Grand,CHAUMONT-GISTOUX,Brabant Wallon,563.0
-6929,DAVERDISSE,DAVERDISSE,Luxembourg,485.0
-9400,Denderwindeke,NINOVE,Flandre-Orientale,237.0
-2480,DESSEL,DESSEL,Anvers,299.0
-6836,Dohan,BOUILLON,Luxembourg,37.0
-4357,DONCEEL,DONCEEL,Liège,105.0
-8600,Driekapellen,DIKSMUIDE,Flandre-Occidentale,348.0
-2650,EDEGEM,EDEGEM,Anvers,416.0
-6760,Ethe,VIRTON,Luxembourg,133.0
-9660,Everbeek,BRAKEL,Flandre-Orientale,371.0
-7012,Flénu,MONS,Hainaut,38.0
-5150,Floriffoux,FLOREFFE,Namur,183.0
-1350,Folx-Les-Caves,ORP-JAUCHE,Brabant Wallon,222.0
-6596,Forge-Philippe,MOMIGNIES,Hainaut,3.0
-6210,Frasnes-Lez-Gosselies,LES BONS VILLERS,Hainaut,263.0
-9000,GENT,GENT,Flandre-Orientale,491.0
-6470,Grandrieu,SIVRY-RANCE,Hainaut,23.0
-4684,Haccourt,OUPEYE,Liège,130.0
-5377,Hogne,SOMME-LEUZE,Namur,73.0
-9940,Kluizen,EVERGEM,Flandre-Orientale,389.0
-3300,Kumtich,TIENEN,Brabant Flamand,178.0
-3650,Lanklaar,DILSEN-STOKKEM,Limbourg,191.0
-9570,LIERDE,LIERDE,Flandre-Orientale,357.0
-1428,Lillois-Witterzée,BRAINE-L'ALLEUD,Brabant Wallon,488.0
-5575,Louette-Saint-Pierre,GEDINNE,Namur,61.0
-3210,LUBBEEK,LUBBEEK,Brabant Flamand,480.0
-7522,Marquain,TOURNAI,Hainaut,262.0
-5680,Matagne-La-Grande,DOISCHE,Namur,143.0
-3770,Millen,RIEMST,Limbourg,297.0
-5555,Monceau-En-Ardenne,BIÈVRE,Namur,52.0
-5555,Naomé,BIÈVRE,Namur,52.0
-3910,Neerpelt,PELT,Limbourg,433.0
-4721,Neu-Moresnet,LA CALAMINE,Liège,86.0
-9681,Nukerke,MAARKEDAL,Flandre-Orientale,408.0
-8690,Oeren,ALVERINGEM,Flandre-Occidentale,414.0
-1480,Oisquercq,TUBIZE,Brabant Wallon,189.0
-9620,Oombergen,ZOTTEGEM,Flandre-Orientale,246.0
-9500,Ophasselt,GERAARDSBERGEN,Flandre-Orientale,211.0
-3800,Ordingen,SINT-TRUIDEN,Limbourg,206.0
-4860,PEPINSTER,PEPINSTER,Liège,69.0
-8600,Pervijze,DIKSMUIDE,Flandre-Occidentale,348.0
-1380,Plancenoit,LASNE,Brabant Wallon,580.0
-2275,Poederlee,LILLE,Anvers,452.0
-6250,Pont-De-Loup,AISEAU-PRESLES,Hainaut,208.0
-2243,Pulle,ZANDHOVEN,Anvers,451.0
-8970,Reningelst,POPERINGE,Flandre-Occidentale,150.0
-2470,RETIE,RETIE,Anvers,298.0
-5651,Rognée,WALCOURT,Namur,33.0
-8510,Rollegem,KORTRIJK,Flandre-Occidentale,391.0
-4470,SAINT-GEORGES-SUR-MEUSE,SAINT-GEORGES-SUR-MEUSE,Liège,149.0
-6542,Sars-La-Buissière,LOBBES,Hainaut,214.0
-4782,Schoenberg,SAINT-VITH,Liège,56.0
-8433,Schore,MIDDELKERKE,Flandre-Occidentale,62.0
-5377,Sinsin,SOMME-LEUZE,Namur,73.0
-3910,Sint-Huibrechts-Lille,PELT,Limbourg,433.0
-9570,Sint-Maria-Lierde,LIERDE,Flandre-Orientale,357.0
-9506,Smeerebbe-Vloerzegem,GERAARDSBERGEN,Flandre-Orientale,211.0
-4861,Soiron,PEPINSTER,Liège,69.0
-5140,SOMBREFFE,SOMBREFFE,Namur,219.0
-9140,Steendorp,TEMSE,Flandre-Orientale,313.0
-1760,Strijtem,ROOSDAAL,Brabant Flamand,434.0
-7520,Templeuve,TOURNAI,Hainaut,262.0
-4670,Trembleur,BLÉGNY,Liège,369.0
-4577,Vierset-Barse,MODAVE,Liège,144.0
-8908,Vlamertinge,IEPER,Flandre-Occidentale,270.0
-2350,VOSSELAAR,VOSSELAAR,Anvers,516.0
-7784,Warneton,COMINES-WARNETON,Hainaut,536.0
-3118,Werchter,ROTSELAAR,Brabant Flamand,383.0
-5100,Wierde,NAMUR,Namur,276.0
-7904,Willaupuis,LEUZE-EN-HAINAUT,Hainaut,238.0
-6860,Witry,LÉGLISE,Luxembourg,120.0
-4690,Wonck,BASSENGE,Liège,118.0
-6953,Ambly,NASSOGNE,Luxembourg,109.0
-2060,ANTWERPEN,ANTWERPEN,Anvers,339.0
-1390,Archennes,GREZ-DOICEAU,Brabant Wallon,547.0
-6880,Auby-Sur-Semois,BERTRIX,Luxembourg,58.0
-4630,Ayeneux,SOUMAGNE,Liège,159.0
-9310,Baardegem,AALST,Flandre-Orientale,247.0
-9420,Bambrugge,ERPE-MERE,Flandre-Orientale,291.0
-6594,Beauwelz,MOMIGNIES,Hainaut,3.0
-5000,Beez,NAMUR,Namur,276.0
-4360,Bergilers,OREYE,Liège,100.0
-6880,BERTRIX,BERTRIX,Luxembourg,58.0
-4610,BEYNE-HEUSAY,BEYNE-HEUSAY,Liège,164.0
-1301,Bierges,WAVRE,Brabant Wallon,490.0
-2850,BOOM,BOOM,Anvers,232.0
-6200,Bouffioulx,CHÂTELET,Hainaut,26.0
-5500,Bouvignes-Sur-Meuse,DINANT,Namur,134.0
-7940,Cambron-Casteau,BRUGELETTE,Hainaut,72.0
-5590,Chevetogne,CINEY,Namur,75.0
-7780,COMINES-WARNETON,COMINES-WARNETON,Hainaut,536.0
-4280,Cras-Avernas,HANNUT,Liège,200.0
-5100,Dave,NAMUR,Namur,276.0
-9070,DESTELBERGEN,DESTELBERGEN,Flandre-Orientale,549.0
-7730,Estaimbourg,ESTAIMPUIS,Hainaut,346.0
-8460,Ettelgem,OUDENBURG,Flandre-Occidentale,228.0
-5380,FERNELMONT,FERNELMONT,Namur,471.0
-4400,Flémalle-Grande,FLÉMALLE,Liège,78.0
-7880,FLOBECQ,FLOBECQ,Hainaut,250.0
-5334,Florée,ASSESSE,Namur,427.0
-7503,Froyennes,TOURNAI,Hainaut,262.0
-4260,Fumal,BRAIVES,Liège,251.0
-7823,Gibecq,ATH,Hainaut,104.0
-4300,Grand-Axhe,WAREMME,Liège,116.0
-3670,Gruitrode,OUDSBERGEN,Limbourg,99.0
-6704,Guirsch,ARLON,Luxembourg,311.0
-5580,Han-Sur-Lesse,ROCHEFORT,Namur,110.0
-8610,Handzame,KORTEMARK,Flandre-Occidentale,141.0
-4920,Harzé,AYWAILLE,Liège,146.0
-1540,Herfelingen,HERNE,Brabant Flamand,495.0
-4728,Hergenrath,LA CALAMINE,Liège,86.0
-8830,HOOGLEDE,HOOGLEDE,Flandre-Occidentale,352.0
-4682,Houtain-Saint-Siméon,OUPEYE,Liège,130.0
-9270,Kalken,LAARNE,Flandre-Orientale,501.0
-1081,KOEKELBERG,KOEKELBERG,Bruxelles (19 communes),140.0
-4450,Lantin,JUPRELLE,Liège,405.0
-4261,Latinne,BRAIVES,Liège,251.0
-4217,Lavoir,HÉRON,Liège,351.0
-7730,Leers-Nord,ESTAIMPUIS,Hainaut,346.0
-8432,Leffinge,MIDDELKERKE,Flandre-Occidentale,62.0
-2500,LIER,LIER,Anvers,388.0
-1840,Malderen,LONDERZEEL,Brabant Flamand,376.0
-2800,MECHELEN,MECHELEN,Anvers,479.0
-3870,Mechelen-Bovelingen,HEERS,Limbourg,155.0
-9420,Mere,ERPE-MERE,Flandre-Orientale,291.0
-4630,Micheroux,SOUMAGNE,Liège,159.0
-6870,Mirwart,SAINT-HUBERT,Luxembourg,32.0
-3740,Mopertingen,BILZEN,Limbourg,182.0
-7140,Morlanwelz-Mariemont,MORLANWELZ,Hainaut,35.0
-4670,Mortier,BLÉGNY,Liège,369.0
-3670,Neerglabbeek,OUDSBERGEN,Limbourg,99.0
-6840,NEUFCHÂTEAU,NEUFCHÂTEAU,Luxembourg,123.0
-2560,NIJLEN,NIJLEN,Anvers,327.0
-7080,Noirchain,FRAMERIES,Hainaut,10.0
-7022,Nouvelles,MONS,Hainaut,38.0
-6850,Offagne,PALISEUL,Luxembourg,127.0
-5190,Onoz,JEMEPPE-SUR-SAMBRE,Namur,71.0
-2861,Onze-Lieve-Vrouw-Waver,SINT-KATELIJNE-WAVER,Anvers,449.0
-3660,Opglabbeek,OUDSBERGEN,Limbourg,99.0
-3090,OVERIJSE,OVERIJSE,Brabant Flamand,570.0
-9661,Parike,BRAKEL,Flandre-Orientale,371.0
-1360,PERWEZ,PERWEZ,Brabant Wallon,382.0
-1800,Peutie,VILVOORDE,Brabant Flamand,309.0
-5380,Pontillas,FERNELMONT,Namur,471.0
-9420,Aaigem,ERPE-MERE,Flandre-Orientale,291.0
-5310,Aische-En-Refail,EGHEZÉE,Namur,340.0
-6870,Arville,SAINT-HUBERT,Luxembourg,32.0
-6951,Bande,NASSOGNE,Luxembourg,109.0
-4651,Battice,HERVE,Liège,384.0
-7130,Battignies,BINCHE,Hainaut,29.0
-6672,Beho,GOUVY,Luxembourg,425.0
-4960,Bellevaux-Ligneuville,MALMEDY,Liège,199.0
-7970,BELOEIL,BELOEIL,Hainaut,331.0
-4607,Berneau,DALHEM,Liège,333.0
-3060,BERTEM,BERTEM,Brabant Flamand,513.0
-6687,BERTOGNE,BERTOGNE,Luxembourg,185.0
-3740,Beverst,BILZEN,Limbourg,182.0
-3740,BILZEN,BILZEN,Limbourg,182.0
-4670,BLÉGNY,BLÉGNY,Liège,369.0
-4280,Blehen,HANNUT,Liège,200.0
-5140,Boignée,SOMBREFFE,Namur,219.0
-8630,Booitshoeke,VEURNE,Flandre-Occidentale,431.0
-5660,Boussu-En-Fagne,COUVIN,Namur,54.0
-7803,Bouvignies,ATH,Hainaut,104.0
-5590,Braibant,CINEY,Namur,75.0
-5310,Branchon,EGHEZÉE,Namur,340.0
-7130,Bray,BINCHE,Hainaut,29.0
-5660,Brûly,COUVIN,Namur,54.0
-8630,Bulskamp,VEURNE,Flandre-Occidentale,431.0
-6742,Chantemelle,ETALLE,Luxembourg,375.0
-6180,COURCELLES,COURCELLES,Hainaut,42.0
-5660,Dailly,COUVIN,Namur,54.0
-6020,Dampremy,CHARLEROI,Hainaut,19.0
-5630,Daussois,CERFONTAINE,Namur,17.0
-7912,Dergneau,FRASNES-LEZ-ANVAING,Hainaut,249.0
-1700,DILBEEK,DILBEEK,Brabant Flamand,487.0
-5500,DINANT,DINANT,Namur,134.0
-7370,DOUR,DOUR,Hainaut,2.0
-2570,DUFFEL,DUFFEL,Anvers,397.0
-7190,Ecaussinnes-D'Enghien,ECAUSSINNES,Hainaut,122.0
-7370,Elouges,DOUR,Hainaut,2.0
-5080,Emines,LA BRUYÈRE,Namur,467.0
-7730,Evregnies,ESTAIMPUIS,Hainaut,346.0
-4731,Eynatten,RAEREN,Liège,314.0
-6240,FARCIENNES,FARCIENNES,Hainaut,18.0
-6820,Fontenoille,FLORENVILLE,Luxembourg,22.0
-4340,Fooz,AWANS,Liège,347.0
-7080,FRAMERIES,FRAMERIES,Hainaut,10.0
-1750,Gaasbeek,LENNIK,Brabant Flamand,554.0
-7943,Gages,BRUGELETTE,Hainaut,72.0
-7906,Gallaix,LEUZE-EN-HAINAUT,Hainaut,238.0
-3620,Gellik,LANAKEN,Limbourg,194.0
-6181,Gouy-Lez-Piéton,COURCELLES,Hainaut,42.0
-4460,Grâce-Berleur,GRÂCE-HOLLOGNE,Liège,45.0
-3053,Haasrode,OUD-HEVERLEE,Brabant Flamand,557.0
-4210,Hannêche,BURDINNE,Liège,145.0
-8530,HARELBEKE,HARELBEKE,Flandre-Occidentale,163.0
-7022,Harveng,MONS,Hainaut,38.0
-4771,Heppenbach,AMBLÈVE,Liège,8.0
-3040,HULDENBERG,HULDENBERG,Brabant Flamand,565.0
-6880,Jehonville,BERTRIX,Luxembourg,58.0
-5370,Jeneffe,HAVELANGE,Namur,167.0
-4020,Jupille-Sur-Meuse,LIÈGE,Liège,89.0
-8956,Kemmel,HEUVELLAND,Flandre-Occidentale,51.0
-5101,Lives-Sur-Meuse,NAMUR,Namur,276.0
-6540,LOBBES,LOBBES,Hainaut,214.0
-6924,Lomprez,WELLIN,Luxembourg,337.0
-7850,Marcq,ENGHIEN,Hainaut,473.0
-4210,Marneffe,BURDINNE,Liège,145.0
-5600,Merlemont,PHILIPPEVILLE,Namur,39.0
-5081,Meux,LA BRUYÈRE,Namur,467.0
-5376,Miécret,HAVELANGE,Namur,167.0
-2322,Minderhout,HOOGSTRATEN,Anvers,502.0
-8560,Moorsele,WEVELGEM,Flandre-Occidentale,128.0
-4280,Moxhe,HANNUT,Liège,200.0
-5550,Nafraiture,VRESSE-SUR-SEMOIS,Namur,77.0
-1120,Neder-Over-Heembeek,BRUXELLES,Bruxelles (19 communes),498.0
-6717,Nothomb,ATTERT,Luxembourg,533.0
-6230,Obaix,PONT-À-CELLES,Hainaut,113.0
-5555,Oizy,BIÈVRE,Namur,52.0
-1760,Onze-Lieve-Vrouw-Lombeek,ROOSDAAL,Brabant Flamand,434.0
-9700,Ooike,OUDENAARDE,Flandre-Orientale,271.0
-8020,OOSTKAMP,OOSTKAMP,Flandre-Occidentale,482.0
-4452,Paifve,JUPRELLE,Liège,405.0
-1760,Pamel,ROOSDAAL,Brabant Flamand,434.0
-5650,Pry,WALCOURT,Namur,33.0
-9051,Afsnee,GENT,Flandre-Orientale,491.0
-5070,Aisemont,FOSSES-LA-VILLE,Namur,114.0
-6721,Anlier,HABAY,Luxembourg,332.0
-5520,Anthée,ONHAYE,Namur,108.0
-7181,Arquennes,SENEFFE,Hainaut,171.0
-3665,AS,AS,Limbourg,181.0
-7941,Attre,BRUGELETTE,Hainaut,72.0
-9290,BERLARE,BERLARE,Flandre-Orientale,454.0
-4300,Bettincourt,WAREMME,Liège,116.0
-7620,Bléharies,BRUNEHAUT,Hainaut,493.0
-8680,Bovekerke,KOEKELARE,Flandre-Occidentale,269.0
-4650,Chaineux,HERVE,Liège,384.0
-4860,Cornesse,PEPINSTER,Liège,69.0
-5336,Courrière,ASSESSE,Namur,427.0
-4218,Couthuin,HÉRON,Liège,351.0
-1831,Diegem,MACHELEN,Brabant Flamand,282.0
-5500,Dréhance,DINANT,Namur,134.0
-3350,Drieslinter,LINTER,Brabant Flamand,264.0
-4480,Ehein,ENGIS,Liège,24.0
-9160,Eksaarde,LOKEREN,Flandre-Orientale,342.0
-5644,Ermeton-Sur-Biert,METTET,Namur,139.0
-4130,ESNEUX,ESNEUX,Liège,385.0
-4400,Flémalle-Haute,FLÉMALLE,Liège,78.0
-5150,FLOREFFE,FLOREFFE,Namur,183.0
-6464,Forges,CHIMAY,Hainaut,115.0
-7910,FRASNES-LEZ-ANVAING,FRASNES-LEZ-ANVAING,Hainaut,249.0
-2440,GEEL,GEEL,Anvers,256.0
-1367,Geest-Gérompont-Petit-Rosière,RAMILLIES,Brabant Wallon,379.0
-1450,Gentinnes,CHASTRE,Brabant Wallon,470.0
-7041,Givry,QUÉVY,Hainaut,74.0
-4690,Glons,BASSENGE,Liège,118.0
-7900,Grandmetz,LEUZE-EN-HAINAUT,Hainaut,238.0
-3150,HAACHT,HAACHT,Brabant Flamand,366.0
-7100,Haine-Saint-Pierre,LA LOUVIÈRE,Hainaut,36.0
-9850,Hansbeke,DEINZE,Flandre-Orientale,444.0
-4730,Hauset,RAEREN,Liège,314.0
-7334,Hautrage,SAINT-GHISLAIN,Hainaut,40.0
-7041,Havay,QUÉVY,Hainaut,74.0
-1357,HÉLÉCINE,HÉLÉCINE,Brabant Wallon,176.0
-2200,HERENTALS,HERENTALS,Anvers,296.0
-3540,HERK-DE-STAD,HERK-DE-STAD,Limbourg,406.0
-4681,Hermalle-Sous-Argenteau,OUPEYE,Liège,130.0
-2811,Hombeek,MECHELEN,Anvers,479.0
-5575,Houdremont,GEDINNE,Namur,61.0
-8570,Ingooigem,ANZEGEM,Flandre-Occidentale,292.0
-2920,KALMTHOUT,KALMTHOUT,Anvers,538.0
-3370,Kerkom,BOUTERSEM,Brabant Flamand,486.0
-9270,LAARNE,LAARNE,Flandre-Orientale,501.0
-7522,Lamain,TOURNAI,Hainaut,262.0
-5651,Laneffe,WALCOURT,Namur,33.0
-1370,Lathuy,JODOIGNE,Brabant Wallon,489.0
-7621,Lesdain,BRUNEHAUT,Hainaut,493.0
-9521,Letterhoutem,SINT-LIEVENS-HOUTEM,Flandre-Orientale,319.0
-5680,Matagne-La-Petite,DOISCHE,Namur,143.0
-9820,Melsen,MERELBEKE,Flandre-Orientale,465.0
-5640,METTET,METTET,Namur,139.0
-3680,Neeroeteren,MAASEIK,Limbourg,426.0
-4870,Nessonvaux,TROOZ,Liège,47.0
-2845,NIEL,NIEL,Anvers,321.0
-8377,Nieuwmunster,ZUIENKERKE,Flandre-Occidentale,561.0
-1400,NIVELLES,NIVELLES,Brabant Wallon,272.0
-8730,Oedelem,BEERNEM,Flandre-Occidentale,483.0
-7911,Oeudeghien,FRASNES-LEZ-ANVAING,Hainaut,249.0
-4340,Othée,AWANS,Liège,347.0
-7861,Papignies,LESSINES,Hainaut,131.0
-4910,Polleur,THEUX,Liège,294.0
-5530,Purnode,YVOIR,Namur,286.0
-8620,Ramskapelle,NIEUWPOORT,Flandre-Occidentale,364.0
-6800,Remagne,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-7090,Ronquières,BRAINE-LE-COMTE,Hainaut,60.0
-5330,Sart-Bernard,ASSESSE,Namur,427.0
-3290,Schaffen,DIEST,Brabant Flamand,354.0
-9860,Scheldewindeke,OOSTERZELE,Flandre-Orientale,447.0
-8880,Sint-Eloois-Winkel,LEDEGEM,Flandre-Occidentale,210.0
-1742,Sint-Katherina-Lombeek,TERNAT,Brabant Flamand,497.0
-5310,Taviers,EGHEZÉE,Namur,340.0
-5020,Temploux,NAMUR,Namur,276.0
-7334,Villerot,SAINT-GHISLAIN,Hainaut,40.0
-5670,VIROINVAL,VIROINVAL,Namur,13.0
-4020,Wandre,LIÈGE,Liège,89.0
-4520,WANZE,WANZE,Liège,136.0
-9340,Wanzele,LEDE,Flandre-Orientale,281.0
-2381,Weelde,RAVELS,Anvers,546.0
-5650,Yves-Gomezée,WALCOURT,Namur,33.0
-9630,ZWALM,ZWALM,Flandre-Orientale,420.0
-3806,Velm,SINT-TRUIDEN,Limbourg,206.0
-4190,Vieuxville,FERRIÈRES,Liège,157.0
-1495,VILLERS-LA-VILLE,VILLERS-LA-VILLE,Brabant Wallon,429.0
-1457,WALHAIN,WALHAIN,Brabant Wallon,442.0
-9700,Welden,OUDENAARDE,Flandre-Orientale,271.0
-3111,Wezemaal,ROTSELAAR,Brabant Flamand,383.0
-8210,ZEDELGEM,ZEDELGEM,Flandre-Occidentale,430.0
-1430,Quenast,REBECQ,Brabant Wallon,343.0
-4730,RAEREN,RAEREN,Liège,314.0
-1880,Ramsdonk,KAPELLE-OP-DEN-BOS,Brabant Flamand,500.0
-4690,Roclenge-Sur-Geer,BASSENGE,Liège,118.0
-4257,Rosoux-Crenwick,BERLOZ,Liège,415.0
-3870,Rukkelingen-Loon,HEERS,Limbourg,155.0
-5620,Saint-Aubin,FLORENNES,Namur,68.0
-4851,Sippenaeken,PLOMBIÈRES,Liège,126.0
-7973,Stambruges,BELOEIL,Hainaut,331.0
-8691,Stavele,ALVERINGEM,Flandre-Occidentale,414.0
-5600,Surice,PHILIPPEVILLE,Namur,39.0
-4557,TINLOT,TINLOT,Liège,386.0
-1480,TUBIZE,TUBIZE,Brabant Wallon,189.0
-3054,Vaalbeek,OUD-HEVERLEE,Brabant Flamand,557.0
-9300,AALST,AALST,Flandre-Orientale,247.0
-5060,Arsimont,SAMBREVILLE,Namur,79.0
-5330,ASSESSE,ASSESSE,Namur,427.0
-7380,Baisieux,QUIÉVRAIN,Hainaut,1.0
-7870,Bauffe,LENS,Hainaut,330.0
-9520,Bavegem,SINT-LIEVENS-HOUTEM,Flandre-Orientale,319.0
-3960,Beek,BREE,Limbourg,261.0
-3540,Berbroek,HERK-DE-STAD,Limbourg,406.0
-2600,Berchem,ANTWERPEN,Anvers,339.0
-8791,Beveren,WAREGEM,Flandre-Occidentale,300.0
-4460,Bierset,GRÂCE-HOLLOGNE,Liège,45.0
-5542,Blaimont,HASTIÈRE,Namur,16.0
-7603,Bon-Secours,PÉRUWELZ,Hainaut,177.0
-3631,Boorsem,MAASMECHELEN,Limbourg,273.0
-3840,BORGLOON,BORGLOON,Limbourg,221.0
-2880,BORNEM,BORNEM,Anvers,443.0
-2150,BORSBEEK,BORSBEEK,Anvers,316.0
-2288,Bouwel,GROBBENDONK,Anvers,464.0
-7133,Buvrinnes,BINCHE,Hainaut,29.0
-4257,Corswarem,BERLOZ,Liège,415.0
-9800,DEINZE,DEINZE,Flandre-Orientale,444.0
-5310,Dhuy,EGHEZÉE,Namur,340.0
-7050,Erbaut,JURBISE,Hainaut,336.0
-4700,EUPEN,EUPEN,Liège,170.0
-7387,Fayt-Le-Franc,HONNELLES,Hainaut,125.0
-6686,Flamierge,BERTOGNE,Luxembourg,185.0
-3792,Fouron-Saint-Pierre,FOURONS,Limbourg,460.0
-7040,Goegnies-Chaussée,QUÉVY,Hainaut,74.0
-4460,GRÂCE-HOLLOGNE,GRÂCE-HOLLOGNE,Liège,45.0
-9506,Grimminge,GERAARDSBERGEN,Flandre-Orientale,211.0
-5340,Haltinne,GESVES,Namur,187.0
-9450,Heldergem,HAALTERT,Flandre-Orientale,278.0
-7522,Hertain,TOURNAI,Hainaut,262.0
-8690,Hoogstade,ALVERINGEM,Flandre-Occidentale,414.0
-7812,Houtaing,ATH,Hainaut,104.0
-1851,Humbeek,GRIMBERGEN,Brabant Flamand,438.0
-1460,ITTRE,ITTRE,Brabant Wallon,469.0
-8870,IZEGEM,IZEGEM,Flandre-Occidentale,225.0
-5100,Jambes,NAMUR,Namur,276.0
-8700,Kanegem,TIELT,Flandre-Occidentale,289.0
-3950,Kaulille,BOCHOLT,Limbourg,252.0
-3360,Korbeek-Lo,BIERBEEK,Brabant Flamand,562.0
-3400,Laar,LANDEN,Brabant Flamand,85.0
-3970,LEOPOLDSBURG,LEOPOLDSBURG,Limbourg,121.0
-6500,Leval-Chaudeville,BEAUMONT,Hainaut,30.0
-4020,LIÈGE,LIÈGE,Liège,89.0
-3210,Linden,LUBBEEK,Brabant Flamand,480.0
-2547,LINT,LINT,Anvers,450.0
-5501,Lisogne,DINANT,Namur,134.0
-2990,Loenhout,WUUSTWEZEL,Anvers,435.0
-3920,LOMMEL,LOMMEL,Limbourg,258.0
-3360,Lovenjoel,BIERBEEK,Brabant Flamand,562.0
-8510,Marke,KORTRIJK,Flandre-Occidentale,391.0
-9800,Meigem,DEINZE,Flandre-Orientale,444.0
-4633,Melen,SOUMAGNE,Liège,159.0
-6860,Mellier,LÉGLISE,Luxembourg,120.0
-5560,Mesnil-Eglise,HOUYET,Namur,215.0
-3870,Mettekoven,HEERS,Limbourg,155.0
-6540,Mont-Sainte-Geneviève,LOBBES,Hainaut,214.0
-6061,Montignies-Sur-Sambre,CHARLEROI,Hainaut,19.0
-6750,Mussy-La-Ville,MUSSON,Luxembourg,92.0
-9403,Neigem,NINOVE,Flandre-Orientale,237.0
-4120,NEUPRÉ,NEUPRÉ,Liège,476.0
-1457,Nil-Saint-Vincent-Saint-Martin,WALHAIN,Brabant Wallon,442.0
-7020,Nimy,MONS,Hainaut,38.0
-2390,Oostmalle,MALLE,Anvers,437.0
-9750,Ouwegem,KRUISEM,Flandre-Orientale,511.0
-5352,Perwez-Haillot,OHEY,Namur,236.0
-6692,Petit-Thier,VIELSALM,Luxembourg,98.0
-5550,Pussemange,VRESSE-SUR-SEMOIS,Namur,77.0
-4621,Retinne,FLÉRON,Liège,91.0
-6044,Roux,CHARLEROI,Hainaut,19.0
-4606,Saint-André,DALHEM,Liège,333.0
-6887,Saint-Médard,HERBEUMONT,Luxembourg,76.0
-3470,Sint-Margriete-Houtem,KORTENAKEN,Brabant Flamand,265.0
-9800,Sint-Martens-Leerne,DEINZE,Flandre-Orientale,444.0
-8690,Sint-Rijkers,ALVERINGEM,Flandre-Occidentale,414.0
-6887,Straimont,HERBEUMONT,Luxembourg,76.0
-5550,Sugny,VRESSE-SUR-SEMOIS,Namur,77.0
-3980,TESSENDERLO,TESSENDERLO,Limbourg,305.0
-3793,Teuven,FOURONS,Limbourg,460.0
-4791,Thommen,BURG-REULAND,Liège,87.0
-3300,TIENEN,TIENEN,Brabant Flamand,178.0
-7760,Velaines,CELLES,Hainaut,142.0
-5300,Vezin,ANDENNE,Namur,93.0
-6280,Villers-Poterie,GERPINNES,Hainaut,287.0
-7031,Villers-Saint-Ghislain,MONS,Hainaut,38.0
-4520,Vinalmont,WANZE,Liège,136.0
-8640,VLETEREN,VLETEREN,Flandre-Occidentale,152.0
-2340,Vlimmeren,BEERSE,Anvers,377.0
-4041,Vottem,HERSTAL,Liège,96.0
-9950,Waarschoot,LIEVEGEM,Flandre-Orientale,409.0
-6223,Wagnelée,FLEURUS,Hainaut,31.0
-7861,Wannebecq,LESSINES,Hainaut,131.0
-4217,Waret-L'Evêque,HÉRON,Liège,351.0
-5523,Weillen,ONHAYE,Namur,108.0
-8434,Westende,MIDDELKERKE,Flandre-Occidentale,62.0
-3803,Wilderen,SINT-TRUIDEN,Limbourg,206.0
-5575,Willerzie,GEDINNE,Namur,61.0
-9506,Zandbergen,GERAARDSBERGEN,Flandre-Orientale,211.0
-9500,Zarlardinge,GERAARDSBERGEN,Flandre-Orientale,211.0
-8490,Zerkegem,JABBEKE,Flandre-Occidentale,462.0
-8750,Zwevezele,WINGENE,Flandre-Occidentale,284.0
-2970,'S Gravenwezel,SCHILDE,Anvers,569.0
-6997,Amonines,EREZÉE,Luxembourg,103.0
-7910,Arc-Ainières,FRASNES-LEZ-ANVAING,Hainaut,249.0
-6860,Assenois,LÉGLISE,Luxembourg,120.0
-7800,ATH,ATH,Hainaut,104.0
-6500,Barbençon,BEAUMONT,Hainaut,30.0
-7971,Basècles,BELOEIL,Hainaut,331.0
-4983,Basse-Bodeux,TROIS-PONTS,Liège,361.0
-8730,BEERNEM,BEERNEM,Flandre-Occidentale,483.0
-8510,Bellegem,KORTRIJK,Flandre-Occidentale,391.0
-6834,Bellevaux,BOUILLON,Luxembourg,37.0
-2040,Berendrecht,ANTWERPEN,Anvers,339.0
-4257,BERLOZ,BERLOZ,Liège,415.0
-5380,Bierwart,FERNELMONT,Namur,471.0
-1390,Biez,GREZ-DOICEAU,Brabant Wallon,547.0
-4300,Bleret,WAREMME,Liège,116.0
-2530,BOECHOUT,BOECHOUT,Anvers,499.0
-7866,Bois-De-Lessines,LESSINES,Hainaut,131.0
-6941,Bomal-Sur-Ourthe,DURBUY,Luxembourg,196.0
-2221,Booischot,HEIST-OP-DEN-BERG,Anvers,446.0
-7040,Bougnies,QUÉVY,Hainaut,74.0
-2930,BRASSCHAAT,BRASSCHAAT,Anvers,528.0
-1910,Buken,KAMPENHOUT,Brabant Flamand,556.0
-6971,Champlon,TENNEVILLE,Luxembourg,184.0
-7903,Chapelle-À-Oie,LEUZE-EN-HAINAUT,Hainaut,238.0
-6200,CHÂTELET,CHÂTELET,Hainaut,26.0
-6200,Châtelineau,CHÂTELET,Hainaut,26.0
-4180,Comblain-La-Tour,HAMOIR,Liège,94.0
-4253,Darion,GEER,Liège,160.0
-9890,Dikkelvenne,GAVERE,Flandre-Orientale,453.0
-3400,Eliksem,LANDEN,Brabant Flamand,85.0
-3071,Erps-Kwerps,KORTENBERG,Brabant Flamand,553.0
-4980,Fosse,TROIS-PONTS,Liège,361.0
-3790,FOURONS,FOURONS,Limbourg,460.0
-4970,Francorchamps,STAVELOT,Liège,277.0
-5660,Frasnes,COUVIN,Namur,54.0
-3600,GENK,GENK,Limbourg,180.0
-6840,Grandvoir,NEUFCHÂTEAU,Luxembourg,123.0
-3840,Groot-Loon,BORGLOON,Limbourg,221.0
-3300,Hakendover,TIENEN,Brabant Flamand,178.0
-5590,Haversin,CINEY,Namur,75.0
-5600,Jamiolle,PHILIPPEVILLE,Namur,39.0
-3840,Jesseren,BORGLOON,Limbourg,221.0
-3582,Koersel,BERINGEN,Limbourg,195.0
-9150,KRUIBEKE,KRUIBEKE,Flandre-Orientale,439.0
-9620,Leeuwergem,ZOTTEGEM,Flandre-Orientale,246.0
-3000,LEUVEN,LEUVEN,Brabant Flamand,466.0
-7134,Leval-Trahegnies,BINCHE,Hainaut,29.0
-6238,Liberchies,PONT-À-CELLES,Hainaut,113.0
-4600,Lixhe,VISÉ,Liège,161.0
-1325,Longueville,CHAUMONT-GISTOUX,Brabant Wallon,563.0
-6280,Loverval,GERPINNES,Hainaut,287.0
-9230,Massemen,WETTEREN,Flandre-Orientale,220.0
-9180,MOERBEKE-WAAS,MOERBEKE-WAAS,Flandre-Orientale,290.0
-3404,Neerlanden,LANDEN,Brabant Flamand,85.0
-8950,Nieuwkerke,HEUVELLAND,Flandre-Occidentale,51.0
-6640,Nives,VAUX-SUR-SÛRE,Luxembourg,151.0
-6831,Noirfontaine,BOUILLON,Luxembourg,37.0
-2200,Noorderwijk,HERENTALS,Anvers,296.0
-5640,Oret,METTET,Namur,139.0
-6850,PALISEUL,PALISEUL,Luxembourg,127.0
-7380,QUIÉVRAIN,QUIÉVRAIN,Hainaut,1.0
-6792,Rachecourt,AUBANGE,Luxembourg,279.0
-7520,Ramegnies-Chin,TOURNAI,Hainaut,262.0
-3621,Rekem,LANAKEN,Limbourg,194.0
-4624,Romsée,FLÉRON,Liège,91.0
-6760,Ruette,VIRTON,Luxembourg,133.0
-5600,Samart,PHILIPPEVILLE,Namur,39.0
-1495,Sart-Dames-Avelines,VILLERS-LA-VILLE,Brabant Wallon,429.0
-7830,SILLY,SILLY,Hainaut,231.0
-9112,Sinaai-Waas,SINT-NIKLAAS,Flandre-Orientale,318.0
-3500,Sint-Lambrechts-Herk,HASSELT,Limbourg,412.0
-4140,SPRIMONT,SPRIMONT,Liège,308.0
-8573,Tiegem,ANZEGEM,Flandre-Occidentale,292.0
-9910,Ursel,AALTER,Flandre-Orientale,312.0
-5670,Vierves-Sur-Viroin,VIROINVAL,Namur,13.0
-4161,Villers-Aux-Tours,ANTHISNES,Liège,43.0
-4280,Villers-Le-Peuplier,HANNUT,Liège,200.0
-1570,Vollezele,GALMAARDEN,Brabant Flamand,363.0
-2531,Vremde,BOECHOUT,Anvers,499.0
-3700,Vreren,TONGEREN,Limbourg,203.0
-6900,Waha,MARCHE-EN-FAMENNE,Luxembourg,82.0
-9772,Wannegem-Lede,KRUISEM,Flandre-Orientale,511.0
-5540,Waulsort,HASTIÈRE,Namur,16.0
-6210,Wayaux,LES BONS VILLERS,Hainaut,263.0
-8840,Westrozebeke,STADEN,Flandre-Occidentale,335.0
-8710,WIELSBEKE,WIELSBEKE,Flandre-Occidentale,227.0
-9800,Zeveren,DEINZE,Flandre-Orientale,444.0
-8630,Zoutenaaie,VEURNE,Flandre-Occidentale,431.0
-8377,ZUIENKERKE,ZUIENKERKE,Flandre-Occidentale,561.0
-3831,Herten,WELLEN,Limbourg,387.0
-5380,Hingeon,FERNELMONT,Namur,471.0
-4460,Hollogne-Aux-Pierres,GRÂCE-HOLLOGNE,Liège,45.0
-6990,HOTTON,HOTTON,Luxembourg,50.0
-7110,Houdeng-Aimeries,LA LOUVIÈRE,Hainaut,36.0
-1050,IXELLES,IXELLES,Bruxelles (19 communes),564.0
-7811,Arbre,ATH,Hainaut,104.0
-4260,Avennes,BRAIVES,Liège,251.0
-3128,Baal,TREMELO,Brabant Flamand,448.0
-6464,Baileux,CHIMAY,Hainaut,115.0
-6460,Bailièvre,CHIMAY,Hainaut,115.0
-8480,Bekegem,ICHTEGEM,Flandre-Occidentale,229.0
-9700,Bevere,OUDENAARDE,Flandre-Orientale,271.0
-5310,Bolinne,EGHEZÉE,Namur,340.0
-4317,Borlez,FAIMES,Liège,350.0
-7300,BOUSSU,BOUSSU,Hainaut,15.0
-3370,BOUTERSEM,BOUTERSEM,Brabant Flamand,486.0
-4260,BRAIVES,BRAIVES,Liège,251.0
-2870,Breendonk,PUURS-SINT-AMANDS,Anvers,390.0
-4790,BURG-REULAND,BURG-REULAND,Liège,87.0
-7642,Calonne,ANTOING,Hainaut,5.0
-1341,Céroux-Mousty,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,515.0
-5660,COUVIN,COUVIN,Namur,54.0
-8340,DAMME,DAMME,Flandre-Occidentale,542.0
-4140,Dolembreux,SPRIMONT,Liège,308.0
-1370,Dongelberg,JODOIGNE,Brabant Wallon,489.0
-7972,Ellignies-Sainte-Anne,BELOEIL,Hainaut,331.0
-8600,Esen,DIKSMUIDE,Flandre-Occidentale,348.0
-7730,ESTAIMPUIS,ESTAIMPUIS,Hainaut,346.0
-6820,FLORENVILLE,FLORENVILLE,Luxembourg,22.0
-4870,Forêt,TROOZ,Liège,47.0
-5641,Furnaux,METTET,Namur,139.0
-4851,Gemmenich,PLOMBIÈRES,Liège,126.0
-1390,GREZ-DOICEAU,GREZ-DOICEAU,Brabant Wallon,547.0
-7120,Haulchin,ESTINNES,Hainaut,63.0
-6220,Heppignies,FLEURUS,Hainaut,31.0
-8950,HEUVELLAND,HEUVELLAND,Flandre-Occidentale,51.0
-1090,JETTE,JETTE,Bruxelles (19 communes),260.0
-6642,Juseret,VAUX-SUR-SÛRE,Luxembourg,151.0
-8572,Kaster,ANZEGEM,Flandre-Occidentale,292.0
-2460,KASTERLEE,KASTERLEE,Anvers,519.0
-3700,Kolmont,TONGEREN,Limbourg,203.0
-3070,KORTENBERG,KORTENBERG,Brabant Flamand,553.0
-4350,Lamine,REMICOURT,Liège,188.0
-3201,Langdorp,AARSCHOT,Brabant Flamand,307.0
-9971,Lembeke,KAPRIJKE,Flandre-Orientale,529.0
-4317,Les Waleffes,FAIMES,Liège,350.0
-6500,Leugnies,BEAUMONT,Hainaut,30.0
-1357,Linsmeau,HÉLÉCINE,Brabant Wallon,176.0
-8380,Lissewege,BRUGGE,Flandre-Occidentale,458.0
-7020,Maisières,MONS,Hainaut,38.0
-9990,MALDEGEM,MALDEGEM,Flandre-Orientale,315.0
-5660,Mariembourg,COUVIN,Namur,54.0
-7760,Molenbaix,CELLES,Hainaut,142.0
-6590,MOMIGNIES,MOMIGNIES,Hainaut,3.0
-6032,Mont-Sur-Marchienne,CHARLEROI,Hainaut,19.0
-2200,Morkhoven,HERENTALS,Anvers,296.0
-7140,MORLANWELZ,MORLANWELZ,Hainaut,35.0
-7700,MOUSCRON,MOUSCRON,Hainaut,147.0
-1320,Nodebais,BEAUVECHAIN,Brabant Wallon,544.0
-2520,Oelegem,RANST,Anvers,527.0
-8720,Oeselgem,DENTERGEM,Flandre-Occidentale,507.0
-7750,Orroir,MONT-DE-L'ENCLUS,Hainaut,310.0
-4560,Pailhe,CLAVIER,Liège,119.0
-1315,Piétrebais,INCOURT,Brabant Wallon,362.0
-6830,Poupehan,BOUILLON,Luxembourg,37.0
-8972,Roesbrugge-Haringe,POPERINGE,Flandre-Occidentale,150.0
-1370,Saint-Jean-Geest,JODOIGNE,Brabant Wallon,489.0
-4550,Saint-Séverin,NANDRIN,Liège,418.0
-4557,Seny,TINLOT,Liège,386.0
-5630,Silenrieux,CERFONTAINE,Namur,17.0
-9051,Sint-Denijs-Westrem,GENT,Flandre-Orientale,491.0
-8600,Sint-Jacobs-Kapelle,DIKSMUIDE,Flandre-Occidentale,348.0
-8310,Sint-Kruis,BRUGGE,Flandre-Occidentale,458.0
-9170,Sint-Pauwels,SINT-GILLIS-WAAS,Flandre-Orientale,253.0
-1700,Sint-Ulriks-Kapelle,DILBEEK,Brabant Flamand,487.0
-8490,Stalhille,JABBEKE,Flandre-Occidentale,462.0
-8630,Steenkerke,VEURNE,Flandre-Occidentale,431.0
-6511,Strée,BEAUMONT,Hainaut,30.0
-1853,Strombeek-Bever,GRIMBERGEN,Brabant Flamand,438.0
-1457,Tourinnes-Saint-Lambert,WALHAIN,Brabant Wallon,442.0
-3020,Veltem-Beisem,HERENT,Brabant Flamand,518.0
-4800,VERVIERS,VERVIERS,Liège,53.0
-1472,Vieux-Genappe,GENAPPE,Brabant Wallon,504.0
-9420,Vlekkem,ERPE-MERE,Flandre-Orientale,291.0
-1457,Walhain-Saint-Paul,WALHAIN,Brabant Wallon,442.0
-4608,Warsage,DALHEM,Liège,333.0
-7604,Wasmes-Audemez-Briffoeil,PÉRUWELZ,Hainaut,177.0
-1474,Ways,GENAPPE,Brabant Wallon,504.0
-1982,Weerde,ZEMST,Brabant Flamand,523.0
-2110,WIJNEGEM,WIJNEGEM,Anvers,534.0
-1200,WOLUWE-SAINT-LAMBERT,WOLUWE-SAINT-LAMBERT,Bruxelles (19 communes),539.0
-2040,ANTWERPEN,ANTWERPEN,Anvers,339.0
-6980,Beausaint,LA ROCHE-EN-ARDENNE,Luxembourg,65.0
-3130,Betekom,BEGIJNENDIJK,Brabant Flamand,396.0
-3211,Binkom,LUBBEEK,Brabant Flamand,480.0
-5537,Bioul,ANHÉE,Namur,83.0
-7522,Blandain,TOURNAI,Hainaut,262.0
-7090,BRAINE-LE-COMTE,BRAINE-LE-COMTE,Hainaut,60.0
-8900,Brielen,IEPER,Flandre-Occidentale,270.0
-9255,BUGGENHOUT,BUGGENHOUT,Flandre-Orientale,457.0
-7911,Buissenal,FRASNES-LEZ-ANVAING,Hainaut,249.0
-5580,Buissonville,ROCHEFORT,Namur,110.0
-7604,Callenelle,PÉRUWELZ,Hainaut,177.0
-5630,CERFONTAINE,CERFONTAINE,Namur,17.0
-6747,Châtillon,SAINT-LÉGER,Luxembourg,424.0
-4260,Ciplet,BRAIVES,Liège,251.0
-5590,Conneux,CINEY,Namur,75.0
-3290,Deurne,DIEST,Brabant Flamand,354.0
-9900,EEKLO,EEKLO,Flandre-Orientale,224.0
-3670,Ellikom,OUDSBERGEN,Limbourg,99.0
-7134,Epinois,BINCHE,Hainaut,29.0
-9620,Erwetegem,ZOTTEGEM,Flandre-Orientale,246.0
-7502,Esplechin,TOURNAI,Hainaut,262.0
-6990,Fronville,HOTTON,Luxembourg,50.0
-3450,GEETBETS,GEETBETS,Brabant Flamand,148.0
-7822,Ghislenghien,ATH,Hainaut,104.0
-7011,Ghlin,MONS,Hainaut,38.0
-5660,Gonrieux,COUVIN,Namur,54.0
-6960,Grandménil,MANHAY,Luxembourg,373.0
-6952,Grune,NASSOGNE,Luxembourg,109.0
-7350,Hainin,HENSIES,Hainaut,20.0
-1785,Hamme,MERCHTEM,Brabant Flamand,413.0
-6560,Hantes-Wihéries,ERQUELINNES,Hainaut,14.0
-6929,Haut-Fays,DAVERDISSE,Luxembourg,485.0
-7531,Havinnes,TOURNAI,Hainaut,262.0
-3940,HECHTEL-EKSEL,HECHTEL-EKSEL,Limbourg,124.0
-1670,Heikruis,PEPINGEN,Brabant Flamand,576.0
-6941,Heyd,DURBUY,Luxembourg,196.0
-3220,HOLSBEEK,HOLSBEEK,Brabant Flamand,525.0
-5580,Jemelle,ROCHEFORT,Namur,110.0
-4450,JUPRELLE,JUPRELLE,Liège,405.0
-3220,Kortrijk-Dutsel,HOLSBEEK,Brabant Flamand,525.0
-7611,La Glanerie,RUMES,Hainaut,57.0
-7170,La Hestre,MANAGE,Hainaut,48.0
-8691,Leisele,ALVERINGEM,Flandre-Occidentale,414.0
-6800,LIBRAMONT-CHEVIGNY,LIBRAMONT-CHEVIGNY,Luxembourg,174.0
-4830,LIMBOURG,LIMBOURG,Liège,7.0
-6953,Masbourg,NASSOGNE,Luxembourg,109.0
-7110,Maurage,LA LOUVIÈRE,Hainaut,36.0
-3350,Melkwezer,LINTER,Brabant Flamand,264.0
-6640,Morhet,VAUX-SUR-SÛRE,Luxembourg,151.0
-5000,NAMUR,NAMUR,Namur,276.0
-4560,Ocquier,CLAVIER,Liège,119.0
-4367,Odeur,CRISNÉE,Liège,162.0
-7501,Orcq,TOURNAI,Hainaut,262.0
-3350,Overhespen,LINTER,Brabant Flamand,264.0
-3583,Paal,BERINGEN,Limbourg,195.0
-7740,PECQ,PECQ,Hainaut,138.0
-3900,PELT,PELT,Limbourg,433.0
-5590,Pessoux,CINEY,Namur,75.0
-3700,Piringen,TONGEREN,Limbourg,203.0
-5170,PROFONDEVILLE,PROFONDEVILLE,Namur,344.0
-7040,Quévy-Le-Petit,QUÉVY,Hainaut,74.0
-7971,Ramegnies,BELOEIL,Hainaut,331.0
-8930,Rekkem,MENEN,Flandre-Occidentale,102.0
-3950,Reppel,BOCHOLT,Limbourg,252.0
-3740,Rijkhoven,BILZEN,Limbourg,182.0
-2820,Rijmenam,BONHEIDEN,Anvers,559.0
-5170,Rivière,PROFONDEVILLE,Namur,344.0
-6769,Robelmont,MEIX-DEVANT-VIRTON,Luxembourg,193.0
-3730,Romershoven,HOESELT,Limbourg,90.0
-3740,Rosmeer,BILZEN,Limbourg,182.0
-6900,Roy,MARCHE-EN-FAMENNE,Luxembourg,82.0
-3700,Rutten,TONGEREN,Limbourg,203.0
-5030,Sauvenière,GEMBLOUX,Namur,179.0
-2627,SCHELLE,SCHELLE,Anvers,302.0
-9260,Serskamp,WICHELEN,Flandre-Orientale,192.0
-3040,Sint-Agatha-Rode,HULDENBERG,Brabant Flamand,565.0
-8793,Sint-Eloois-Vijve,WAREGEM,Flandre-Occidentale,300.0
-3051,Sint-Joris-Weert,OUD-HEVERLEE,Brabant Flamand,557.0
-5333,Sorinne-La-Longue,ASSESSE,Namur,427.0
-4920,Sougné-Remouchamps,AYWAILLE,Liège,146.0
-6927,TELLIN,TELLIN,Luxembourg,84.0
-4560,Terwagne,CLAVIER,Liège,119.0
-4367,Thys,CRISNÉE,Liège,162.0
-8490,Varsenare,JABBEKE,Flandre-Occidentale,462.0
-6440,Vergnies,FROIDCHAPELLE,Hainaut,4.0
-7322,Ville-Pommeroeul,BERNISSART,Hainaut,107.0
-5070,Vitrival,FOSSES-LA-VILLE,Namur,114.0
-4683,Vivegnis,OUPEYE,Liège,130.0
-6220,Wangenies,FLEURUS,Hainaut,31.0
-7340,Warquignies,COLFONTAINE,Hainaut,6.0
-7910,Wattripont,FRASNES-LEZ-ANVAING,Hainaut,249.0
-3150,Wespelaar,HAACHT,Brabant Flamand,366.0
-2323,Wortel,HOOGSTRATEN,Anvers,502.0
-9052,Zwijnaarde,GENT,Flandre-Orientale,491.0
-4219,Ambresin,WASSEIGES,Liège,233.0
-4031,Angleur,LIÈGE,Liège,89.0
-4837,BAELEN,BAELEN,Liège,230.0
-5190,Balâtre,JEMEPPE-SUR-SAMBRE,Namur,71.0
-5370,Barvaux-Condroz,HAVELANGE,Namur,167.0
-8531,Bavikhove,HARELBEKE,Flandre-Occidentale,163.0
-8800,Beveren,ROESELARE,Flandre-Occidentale,248.0
-1430,Bierghes,REBECQ,Brabant Wallon,343.0
-5377,Bonsin,SOMME-LEUZE,Namur,73.0
-1390,Bossut-Gottechain,GREZ-DOICEAU,Brabant Wallon,547.0
-6671,Bovigny,GOUVY,Luxembourg,425.0
-7903,Chapelle-À-Wattines,LEUZE-EN-HAINAUT,Hainaut,238.0
-1450,Chastre-Villeroux-Blanmont,CHASTRE,Brabant Wallon,470.0
-6673,Cherain,GOUVY,Luxembourg,425.0
-7950,CHIÈVRES,CHIÈVRES,Hainaut,44.0
-4784,Crombach,SAINT-VITH,Liège,56.0
-8420,DE HAAN,DE HAAN,Flandre-Occidentale,259.0
-8540,DEERLIJK,DEERLIJK,Flandre-Occidentale,204.0
-9280,Denderbelle,LEBBEKE,Flandre-Orientale,394.0
-9831,Deurle,SINT-MARTENS-LATEM,Flandre-Orientale,579.0
-3941,Eksel,HECHTEL-EKSEL,Limbourg,124.0
-7890,ELLEZELLES,ELLEZELLES,Hainaut,95.0
-9660,Elst,BRAKEL,Flandre-Orientale,371.0
-7850,ENGHIEN,ENGHIEN,Hainaut,473.0
-7500,Ere,TOURNAI,Hainaut,262.0
-6567,Fontaine-Valmont,MERBES-LE-CHÂTEAU,Hainaut,25.0
-7504,Froidmont,TOURNAI,Hainaut,262.0
-6929,Gembes,DAVERDISSE,Luxembourg,485.0
-1332,Genval,RIXENSART,Brabant Wallon,568.0
-1367,Gérompont,RAMILLIES,Brabant Wallon,379.0
-6280,Gougnies,GERPINNES,Hainaut,287.0
-5031,Grand-Leez,GEMBLOUX,Namur,179.0
-4650,Grand-Rechain,HERVE,Liège,384.0
-7973,Grandglise,BELOEIL,Hainaut,331.0
-6840,Grapfontaine,NEUFCHÂTEAU,Luxembourg,123.0
-9200,Grembergen,DENDERMONDE,Flandre-Orientale,243.0
-7620,Guignies,BRUNEHAUT,Hainaut,493.0
-6720,Habay-La-Neuve,HABAY,Luxembourg,332.0
-3545,HALEN,HALEN,Limbourg,201.0
-3020,HERENT,HERENT,Brabant Flamand,518.0
-4351,Hodeige,REMICOURT,Liège,188.0
-3320,HOEGAARDEN,HOEGAARDEN,Brabant Flamand,510.0
-4250,Hollogne-Sur-Geer,GEER,Liège,160.0
-4520,Huccorgne,WANZE,Liège,136.0
-1315,INCOURT,INCOURT,Brabant Wallon,362.0
-8490,JABBEKE,JABBEKE,Flandre-Occidentale,462.0
-1370,Jauchelette,JODOIGNE,Brabant Wallon,489.0
-7012,Jemappes,MONS,Hainaut,38.0
-9120,Kallo,BEVEREN-WAAS,Flandre-Orientale,322.0
-8650,Klerken,HOUTHULST,Flandre-Occidentale,257.0
-4720,LA CALAMINE,LA CALAMINE,Liège,86.0
-4210,Lamontzée,BURDINNE,Liège,145.0
-6111,Landelies,MONTIGNY-LE-TILLEUL,Hainaut,244.0
-8930,Lauwe,MENEN,Flandre-Occidentale,102.0
-5670,Le Mesnil,VIROINVAL,Namur,13.0
-6811,Les Bulles,CHINY,Luxembourg,255.0
-4990,LIERNEUX,LIERNEUX,Liège,496.0
-1342,Limelette,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,515.0
-6688,Longchamps,BERTOGNE,Luxembourg,185.0
-6600,Longvilly,BASTOGNE,Luxembourg,166.0
-7022,Mesvin,MONS,Hainaut,38.0
-8552,Moen,ZWEVEGEM,Flandre-Occidentale,156.0
-6110,MONTIGNY-LE-TILLEUL,MONTIGNY-LE-TILLEUL,Hainaut,244.0
-8890,MOORSLEDE,MOORSLEDE,Flandre-Occidentale,441.0
-6997,Mormont,EREZÉE,Luxembourg,103.0
-3891,Muizen,GINGELOM,Limbourg,132.0
-9500,Nederboelare,GERAARDSBERGEN,Flandre-Orientale,211.0
-9850,Nevele,DEINZE,Flandre-Orientale,444.0
-5310,Noville-Sur-Mehaigne,EGHEZÉE,Namur,340.0
-7034,Obourg,MONS,Hainaut,38.0
-5670,Oignies-En-Thiérache,VIROINVAL,Namur,13.0
-3945,Oostham,HAM,Limbourg,303.0
-3360,Opvelp,BIERBEEK,Brabant Flamand,562.0
-4680,OUPEYE,OUPEYE,Liège,130.0
-7850,Petit-Enghien,ENGHIEN,Hainaut,473.0
-9401,Pollare,NINOVE,Flandre-Orientale,237.0
-7760,Pottes,CELLES,Hainaut,142.0
-7390,QUAREGNON,QUAREGNON,Hainaut,9.0
-7972,Quevaucamps,BELOEIL,Hainaut,331.0
-4287,Racour,LINCENT,Liège,218.0
-4987,Rahier,STOUMONT,Liège,475.0
-6460,Robechies,CHIMAY,Hainaut,115.0
-9630,Roborst,ZWALM,Flandre-Orientale,420.0
-8800,ROESELARE,ROESELARE,Flandre-Occidentale,248.0
-7120,Rouveroy,ESTINNES,Hainaut,63.0
-9690,Ruien,KLUISBERGEN,Flandre-Orientale,359.0
-5070,Sart-Eustache,FOSSES-LA-VILLE,Namur,114.0
-9550,Sint-Antelinks,HERZELE,Flandre-Orientale,365.0
-8900,Sint-Jan,IEPER,Flandre-Occidentale,270.0
-9100,SINT-NIKLAAS,SINT-NIKLAAS,Flandre-Orientale,318.0
-9550,Steenhuize-Wijnhuize,HERZELE,Flandre-Orientale,365.0
-5651,Tarcienne,WALCOURT,Namur,33.0
-4130,Tilff,ESNEUX,Liège,385.0
-6700,Toernich,ARLON,Luxembourg,311.0
-4870,TROOZ,TROOZ,Liège,47.0
-6640,Vaux-Lez-Rosières,VAUX-SUR-SÛRE,Luxembourg,151.0
-1800,VILVOORDE,VILVOORDE,Brabant Flamand,309.0
-6461,Virelles,CHIMAY,Hainaut,115.0
-3300,Vissenaken,TIENEN,Brabant Flamand,178.0
-9120,Vrasene,BEVEREN-WAAS,Flandre-Orientale,322.0
-9506,Waarbeke,GERAARDSBERGEN,Flandre-Orientale,211.0
-4590,Warzée,OUFFET,Liège,345.0
-9473,Welle,DENDERLEEUW,Flandre-Orientale,217.0
-4190,Werbomont,FERRIÈRES,Liège,157.0
-8954,Westouter,HEUVELLAND,Flandre-Occidentale,51.0
-2610,Wilrijk,ANTWERPEN,Anvers,339.0
-9060,ZELZATE,ZELZATE,Flandre-Orientale,158.0
-2260,Zoerle-Parwijs,WESTERLO,Anvers,422.0
-9870,ZULTE,ZULTE,Flandre-Orientale,459.0
-8550,ZWEVEGEM,ZWEVEGEM,Flandre-Occidentale,156.0
-5544,Agimont,HASTIÈRE,Namur,16.0
-2030,ANTWERPEN,ANTWERPEN,Anvers,339.0
-9400,Appelterre-Eichem,NINOVE,Flandre-Orientale,237.0
-7382,Audregnies,QUIÉVRAIN,Hainaut,1.0
-1367,Autre-Eglise,RAMILLIES,Brabant Wallon,379.0
-3130,BEGIJNENDIJK,BEGIJNENDIJK,Brabant Flamand,396.0
-9881,Bellem,AALTER,Flandre-Orientale,312.0
-7903,Blicquy,LEUZE-EN-HAINAUT,Hainaut,238.0
-4210,BURDINNE,BURDINNE,Liège,145.0
-5020,Champion,NAMUR,Namur,276.0
-7063,Chaussée-Notre-Dame-Louvignies,SOIGNIES,Hainaut,64.0
-6838,Corbion,BOUILLON,Luxembourg,37.0
-8600,DIKSMUIDE,DIKSMUIDE,Flandre-Occidentale,348.0
-5363,Emptinne,HAMOIS,Namur,436.0
-4480,ENGIS,ENGIS,Liège,24.0
-1350,Enines,ORP-JAUCHE,Brabant Wallon,222.0
-6997,EREZÉE,EREZÉE,Luxembourg,103.0
-5030,Ernage,GEMBLOUX,Namur,179.0
-9420,Erondegem,ERPE-MERE,Flandre-Orientale,291.0
-5522,Falaën,ONHAYE,Namur,108.0
-7181,Feluy,SENEFFE,Hainaut,171.0
-7910,Forest,FRASNES-LEZ-ANVAING,Hainaut,249.0
-8940,Geluwe,WERVIK,Flandre-Occidentale,88.0
-2590,Gestel,BERLAAR,Anvers,505.0
-5340,GESVES,GESVES,Namur,187.0
-1473,Glabais,GENAPPE,Brabant Wallon,504.0
-3803,Gorsem,SINT-TRUIDEN,Limbourg,206.0
-6670,GOUVY,GOUVY,Luxembourg,425.0
-9800,Grammene,DEINZE,Flandre-Orientale,444.0
-2980,Halle,ZOERSEL,Anvers,530.0
-2540,HOVE,HOVE,Anvers,517.0
-9472,Iddergem,DENDERLEEUW,Flandre-Orientale,217.0
-6810,Izel,CHINY,Luxembourg,255.0
-4101,Jemeppe-Sur-Meuse,SERAING,Liège,28.0
-5190,JEMEPPE-SUR-SAMBRE,JEMEPPE-SUR-SAMBRE,Namur,71.0
-7620,Jollain-Merlin,BRUNEHAUT,Hainaut,493.0
-7540,Kain,TOURNAI,Hainaut,262.0
-8600,Keiem,DIKSMUIDE,Flandre-Occidentale,348.0
-3840,Kerniel,BORGLOON,Limbourg,221.0
-4701,Kettenis,EUPEN,Liège,170.0
-9690,KLUISBERGEN,KLUISBERGEN,Flandre-Orientale,359.0
-6464,L'Escaillère,CHIMAY,Hainaut,115.0
-5580,Lessive,ROCHEFORT,Namur,110.0
-2870,Liezele,PUURS-SINT-AMANDS,Anvers,390.0
-7812,Ligne,ATH,Hainaut,104.0
-6238,Luttre,PONT-À-CELLES,Hainaut,113.0
-7810,Maffle,ATH,Hainaut,104.0
-5573,Martouzin-Neuville,BEAURAING,Namur,41.0
-7640,Maubray,ANTOING,Hainaut,5.0
-3078,Meerbeek,KORTENBERG,Brabant Flamand,553.0
-4770,Meyerode,AMBLÈVE,Liège,8.0
-2400,MOL,MOL,Anvers,240.0
-7543,Mourcourt,TOURNAI,Hainaut,262.0
-5190,Moustier-Sur-Sambre,JEMEPPE-SUR-SAMBRE,Namur,71.0
-9700,Mullem,OUDENAARDE,Flandre-Orientale,271.0
-6750,MUSSON,MUSSON,Luxembourg,92.0
-1357,Neerheylissem,HÉLÉCINE,Brabant Wallon,176.0
-3040,Neerijse,HULDENBERG,Brabant Flamand,565.0
-3668,Niel-Bij-As,AS,Limbourg,181.0
-9100,Nieuwkerken-Waas,SINT-NIKLAAS,Flandre-Orientale,318.0
-9630,Paulatem,ZWALM,Flandre-Orientale,420.0
-3990,PEER,PEER,Limbourg,190.0
-1670,PEPINGEN,PEPINGEN,Brabant Flamand,576.0
-2380,RAVELS,RAVELS,Anvers,546.0
-1430,Rebecq-Rognon,REBECQ,Brabant Wallon,343.0
-7134,Ressaix,BINCHE,Hainaut,29.0
-6210,Rèves,LES BONS VILLERS,Hainaut,263.0
-5575,Rienne,GEDINNE,Namur,61.0
-5600,Roly,PHILIPPEVILLE,Namur,39.0
-5600,Romedenne,PHILIPPEVILLE,Namur,39.0
-3732,Schalkhoven,HOESELT,Limbourg,90.0
-5300,Sclayn,ANDENNE,Namur,93.0
-9040,Sint-Amandsberg,GENT,Flandre-Orientale,491.0
-9340,Smetlede,LEDE,Flandre-Orientale,281.0
-8470,Snaaskerke,GISTEL,Flandre-Occidentale,392.0
-6500,Solre-Saint-Géry,BEAUMONT,Hainaut,30.0
-7070,Thieu,LE ROEULX,Hainaut,234.0
-6500,Thirimont,BEAUMONT,Hainaut,30.0
-8700,TIELT,TIELT,Flandre-Occidentale,289.0
-3390,TIELT-WINGE,TIELT-WINGE,Brabant Flamand,338.0
-3960,Tongerlo,BREE,Limbourg,261.0
-7500,TOURNAI,TOURNAI,Hainaut,262.0
-2300,TURNHOUT,TURNHOUT,Anvers,283.0
-7120,Vellereille-Le-Sec,ESTINNES,Hainaut,63.0
-6890,Villance,LIBIN,Luxembourg,368.0
-5580,Villers-Sur-Lesse,ROCHEFORT,Namur,110.0
-3721,Vliermaalroot,KORTESSEM,Limbourg,209.0
-9400,Voorde,NINOVE,Flandre-Orientale,237.0
-3630,Vucht,MAASMECHELEN,Limbourg,273.0
-3401,Walshoutem,LANDEN,Brabant Flamand,85.0
-4300,WAREMME,WAREMME,Liège,116.0
-8940,WERVIK,WERVIK,Flandre-Occidentale,88.0
-2260,WESTERLO,WESTERLO,Anvers,422.0
-3018,Wijgmaal,LEUVEN,Brabant Flamand,466.0
-8431,Wilskerke,MIDDELKERKE,Flandre-Occidentale,62.0
-2160,WOMMELGEM,WOMMELGEM,Anvers,428.0
-4550,Yernée-Fraineux,NANDRIN,Liège,418.0
-8400,Zandvoorde,OOSTENDE,Flandre-Occidentale,169.0
-3800,Zepperen,SINT-TRUIDEN,Limbourg,206.0
-2230,HERSELT,HERSELT,Anvers,295.0
-6987,Hodister,RENDEUX,Luxembourg,11.0
-3746,Hoelbeek,BILZEN,Limbourg,182.0
+zip,commune,province,rank
+5670,VIROINVAL,Namur,13.0
+1860,MEISE,Brabant Flamand,526.0
+9700,OUDENAARDE,Flandre-Orientale,268.0
+1370,JODOIGNE,Brabant Wallon,489.0
+4520,WANZE,Liège,136.0
+6592,MOMIGNIES,Hainaut,3.0
+7542,TOURNAI,Hainaut,281.0
+5190,JEMEPPE-SUR-SAMBRE,Namur,75.0
+5300,ANDENNE,Namur,99.0
+3221,HOLSBEEK,Brabant Flamand,512.0
+7387,HONNELLES,Hainaut,126.0
+1315,INCOURT,Brabant Wallon,361.0
+4360,OREYE,Liège,103.0
+4577,MODAVE,Liège,145.0
+5575,GEDINNE,Namur,63.0
+7760,CELLES,Hainaut,142.0
+8972,POPERINGE,Flandre-Occidentale,163.0
+2242,ZANDHOVEN,Anvers,459.0
+1430,REBECQ,Brabant Wallon,338.0
+5081,LA BRUYÈRE,Namur,468.0
+2970,SCHILDE,Anvers,569.0
+2900,SCHOTEN,Anvers,471.0
+8554,ZWEVEGEM,Flandre-Occidentale,158.0
+6920,WELLIN,Luxembourg,303.0
+3510,HASSELT,Limbourg,411.0
+9140,TEMSE,Flandre-Orientale,310.0
+3080,TERVUREN,Brabant Flamand,572.0
+7350,HENSIES,Hainaut,20.0
+7971,BELOEIL,Hainaut,347.0
+5621,FLORENNES,Namur,76.0
+4420,SAINT-NICOLAS,Liège,12.0
+6637,FAUVILLERS,Luxembourg,68.0
+6941,DURBUY,Luxembourg,194.0
+1180,UCCLE,Bruxelles (19 communes),549.0
+7812,ATH,Hainaut,104.0
+5570,BEAURAING,Namur,38.0
+9185,WACHTEBEKE,Flandre-Orientale,420.0
+7620,BRUNEHAUT,Hainaut,441.0
+6666,HOUFFALIZE,Luxembourg,47.0
+7608,PÉRUWELZ,Hainaut,57.0
+1861,MEISE,Brabant Flamand,526.0
+8470,GISTEL,Flandre-Occidentale,392.0
+4780,SAINT-VITH,Liège,58.0
+3791,FOURONS,Limbourg,480.0
+2310,RIJKEVORSEL,Anvers,533.0
+3454,GEETBETS,Brabant Flamand,155.0
+9150,KRUIBEKE,Flandre-Orientale,437.0
+1703,DILBEEK,Brabant Flamand,487.0
+3270,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,195.0
+6750,MUSSON,Luxembourg,98.0
+9620,ZOTTEGEM,Flandre-Orientale,247.0
+5503,DINANT,Namur,138.0
+4801,VERVIERS,Liège,72.0
+8600,DIKSMUIDE,Flandre-Occidentale,344.0
+1740,TERNAT,Brabant Flamand,492.0
+4910,THEUX,Liège,291.0
+6230,PONT-À-CELLES,Hainaut,108.0
+7904,LEUZE-EN-HAINAUT,Hainaut,237.0
+6183,COURCELLES,Hainaut,41.0
+6960,MANHAY,Luxembourg,373.0
+6823,FLORENVILLE,Luxembourg,29.0
+5080,LA BRUYÈRE,Namur,468.0
+9921,LIEVEGEM,Flandre-Orientale,408.0
+2290,VORSELAAR,Anvers,422.0
+3890,GINGELOM,Limbourg,146.0
+5377,SOMME-LEUZE,Namur,77.0
+4280,HANNUT,Liège,198.0
+7740,PECQ,Hainaut,278.0
+8610,KORTEMARK,Flandre-Occidentale,141.0
+8560,WEVELGEM,Flandre-Occidentale,127.0
+2222,HEIST-OP-DEN-BERG,Anvers,450.0
+5571,BEAURAING,Namur,38.0
+3370,BOUTERSEM,Brabant Flamand,486.0
+7506,TOURNAI,Hainaut,281.0
+1150,WOLUWE-SAINT-PIERRE,Bruxelles (19 communes),574.0
+9032,GENT,Flandre-Orientale,496.0
+4432,ANS,Liège,66.0
+3690,ZUTENDAAL,Limbourg,208.0
+2070,ZWIJNDRECHT,Anvers,455.0
+4557,TINLOT,Liège,387.0
+6280,GERPINNES,Hainaut,285.0
+9991,MALDEGEM,Flandre-Orientale,312.0
+2020,ANTWERPEN,Anvers,334.0
+5060,SAMBREVILLE,Namur,82.0
+7830,SILLY,Hainaut,231.0
+7604,PÉRUWELZ,Hainaut,57.0
+9080,LOCHRISTI,Flandre-Orientale,525.0
+8370,BLANKENBERGE,Flandre-Occidentale,153.0
+6700,ARLON,Luxembourg,309.0
+3300,TIENEN,Brabant Flamand,179.0
+9660,BRAKEL,Flandre-Orientale,395.0
+7940,BRUGELETTE,Hainaut,62.0
+6460,CHIMAY,Hainaut,95.0
+5590,CINEY,Namur,78.0
+1380,LASNE,Brabant Wallon,580.0
+5332,ASSESSE,Namur,367.0
+6860,LÉGLISE,Luxembourg,121.0
+1140,EVERE,Bruxelles (19 communes),262.0
+9940,EVERGEM,Flandre-Orientale,391.0
+4870,TROOZ,Liège,46.0
+3740,BILZEN,Limbourg,178.0
+3800,SINT-TRUIDEN,Limbourg,192.0
+3500,HASSELT,Limbourg,411.0
+3440,ZOUTLEEUW,Brabant Flamand,115.0
+7090,BRAINE-LE-COMTE,Hainaut,61.0
+6887,HERBEUMONT,Luxembourg,79.0
+2270,HERENTHOUT,Anvers,350.0
+6984,LA ROCHE-EN-ARDENNE,Luxembourg,70.0
+3840,BORGLOON,Limbourg,217.0
+4460,GRÂCE-HOLLOGNE,Liège,43.0
+8650,HOUTHULST,Flandre-Occidentale,255.0
+6120,HAM-SUR-HEURE,Hainaut,315.0
+1730,ASSE,Brabant Flamand,341.0
+8670,KOKSIJDE,Flandre-Occidentale,322.0
+8500,KORTRIJK,Flandre-Occidentale,352.0
+9850,DEINZE,Flandre-Orientale,453.0
+5070,FOSSES-LA-VILLE,Namur,116.0
+2275,LILLE,Anvers,451.0
+4287,LINCENT,Liège,214.0
+3040,HULDENBERG,Brabant Flamand,565.0
+1830,MACHELEN,Brabant Flamand,276.0
+9200,DENDERMONDE,Flandre-Orientale,242.0
+6661,HOUFFALIZE,Luxembourg,47.0
+7911,FRASNES-LEZ-ANVAING,Hainaut,340.0
+5340,GESVES,Namur,186.0
+5680,DOISCHE,Namur,144.0
+2360,OUD-TURNHOUT,Anvers,532.0
+1600,SINT-PIETERS-LEEUW,Brabant Flamand,448.0
+5555,BIÈVRE,Namur,52.0
+4850,PLOMBIÈRES,Liège,149.0
+3930,HAMONT-ACHEL,Limbourg,345.0
+1790,AFFLIGEM,Brabant Flamand,444.0
+1070,ANDERLECHT,Bruxelles (19 communes),282.0
+6890,LIBIN,Luxembourg,368.0
+3271,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,195.0
+2490,BALEN,Anvers,240.0
+7534,TOURNAI,Hainaut,281.0
+6500,BEAUMONT,Hainaut,28.0
+5030,GEMBLOUX,Namur,177.0
+2560,NIJLEN,Anvers,325.0
+6543,LOBBES,Hainaut,246.0
+3850,NIEUWERKERKEN,Limbourg,200.0
+8501,KORTRIJK,Flandre-Occidentale,352.0
+1325,CHAUMONT-GISTOUX,Brabant Wallon,563.0
+3190,BOORTMEERBEEK,Brabant Flamand,484.0
+4300,WAREMME,Liège,117.0
+4750,BUTGENBACH,Liège,398.0
+4317,FAIMES,Liège,346.0
+5650,WALCOURT,Namur,31.0
+4180,HAMOIR,Liège,91.0
+5020,NAMUR,Namur,258.0
+4590,OUFFET,Liège,342.0
+8906,IEPER,Flandre-Occidentale,265.0
+6220,FLEURUS,Hainaut,35.0
+5504,DINANT,Namur,138.0
+5380,FERNELMONT,Namur,470.0
+7040,QUÉVY,Hainaut,74.0
+9500,GERAARDSBERGEN,Flandre-Orientale,210.0
+4000,LIÈGE,Liège,83.0
+7100,LA LOUVIÈRE,Hainaut,37.0
+6922,WELLIN,Luxembourg,303.0
+9310,AALST,Flandre-Orientale,227.0
+8020,OOSTKAMP,Flandre-Occidentale,482.0
+3640,KINROOI,Limbourg,185.0
+8300,KNOKKE-HEIST,Flandre-Occidentale,570.0
+4560,CLAVIER,Liège,120.0
+6953,NASSOGNE,Luxembourg,102.0
+4987,STOUMONT,Liège,475.0
+1360,PERWEZ,Brabant Wallon,383.0
+5530,YVOIR,Namur,283.0
+3511,HASSELT,Limbourg,411.0
+9860,OOSTERZELE,Flandre-Orientale,445.0
+8920,LANGEMARK-POELKAPELLE,Flandre-Occidentale,171.0
+3700,TONGEREN,Limbourg,201.0
+9400,NINOVE,Flandre-Orientale,267.0
+9820,MERELBEKE,Flandre-Orientale,464.0
+9992,MALDEGEM,Flandre-Orientale,312.0
+3891,GINGELOM,Limbourg,146.0
+4607,DALHEM,Liège,377.0
+6660,HOUFFALIZE,Luxembourg,47.0
+5100,NAMUR,Namur,258.0
+1910,KAMPENHOUT,Brabant Flamand,556.0
+7862,LESSINES,Hainaut,112.0
+4540,AMAY,Liège,27.0
+9968,ASSENEDE,Flandre-Orientale,324.0
+3350,LINTER,Brabant Flamand,261.0
+1340,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,523.0
+7640,ANTOING,Hainaut,7.0
+4350,REMICOURT,Liège,175.0
+6927,TELLIN,Luxembourg,87.0
+1640,RHODE-SAINT-GENÈSE,Brabant Flamand,573.0
+7500,TOURNAI,Hainaut,281.0
+9688,MAARKEDAL,Flandre-Orientale,505.0
+9890,GAVERE,Flandre-Orientale,452.0
+8710,WIELSBEKE,Flandre-Occidentale,225.0
+9520,SINT-LIEVENS-HOUTEM,Flandre-Orientale,356.0
+3650,DILSEN-STOKKEM,Limbourg,189.0
+6813,CHINY,Luxembourg,130.0
+6680,SAINTE-ODE,Luxembourg,65.0
+6767,ROUVROY,Luxembourg,45.0
+4980,TROIS-PONTS,Liège,360.0
+8210,ZEDELGEM,Flandre-Occidentale,414.0
+7120,ESTINNES,Hainaut,64.0
+3870,HEERS,Limbourg,157.0
+4530,VILLERS-LE-BOUILLET,Liège,165.0
+1460,ITTRE,Brabant Wallon,474.0
+3770,RIEMST,Limbourg,294.0
+3401,LANDEN,Brabant Flamand,73.0
+1741,TERNAT,Brabant Flamand,492.0
+9988,SINT-LAUREINS,Flandre-Orientale,221.0
+1300,WAVRE,Brabant Wallon,493.0
+2235,HULSHOUT,Anvers,460.0
+2980,ZOERSEL,Anvers,531.0
+4770,AMBLÈVE,Liège,8.0
+6150,ANDERLUES,Hainaut,32.0
+4821,DISON,Liège,21.0
+5537,ANHÉE,Namur,86.0
+9404,NINOVE,Flandre-Orientale,267.0
+4880,AUBEL,Liège,481.0
+1160,AUDERGHEM,Bruxelles (19 communes),545.0
+7331,SAINT-GHISLAIN,Hainaut,36.0
+1401,NIVELLES,Brabant Wallon,284.0
+3580,BERINGEN,Limbourg,193.0
+4831,LIMBOURG,Liège,6.0
+1367,RAMILLIES,Brabant Wallon,380.0
+8450,BREDENE,Flandre-Occidentale,114.0
+3380,GLABBEEK,Brabant Flamand,478.0
+4367,CRISNÉE,Liège,162.0
+9630,ZWALM,Flandre-Orientale,421.0
+8480,ICHTEGEM,Flandre-Occidentale,229.0
+9420,ERPE-MERE,Flandre-Orientale,289.0
+4950,WAIMES,Liège,371.0
+4190,FERRIÈRES,Liège,159.0
+5620,FLORENNES,Namur,76.0
+9090,MELLE,Flandre-Orientale,504.0
+6782,MESSANCY,Luxembourg,427.0
+5351,OHEY,Namur,223.0
+8551,ZWEVEGEM,Flandre-Occidentale,158.0
+2801,MECHELEN,Anvers,479.0
+4480,ENGIS,Liège,23.0
+2880,BORNEM,Anvers,443.0
+3390,TIELT-WINGE,Brabant Flamand,354.0
+1654,BEERSEL,Brabant Flamand,490.0
+8340,DAMME,Flandre-Occidentale,542.0
+9340,LEDE,Flandre-Orientale,275.0
+3061,BERTEM,Brabant Flamand,515.0
+1750,LENNIK,Brabant Flamand,554.0
+9930,LIEVEGEM,Flandre-Orientale,408.0
+3545,HALEN,Limbourg,199.0
+5310,EGHEZÉE,Namur,336.0
+7700,MOUSCRON,Hainaut,172.0
+6810,CHINY,Luxembourg,130.0
+2430,LAAKDAL,Anvers,305.0
+9280,LEBBEKE,Flandre-Orientale,393.0
+2890,PUURS-SINT-AMANDS,Anvers,389.0
+6042,CHARLEROI,Hainaut,19.0
+8570,ANZEGEM,Flandre-Occidentale,330.0
+3460,BEKKEVOORT,Brabant Flamand,224.0
+5580,ROCHEFORT,Namur,113.0
+9690,KLUISBERGEN,Flandre-Orientale,358.0
+6531,THUIN,Hainaut,106.0
+5021,NAMUR,Namur,258.0
+5032,GEMBLOUX,Namur,177.0
+6743,ETALLE,Luxembourg,370.0
+5550,VRESSE-SUR-SEMOIS,Namur,80.0
+7160,CHAPELLE-LEZ-HERLAIMONT,Hainaut,400.0
+4537,VERLAINE,Liège,379.0
+9170,SINT-GILLIS-WAAS,Flandre-Orientale,252.0
+9790,WORTEGEM-PETEGEM,Flandre-Orientale,511.0
+4053,CHAUDFONTAINE,Liège,253.0
+4800,VERVIERS,Liège,72.0
+6441,FROIDCHAPELLE,Hainaut,4.0
+7080,FRAMERIES,Hainaut,10.0
+4347,FEXHE-LE-HAUT-CLOCHER,Liège,101.0
+4181,HAMOIR,Liège,91.0
+5651,WALCOURT,Namur,31.0
+6940,DURBUY,Luxembourg,194.0
+3723,KORTESSEM,Limbourg,206.0
+1320,BEAUVECHAIN,Brabant Wallon,544.0
+3471,KORTENAKEN,Brabant Flamand,300.0
+7110,LA LOUVIÈRE,Hainaut,37.0
+8900,IEPER,Flandre-Occidentale,265.0
+1745,OPWIJK,Brabant Flamand,477.0
+6567,MERBES-LE-CHÂTEAU,Hainaut,24.0
+6780,MESSANCY,Luxembourg,427.0
+7942,BRUGELETTE,Hainaut,62.0
+7070,LE ROEULX,Hainaut,235.0
+5361,HAMOIS,Namur,413.0
+3294,DIEST,Brabant Flamand,348.0
+2812,MECHELEN,Anvers,479.0
+3400,LANDEN,Brabant Flamand,73.0
+8800,ROESELARE,Flandre-Occidentale,249.0
+5350,OHEY,Namur,223.0
+3960,BREE,Limbourg,260.0
+8582,AVELGEM,Flandre-Occidentale,105.0
+7134,BINCHE,Hainaut,33.0
+8647,LO-RENINGE,Flandre-Occidentale,410.0
+4171,COMBLAIN-AU-PONT,Liège,60.0
+6464,CHIMAY,Hainaut,95.0
+8755,RUISELEDE,Flandre-Occidentale,462.0
+3803,SINT-TRUIDEN,Limbourg,192.0
+5002,NAMUR,Namur,258.0
+6982,LA ROCHE-EN-ARDENNE,Luxembourg,70.0
+9982,SINT-LAUREINS,Flandre-Orientale,221.0
+2960,BRECHT,Anvers,513.0
+6470,SIVRY-RANCE,Hainaut,22.0
+8433,MIDDELKERKE,Flandre-Occidentale,71.0
+1933,ZAVENTEM,Brabant Flamand,510.0
+6970,TENNEVILLE,Luxembourg,183.0
+2830,WILLEBROEK,Anvers,382.0
+9130,BEVEREN-WAAS,Flandre-Orientale,316.0
+9800,DEINZE,Flandre-Orientale,453.0
+7131,BINCHE,Hainaut,33.0
+3830,WELLEN,Limbourg,388.0
+7370,DOUR,Hainaut,1.0
+8980,ZONNEBEKE,Flandre-Occidentale,196.0
+8660,DE PANNE,Flandre-Occidentale,118.0
+6717,ATTERT,Luxembourg,534.0
+6870,SAINT-HUBERT,Luxembourg,30.0
+7784,COMINES-WARNETON,Hainaut,503.0
+1852,GRIMBERGEN,Brabant Flamand,436.0
+6533,THUIN,Hainaut,106.0
+3052,OUD-HEVERLEE,Brabant Flamand,557.0
+7170,MANAGE,Hainaut,49.0
+4990,LIERNEUX,Liège,491.0
+1000,BRUXELLES,Bruxelles (19 communes),494.0
+7061,SOIGNIES,Hainaut,67.0
+1450,CHASTRE,Brabant Wallon,469.0
+7340,COLFONTAINE,Hainaut,5.0
+2100,ANTWERPEN,Anvers,334.0
+8951,HEUVELLAND,Flandre-Occidentale,55.0
+8380,BRUGGE,Flandre-Occidentale,467.0
+7190,ECAUSSINNES,Hainaut,124.0
+4120,NEUPRÉ,Liège,457.0
+1980,ZEMST,Brabant Flamand,521.0
+5101,NAMUR,Namur,258.0
+8587,ESPIERRES-HELCHIN,Flandre-Occidentale,274.0
+3798,FOURONS,Limbourg,480.0
+5600,PHILIPPEVILLE,Namur,39.0
+4400,FLÉMALLE,Liège,81.0
+2220,HEIST-OP-DEN-BERG,Anvers,450.0
+5360,HAMOIS,Namur,413.0
+4040,HERSTAL,Liège,93.0
+5563,HOUYET,Namur,129.0
+8581,AVELGEM,Flandre-Occidentale,105.0
+4141,SPRIMONT,Liège,333.0
+6852,PALISEUL,Luxembourg,131.0
+6030,CHARLEROI,Hainaut,19.0
+6747,SAINT-LÉGER,Luxembourg,425.0
+8957,MESSINES,Flandre-Occidentale,51.0
+7332,SAINT-GHISLAIN,Hainaut,36.0
+6983,LA ROCHE-EN-ARDENNE,Luxembourg,70.0
+2382,RAVELS,Anvers,547.0
+2580,PUTTE,Anvers,417.0
+2870,PUURS-SINT-AMANDS,Anvers,389.0
+7712,MOUSCRON,Hainaut,172.0
+5560,HOUYET,Namur,129.0
+5354,OHEY,Namur,223.0
+3293,DIEST,Brabant Flamand,348.0
+8851,ARDOOIE,Flandre-Occidentale,375.0
+7800,ATH,Hainaut,104.0
+6681,SAINTE-ODE,Luxembourg,65.0
+4250,GEER,Liège,226.0
+2460,KASTERLEE,Anvers,520.0
+8460,OUDENBURG,Flandre-Occidentale,228.0
+4140,SPRIMONT,Liège,333.0
+7750,MONT-DE-L'ENCLUS,Hainaut,308.0
+6762,VIRTON,Luxembourg,110.0
+7030,MONS,Hainaut,40.0
+5521,ONHAYE,Namur,133.0
+6560,ERQUELINNES,Hainaut,15.0
+4163,ANTHISNES,Liège,42.0
+6536,THUIN,Hainaut,106.0
+6833,BOUILLON,Luxembourg,44.0
+4451,JUPRELLE,Liège,418.0
+4570,MARCHIN,Liège,167.0
+2550,KONTICH,Anvers,466.0
+6600,BASTOGNE,Luxembourg,166.0
+8690,ALVERINGEM,Flandre-Occidentale,402.0
+6791,AUBANGE,Luxembourg,233.0
+8630,VEURNE,Flandre-Occidentale,430.0
+5640,METTET,Namur,139.0
+1440,BRAINE-LE-CHÂTEAU,Brabant Wallon,438.0
+9450,HAALTERT,Flandre-Orientale,279.0
+8792,WAREGEM,Flandre-Occidentale,297.0
+9042,GENT,Flandre-Orientale,496.0
+3290,DIEST,Brabant Flamand,348.0
+4690,BASSENGE,Liège,119.0
+2910,ESSEN,Anvers,271.0
+4631,SOUMAGNE,Liège,205.0
+3790,FOURONS,Limbourg,480.0
+5150,FLOREFFE,Namur,182.0
+1755,GOOIK,Brabant Flamand,501.0
+6720,HABAY,Luxembourg,355.0
+1130,BRUXELLES,Bruxelles (19 communes),494.0
+5541,HASTIÈRE,Namur,14.0
+5543,HASTIÈRE,Namur,14.0
+3530,HOUTHALEN-HELCHTEREN,Limbourg,203.0
+4650,HERVE,Liège,431.0
+4671,BLÉGNY,Liège,374.0
+8770,INGELMUNSTER,Flandre-Occidentale,327.0
+8520,KUURNE,Flandre-Occidentale,135.0
+6900,MARCHE-EN-FAMENNE,Luxembourg,85.0
+9030,GENT,Flandre-Orientale,496.0
+1350,ORP-JAUCHE,Brabant Wallon,218.0
+2450,MEERHOUT,Anvers,329.0
+7822,ATH,Hainaut,104.0
+8760,MEULEBEKE,Flandre-Occidentale,174.0
+7141,MORLANWELZ,Hainaut,34.0
+4608,DALHEM,Liège,377.0
+8620,NIEUWPOORT,Flandre-Occidentale,364.0
+6851,PALISEUL,Luxembourg,131.0
+3212,LUBBEEK,Brabant Flamand,476.0
+7600,PÉRUWELZ,Hainaut,57.0
+8970,POPERINGE,Flandre-Occidentale,163.0
+5660,COUVIN,Namur,53.0
+6532,THUIN,Hainaut,106.0
+4790,BURG-REULAND,Liège,88.0
+7623,BRUNEHAUT,Hainaut,441.0
+1760,ROOSDAAL,Brabant Flamand,439.0
+6730,TINTIGNY,Luxembourg,302.0
+8700,TIELT,Flandre-Occidentale,287.0
+6832,BOUILLON,Luxembourg,44.0
+5630,CERFONTAINE,Namur,17.0
+6640,VAUX-SUR-SÛRE,Luxembourg,143.0
+9980,SINT-LAUREINS,Flandre-Orientale,221.0
+9667,HOREBEKE,Flandre-Orientale,536.0
+2940,STABROEK,Anvers,263.0
+7618,RUMES,Hainaut,56.0
+1495,VILLERS-LA-VILLE,Brabant Wallon,429.0
+2431,LAAKDAL,Anvers,305.0
+8902,IEPER,Flandre-Occidentale,265.0
+6224,FLEURUS,Hainaut,35.0
+1410,WATERLOO,Brabant Wallon,558.0
+4860,PEPINSTER,Liège,69.0
+2040,ANTWERPEN,Anvers,334.0
+1731,ASSE,Brabant Flamand,341.0
+8904,IEPER,Flandre-Occidentale,265.0
+3742,BILZEN,Limbourg,178.0
+3670,OUDSBERGEN,Limbourg,156.0
+1820,STEENOKKERZEEL,Brabant Flamand,543.0
+9506,GERAARDSBERGEN,Flandre-Orientale,210.0
+7866,LESSINES,Hainaut,112.0
+4252,GEER,Liège,226.0
+4102,SERAING,Liège,26.0
+3900,PELT,Limbourg,432.0
+4219,WASSEIGES,Liège,234.0
+7532,TOURNAI,Hainaut,281.0
+8691,ALVERINGEM,Flandre-Occidentale,402.0
+6690,VIELSALM,Luxembourg,92.0
+9961,ASSENEDE,Flandre-Orientale,324.0
+4654,HERVE,Liège,431.0
+4890,THIMISTER-CLERMONT,Liège,353.0
+8890,MOORSLEDE,Flandre-Occidentale,440.0
+3590,DIEPENBEEK,Limbourg,219.0
+7191,ECAUSSINNES,Hainaut,124.0
+3630,MAASMECHELEN,Limbourg,269.0
+9810,NAZARETH,Flandre-Orientale,424.0
+7743,PECQ,Hainaut,278.0
+5500,DINANT,Namur,138.0
+1190,FOREST,Bruxelles (19 communes),473.0
+6440,FROIDCHAPELLE,Hainaut,4.0
+4030,LIÈGE,Liège,83.0
+6792,AUBANGE,Luxembourg,233.0
+1500,HALLE,Brabant Flamand,399.0
+3730,HOESELT,Limbourg,94.0
+7050,JURBISE,Hainaut,332.0
+7622,BRUNEHAUT,Hainaut,441.0
+1502,HALLE,Brabant Flamand,399.0
+6210,LES BONS VILLERS,Hainaut,286.0
+6830,BOUILLON,Luxembourg,44.0
+4600,VISÉ,Liège,150.0
+1330,RIXENSART,Brabant Wallon,568.0
+7540,TOURNAI,Hainaut,281.0
+Saint-Nicolas,SAINT-NICOLAS,Liège,12.0
+1480,TUBIZE,Brabant Wallon,187.0
+3540,HERK-DE-STAD,Limbourg,406.0
+3220,HOLSBEEK,Brabant Flamand,512.0
+4450,JUPRELLE,Liège,418.0
+6182,COURCELLES,Hainaut,41.0
+9190,STEKENE,Flandre-Orientale,306.0
+3512,HASSELT,Limbourg,411.0
+2260,WESTERLO,Anvers,423.0
+6462,CHIMAY,Hainaut,95.0
+7538,TOURNAI,Hainaut,281.0
+6769,MEIX-DEVANT-VIRTON,Luxembourg,191.0
+4453,JUPRELLE,Liège,418.0
+6760,VIRTON,Luxembourg,110.0
+3724,KORTESSEM,Limbourg,206.0
+4711,LONTZEN,Liège,323.0
+1930,ZAVENTEM,Brabant Flamand,510.0
+9840,DE PINTE,Flandre-Orientale,560.0
+5362,HAMOIS,Namur,413.0
+4601,VISÉ,Liège,150.0
+3384,GLABBEEK,Brabant Flamand,478.0
+8583,AVELGEM,Flandre-Occidentale,105.0
+4020,LIÈGE,Liège,83.0
+9320,AALST,Flandre-Orientale,227.0
+6856,PALISEUL,Luxembourg,131.0
+4620,FLÉRON,Liège,97.0
+3450,GEETBETS,Brabant Flamand,155.0
+6986,LA ROCHE-EN-ARDENNE,Luxembourg,70.0
+6840,NEUFCHÂTEAU,Luxembourg,123.0
+6990,HOTTON,Luxembourg,51.0
+5370,HAVELANGE,Namur,248.0
+9070,DESTELBERGEN,Flandre-Orientale,550.0
+1435,MONT-SAINT-GUIBERT,Brabant Wallon,314.0
+9550,HERZELE,Flandre-Orientale,363.0
+4852,PLOMBIÈRES,Liège,149.0
+2320,HOOGSTRATEN,Anvers,500.0
+9970,KAPRIJKE,Flandre-Orientale,530.0
+3472,KORTENAKEN,Brabant Flamand,300.0
+1020,BRUXELLES,Bruxelles (19 communes),494.0
+3620,LANAKEN,Limbourg,125.0
+6530,THUIN,Hainaut,106.0
+4042,HERSTAL,Liège,93.0
+9160,LOKEREN,Flandre-Orientale,337.0
+7870,LENS,Hainaut,328.0
+1840,LONDERZEEL,Brabant Flamand,376.0
+9920,LIEVEGEM,Flandre-Orientale,408.0
+5170,PROFONDEVILLE,Namur,339.0
+6591,MOMIGNIES,Hainaut,3.0
+9636,ZWALM,Flandre-Orientale,421.0
+1390,GREZ-DOICEAU,Brabant Wallon,548.0
+7063,SOIGNIES,Hainaut,67.0
+8880,LEDEGEM,Flandre-Occidentale,207.0
+7601,PÉRUWELZ,Hainaut,57.0
+1601,SINT-PIETERS-LEEUW,Brabant Flamand,448.0
+4672,BLÉGNY,Liège,374.0
+1030,SCHAERBEEK,Bruxelles (19 communes),404.0
+5523,ONHAYE,Namur,133.0
+8400,OOSTENDE,Flandre-Occidentale,168.0
+4630,SOUMAGNE,Liège,205.0
+3120,TREMELO,Brabant Flamand,446.0
+4260,BRAIVES,Liège,245.0
+8421,DE HAAN,Flandre-Occidentale,257.0
+7548,TOURNAI,Hainaut,281.0
+8790,WAREGEM,Flandre-Occidentale,297.0
+7890,ELLEZELLES,Hainaut,100.0
+8850,ARDOOIE,Flandre-Occidentale,375.0
+5001,NAMUR,Namur,258.0
+3360,BIERBEEK,Brabant Flamand,562.0
+1547,BIÉVÈNE,Brabant Flamand,566.0
+7783,COMINES-WARNETON,Hainaut,503.0
+6921,WELLIN,Luxembourg,303.0
+7521,TOURNAI,Hainaut,281.0
+9570,LIERDE,Flandre-Orientale,386.0
+8720,DENTERGEM,Flandre-Occidentale,507.0
+6853,PALISEUL,Luxembourg,131.0
+3200,AARSCHOT,Brabant Flamand,335.0
+1470,GENAPPE,Brabant Wallon,506.0
+1850,GRIMBERGEN,Brabant Flamand,436.0
+7022,MONS,Hainaut,40.0
+3940,HECHTEL-EKSEL,Limbourg,134.0
+4680,OUPEYE,Liège,132.0
+3550,HEUSDEN-ZOLDER,Limbourg,236.0
+4342,AWANS,Liège,369.0
+7060,SOIGNIES,Hainaut,67.0
+4845,JALHAY,Liège,508.0
+4357,DONCEEL,Liège,111.0
+8870,IZEGEM,Flandre-Occidentale,222.0
+1880,KAPELLE-OP-DEN-BOS,Brabant Flamand,497.0
+9451,HAALTERT,Flandre-Orientale,279.0
+6761,VIRTON,Luxembourg,110.0
+6463,CHIMAY,Hainaut,95.0
+6630,MARTELANGE,Luxembourg,351.0
+1785,MERCHTEM,Brabant Flamand,412.0
+1400,NIVELLES,Brabant Wallon,284.0
+2640,MORTSEL,Anvers,326.0
+2491,BALEN,Anvers,240.0
+7782,COMINES-WARNETON,Hainaut,503.0
+7034,MONS,Hainaut,40.0
+5003,NAMUR,Namur,258.0
+5364,HAMOIS,Namur,413.0
+4100,SERAING,Liège,26.0
+9830,SINT-MARTENS-LATEM,Flandre-Orientale,579.0
+1932,ZAVENTEM,Brabant Flamand,510.0
+5140,SOMBREFFE,Namur,215.0
+4840,WELKENRAEDT,Liège,170.0
+3020,HERENT,Brabant Flamand,518.0
+2050,ANTWERPEN,Anvers,334.0
+8580,AVELGEM,Flandre-Occidentale,105.0
+6987,RENDEUX,Luxembourg,11.0
+7320,BERNISSART,Hainaut,96.0
+3950,BOCHOLT,Limbourg,251.0
+4653,HERVE,Liège,431.0
+6880,BERTRIX,Luxembourg,59.0
+8740,PITTEM,Flandre-Occidentale,394.0
+2520,RANST,Anvers,528.0
+5572,BEAURAING,Namur,38.0
+6800,LIBRAMONT-CHEVIGNY,Luxembourg,173.0
+7530,TOURNAI,Hainaut,281.0
+5024,NAMUR,Namur,258.0
+2280,GROBBENDONK,Anvers,463.0
+6723,HABAY,Luxembourg,355.0
+5540,HASTIÈRE,Namur,14.0
+7021,MONS,Hainaut,40.0
+2620,HEMIKSEM,Anvers,298.0
+4682,OUPEYE,Liège,132.0
+9750,KRUISEM,Flandre-Orientale,519.0
+1540,HERNE,Brabant Flamand,498.0
+4217,HÉRON,Liège,272.0
+8510,KORTRIJK,Flandre-Occidentale,352.0
+3470,KORTENAKEN,Brabant Flamand,300.0
+2811,MECHELEN,Anvers,479.0
+8810,LICHTERVELDE,Flandre-Occidentale,321.0
+9680,MAARKEDAL,Flandre-Orientale,505.0
+2328,HOOGSTRATEN,Anvers,500.0
+8377,ZUIENKERKE,Flandre-Occidentale,561.0
+2330,MERKSPLAS,Anvers,212.0
+9771,KRUISEM,Flandre-Orientale,519.0
+3321,HOEGAARDEN,Brabant Flamand,514.0
+7322,BERNISSART,Hainaut,96.0
+4610,BEYNE-HEUSAY,Liège,164.0
+7804,ATH,Hainaut,104.0
+8730,BEERNEM,Flandre-Occidentale,483.0
+6997,EREZÉE,Luxembourg,109.0
+9250,WAASMUNSTER,Flandre-Orientale,567.0
+1170,WATERMAEL-BOITSFORT,Bruxelles (19 communes),575.0
+2390,MALLE,Anvers,435.0
+2018,ANTWERPEN,Anvers,334.0
+7910,FRASNES-LEZ-ANVAING,Hainaut,340.0
+9120,BEVEREN-WAAS,Flandre-Orientale,316.0
+9552,HERZELE,Flandre-Orientale,363.0
+1420,BRAINE-L'ALLEUD,Brabant Wallon,488.0
+1501,HALLE,Brabant Flamand,399.0
+1490,COURT-SAINT-ETIENNE,Brabant Wallon,381.0
+6972,TENNEVILLE,Luxembourg,183.0
+1570,GALMAARDEN,Brabant Flamand,362.0
+9050,GENT,Flandre-Orientale,496.0
+4834,LIMBOURG,Liège,6.0
+1702,DILBEEK,Brabant Flamand,487.0
+6950,NASSOGNE,Luxembourg,102.0
+3717,HERSTAPPE,Limbourg,128.0
+1701,DILBEEK,Brabant Flamand,487.0
+3381,GLABBEEK,Brabant Flamand,478.0
+8420,DE HAAN,Flandre-Occidentale,257.0
+1310,LA HULPE,Brabant Wallon,537.0
+6821,FLORENVILLE,Luxembourg,29.0
+1348,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,523.0
+2240,ZANDHOVEN,Anvers,459.0
+5372,HAVELANGE,Namur,248.0
+3391,TIELT-WINGE,Brabant Flamand,354.0
+4837,BAELEN,Liège,230.0
+6031,CHARLEROI,Hainaut,19.0
+5520,ONHAYE,Namur,133.0
+3050,OUD-HEVERLEE,Brabant Flamand,557.0
+3202,AARSCHOT,Brabant Flamand,335.0
+9932,LIEVEGEM,Flandre-Orientale,408.0
+6596,MOMIGNIES,Hainaut,3.0
+7032,MONS,Hainaut,40.0
+4970,STAVELOT,Liège,273.0
+1402,NIVELLES,Brabant Wallon,284.0
+4263,BRAIVES,Liège,245.0
+6741,ETALLE,Luxembourg,370.0
+9260,WICHELEN,Flandre-Orientale,190.0
+3520,ZONHOVEN,Limbourg,359.0
+2840,RUMST,Anvers,407.0
+6221,FLEURUS,Hainaut,35.0
+6781,MESSANCY,Luxembourg,427.0
+2860,SINT-KATELIJNE-WAVER,Anvers,447.0
+9981,SINT-LAUREINS,Flandre-Orientale,221.0
+1700,DILBEEK,Brabant Flamand,487.0
+1541,HERNE,Brabant Flamand,498.0
+4900,SPA,Liège,522.0
+3631,MAASMECHELEN,Limbourg,269.0
+4652,HERVE,Liège,431.0
+2370,ARENDONK,Anvers,403.0
+4340,AWANS,Liège,369.0
+1650,BEERSEL,Brabant Flamand,490.0
+1673,PEPINGEN,Brabant Flamand,576.0
+1082,BERCHEM-SAINTE-AGATHE,Bruxelles (19 communes),366.0
+2590,BERLAAR,Anvers,502.0
+4960,MALMEDY,Liège,197.0
+5561,HOUYET,Namur,129.0
+7033,MONS,Hainaut,40.0
+7711,MOUSCRON,Hainaut,172.0
+1040,ETTERBEEK,Bruxelles (19 communes),540.0
+7863,LESSINES,Hainaut,112.0
+6724,HABAY,Luxembourg,355.0
+6040,CHARLEROI,Hainaut,19.0
+2500,LIER,Anvers,390.0
+1770,LIEDEKERKE,Brabant Flamand,244.0
+8958,HEUVELLAND,Flandre-Occidentale,55.0
+9880,AALTER,Flandre-Orientale,318.0
+4920,AYWAILLE,Liège,148.0
+6663,HOUFFALIZE,Luxembourg,47.0
+3560,LUMMEN,Limbourg,409.0
+4041,HERSTAL,Liège,93.0
+3680,MAASEIK,Limbourg,426.0
+5564,HOUYET,Namur,129.0
+8978,POPERINGE,Flandre-Occidentale,163.0
+4452,JUPRELLE,Liège,418.0
+3990,PEER,Limbourg,188.0
+3012,LEUVEN,Brabant Flamand,465.0
+8750,WINGENE,Flandre-Occidentale,280.0
+4761,BULLANGE,Liège,54.0
+1210,SAINT-JOSSE-TEN-NOODE,Bruxelles (19 communes),270.0
+7180,SENEFFE,Hainaut,211.0
+9572,LIERDE,Flandre-Orientale,386.0
+8490,JABBEKE,Flandre-Occidentale,461.0
+5646,METTET,Namur,139.0
+7950,CHIÈVRES,Hainaut,48.0
+3570,ALKEN,Limbourg,372.0
+6790,AUBANGE,Luxembourg,233.0
+6706,ARLON,Luxembourg,309.0
+1674,PEPINGEN,Brabant Flamand,576.0
+4760,BULLANGE,Liège,54.0
+9470,DENDERLEEUW,Flandre-Orientale,213.0
+1982,ZEMST,Brabant Flamand,521.0
+7181,SENEFFE,Hainaut,211.0
+5576,BEAURAING,Namur,38.0
+9308,AALST,Flandre-Orientale,227.0
+6041,CHARLEROI,Hainaut,19.0
+9220,HAMME,Flandre-Orientale,154.0
+7801,ATH,Hainaut,104.0
+1950,KRAAINEM,Brabant Flamand,577.0
+6142,FONTAINE-L'EVÊQUE,Hainaut,50.0
+8434,MIDDELKERKE,Flandre-Occidentale,71.0
+1651,BEERSEL,Brabant Flamand,490.0
+5374,HAVELANGE,Namur,248.0
+6820,FLORENVILLE,Luxembourg,29.0
+7062,SOIGNIES,Hainaut,67.0
+4121,NEUPRÉ,Liège,457.0
+4877,OLNE,Liège,264.0
+8780,OOSTROZEBEKE,Flandre-Occidentale,405.0
+4210,BURDINNE,Liège,147.0
+9406,NINOVE,Flandre-Orientale,267.0
+8301,KNOKKE-HEIST,Flandre-Occidentale,570.0
+9600,RENAIX,Flandre-Orientale,137.0
+3110,ROTSELAAR,Brabant Flamand,384.0
+8200,BRUGGE,Flandre-Occidentale,467.0
+7951,CHIÈVRES,Hainaut,48.0
+1602,SINT-PIETERS-LEEUW,Brabant Flamand,448.0
+9230,WETTEREN,Flandre-Orientale,216.0
+2990,WUUSTWEZEL,Anvers,433.0
+8511,KORTRIJK,Flandre-Occidentale,352.0
+6250,AISEAU-PRESLES,Hainaut,204.0
+7972,BELOEIL,Hainaut,347.0
+9111,SINT-NIKLAAS,Flandre-Orientale,319.0
+4500,HUY,Liège,84.0
+3581,BERINGEN,Limbourg,193.0
+1404,NIVELLES,Brabant Wallon,284.0
+6850,PALISEUL,Luxembourg,131.0
+5022,NAMUR,Namur,258.0
+1620,DROGENBOS,Brabant Flamand,401.0
+1653,BEERSEL,Brabant Flamand,490.0
+1671,PEPINGEN,Brabant Flamand,576.0
+6141,FONTAINE-L'EVÊQUE,Hainaut,50.0
+6534,THUIN,Hainaut,106.0
+3945,HAM,Limbourg,301.0
+7321,BERNISSART,Hainaut,96.0
+1461,ITTRE,Brabant Wallon,474.0
+9571,LIERDE,Flandre-Orientale,386.0
+3191,BOORTMEERBEEK,Brabant Flamand,484.0
+1560,HOEILAART,Brabant Flamand,552.0
+3010,LEUVEN,Brabant Flamand,465.0
+4710,LONTZEN,Liège,323.0
+1471,GENAPPE,Brabant Wallon,506.0
+6593,MOMIGNIES,Hainaut,3.0
+5330,ASSESSE,Namur,367.0
+2321,HOOGSTRATEN,Anvers,500.0
+8930,MENEN,Flandre-Occidentale,107.0
+2170,ANTWERPEN,Anvers,334.0
+7000,MONS,Hainaut,40.0
+6043,CHARLEROI,Hainaut,19.0
+7610,RUMES,Hainaut,56.0
+7730,ESTAIMPUIS,Hainaut,343.0
+6662,HOUFFALIZE,Luxembourg,47.0
+9290,BERLARE,Flandre-Orientale,454.0
+4051,CHAUDFONTAINE,Liège,253.0
+7390,QUAREGNON,Hainaut,9.0
+1970,WEZEMBEEK-OPPEM,Brabant Flamand,553.0
+3722,KORTESSEM,Limbourg,206.0
+8952,HEUVELLAND,Flandre-Occidentale,55.0
+1331,RIXENSART,Brabant Wallon,568.0
+7330,SAINT-GHISLAIN,Hainaut,36.0
+8840,STADEN,Flandre-Occidentale,331.0
+7333,SAINT-GHISLAIN,Hainaut,36.0
+3272,SCHERPENHEUVEL-ZICHEM,Brabant Flamand,195.0
+5502,DINANT,Namur,138.0
+8640,VLETEREN,Flandre-Occidentale,152.0
+4841,WELKENRAEDT,Liège,170.0
+7624,BRUNEHAUT,Hainaut,441.0
+3720,KORTESSEM,Limbourg,206.0
+1670,PEPINGEN,Brabant Flamand,576.0
+2140,ANTWERPEN,Anvers,334.0
+8000,BRUGGE,Flandre-Occidentale,467.0
+6222,FLEURUS,Hainaut,35.0
+4050,CHAUDFONTAINE,Liège,253.0
+4602,VISÉ,Liège,150.0
+7780,COMINES-WARNETON,Hainaut,503.0
+6010,CHARLEROI,Hainaut,19.0
+5562,HOUYET,Namur,129.0
+7864,LESSINES,Hainaut,112.0
+6060,CHARLEROI,Hainaut,19.0
+1981,ZEMST,Brabant Flamand,521.0
+7301,BOUSSU,Hainaut,16.0
+3060,BERTEM,Brabant Flamand,515.0
+6001,CHARLEROI,Hainaut,19.0
+3320,HOEGAARDEN,Brabant Flamand,514.0
+9870,ZULTE,Flandre-Orientale,458.0
+9041,GENT,Flandre-Orientale,496.0
+9931,LIEVEGEM,Flandre-Orientale,408.0
+1421,BRAINE-L'ALLEUD,Brabant Wallon,488.0
+1357,HÉLÉCINE,Brabant Wallon,176.0
+7802,ATH,Hainaut,104.0
+8553,ZWEVEGEM,Flandre-Occidentale,158.0
+6929,DAVERDISSE,Luxembourg,485.0
+9960,ASSENEDE,Flandre-Orientale,324.0
+3404,LANDEN,Brabant Flamand,73.0
+6824,FLORENVILLE,Luxembourg,29.0
+4820,DISON,Liège,21.0
+6740,ETALLE,Luxembourg,370.0
+4458,JUPRELLE,Liège,418.0
+6140,FONTAINE-L'EVÊQUE,Hainaut,50.0
+7643,ANTOING,Hainaut,7.0
+1083,GANSHOREN,Bruxelles (19 communes),209.0
+7742,PECQ,Hainaut,278.0
+3001,LEUVEN,Brabant Flamand,465.0
+2660,ANTWERPEN,Anvers,334.0
+7781,COMINES-WARNETON,Hainaut,503.0
+3140,KEERBERGEN,Brabant Flamand,541.0
+8680,KOEKELARE,Flandre-Occidentale,266.0
+6670,GOUVY,Luxembourg,434.0
+4431,ANS,Liège,66.0
+9402,NINOVE,Flandre-Orientale,267.0
+8430,MIDDELKERKE,Flandre-Occidentale,71.0
+1080,MOLENBEEK-SAINT-JEAN,Bruxelles (19 communes),238.0
+2250,OLEN,Anvers,357.0
+4122,NEUPRÉ,Liège,457.0
+5574,BEAURAING,Namur,38.0
+9910,AALTER,Flandre-Orientale,318.0
+9770,KRUISEM,Flandre-Orientale,519.0
+6980,LA ROCHE-EN-ARDENNE,Luxembourg,70.0
+7860,LESSINES,Hainaut,112.0
+7900,LEUZE-EN-HAINAUT,Hainaut,237.0
+4783,SAINT-VITH,Liège,58.0
+4623,FLÉRON,Liège,97.0
+9551,HERZELE,Flandre-Orientale,363.0
+7912,FRASNES-LEZ-ANVAING,Hainaut,340.0
+6812,CHINY,Luxembourg,130.0
+4550,NANDRIN,Liège,419.0
+3473,KORTENAKEN,Brabant Flamand,300.0
+2800,MECHELEN,Anvers,479.0
+8953,HEUVELLAND,Flandre-Occidentale,55.0
+4160,ANTHISNES,Liège,42.0
+2340,BEERSE,Anvers,378.0
+2820,BONHEIDEN,Anvers,559.0
+1761,ROOSDAAL,Brabant Flamand,439.0
+7602,PÉRUWELZ,Hainaut,57.0
+4032,LIÈGE,Liège,83.0
+4170,COMBLAIN-AU-PONT,Liège,60.0
+9031,GENT,Flandre-Orientale,496.0
+5524,ONHAYE,Namur,133.0
+4802,VERVIERS,Liège,72.0
+4162,ANTHISNES,Liège,42.0
+2950,KAPELLEN,Anvers,527.0
+1630,LINKEBEEK,Brabant Flamand,555.0
+6211,LES BONS VILLERS,Hainaut,286.0
+9255,BUGGENHOUT,Flandre-Orientale,456.0
+6240,FARCIENNES,Hainaut,18.0
+2230,HERSELT,Anvers,292.0
+3150,HAACHT,Brabant Flamand,365.0
+8820,TORHOUT,Flandre-Occidentale,290.0
+3832,WELLEN,Limbourg,388.0
+7536,TOURNAI,Hainaut,281.0
+3501,HASSELT,Limbourg,411.0
+9240,ZELE,Flandre-Orientale,320.0
+3461,BEKKEVOORT,Brabant Flamand,224.0
+6674,GOUVY,Luxembourg,434.0
+1060,SAINT-GILLES,Bruxelles (19 communes),551.0
+2223,HEIST-OP-DEN-BERG,Anvers,450.0
+7901,LEUZE-EN-HAINAUT,Hainaut,237.0
+7533,TOURNAI,Hainaut,281.0
+1780,WEMMEL,Brabant Flamand,524.0
+2630,AARTSELAAR,Anvers,509.0
+1652,BEERSEL,Brabant Flamand,490.0
+2000,ANTWERPEN,Anvers,334.0
+2387,BAARLE-HERTOG,Anvers,578.0
+7130,BINCHE,Hainaut,33.0
+5004,NAMUR,Namur,258.0
+4632,SOUMAGNE,Liège,205.0
+6000,CHARLEROI,Hainaut,19.0
+2180,ANTWERPEN,Anvers,334.0
+3078,KORTENBERG,Brabant Flamand,546.0
+8830,HOOGLEDE,Flandre-Occidentale,349.0
+5353,OHEY,Namur,223.0
+6698,VIELSALM,Luxembourg,92.0
+1476,GENAPPE,Brabant Wallon,506.0
+8860,LENDELEDE,Flandre-Occidentale,241.0
+4254,GEER,Liège,226.0
+3971,LEOPOLDSBURG,Limbourg,122.0
+8531,HARELBEKE,Flandre-Occidentale,161.0
+8211,ZEDELGEM,Flandre-Occidentale,414.0
+4430,ANS,Liège,66.0
+8310,BRUGGE,Flandre-Occidentale,467.0
+4052,CHAUDFONTAINE,Liège,253.0
+7641,ANTOING,Hainaut,7.0
+7024,MONS,Hainaut,40.0
+2480,DESSEL,Anvers,296.0
+6836,BOUILLON,Luxembourg,44.0
+2650,EDEGEM,Anvers,416.0
+7012,MONS,Hainaut,40.0
+9000,GENT,Flandre-Orientale,496.0
+4684,OUPEYE,Liège,132.0
+1428,BRAINE-L'ALLEUD,Brabant Wallon,488.0
+3210,LUBBEEK,Brabant Flamand,476.0
+7522,TOURNAI,Hainaut,281.0
+3910,PELT,Limbourg,432.0
+4721,LA CALAMINE,Liège,89.0
+9681,MAARKEDAL,Flandre-Orientale,505.0
+2243,ZANDHOVEN,Anvers,459.0
+2470,RETIE,Anvers,295.0
+4470,SAINT-GEORGES-SUR-MEUSE,Liège,151.0
+6542,LOBBES,Hainaut,246.0
+4782,SAINT-VITH,Liège,58.0
+4861,PEPINSTER,Liège,69.0
+7520,TOURNAI,Hainaut,281.0
+4670,BLÉGNY,Liège,374.0
+8908,IEPER,Flandre-Occidentale,265.0
+2350,VOSSELAAR,Anvers,516.0
+3118,ROTSELAAR,Brabant Flamand,384.0
+2060,ANTWERPEN,Anvers,334.0
+6594,MOMIGNIES,Hainaut,3.0
+5000,NAMUR,Namur,258.0
+1301,WAVRE,Brabant Wallon,493.0
+2850,BOOM,Anvers,232.0
+6200,CHÂTELET,Hainaut,25.0
+7880,FLOBECQ,Hainaut,250.0
+5334,ASSESSE,Namur,367.0
+7503,TOURNAI,Hainaut,281.0
+7823,ATH,Hainaut,104.0
+6704,ARLON,Luxembourg,309.0
+4728,LA CALAMINE,Liège,89.0
+9270,LAARNE,Flandre-Orientale,499.0
+1081,KOEKELBERG,Bruxelles (19 communes),140.0
+4261,BRAIVES,Liège,245.0
+8432,MIDDELKERKE,Flandre-Occidentale,71.0
+7140,MORLANWELZ,Hainaut,34.0
+2861,SINT-KATELIJNE-WAVER,Anvers,447.0
+3660,OUDSBERGEN,Limbourg,156.0
+3090,OVERIJSE,Brabant Flamand,571.0
+9661,BRAKEL,Flandre-Orientale,395.0
+1800,VILVOORDE,Brabant Flamand,307.0
+6951,NASSOGNE,Luxembourg,102.0
+4651,HERVE,Liège,431.0
+6672,GOUVY,Luxembourg,434.0
+7970,BELOEIL,Hainaut,347.0
+6687,BERTOGNE,Luxembourg,184.0
+7803,ATH,Hainaut,104.0
+6742,ETALLE,Luxembourg,370.0
+6180,COURCELLES,Hainaut,41.0
+6020,CHARLEROI,Hainaut,19.0
+2570,DUFFEL,Anvers,397.0
+4731,RAEREN,Liège,311.0
+7943,BRUGELETTE,Hainaut,62.0
+7906,LEUZE-EN-HAINAUT,Hainaut,237.0
+6181,COURCELLES,Hainaut,41.0
+3053,OUD-HEVERLEE,Brabant Flamand,557.0
+8530,HARELBEKE,Flandre-Occidentale,161.0
+4771,AMBLÈVE,Liège,8.0
+8956,HEUVELLAND,Flandre-Occidentale,55.0
+6540,LOBBES,Hainaut,246.0
+6924,WELLIN,Luxembourg,303.0
+7850,ENGHIEN,Hainaut,472.0
+5376,HAVELANGE,Namur,248.0
+2322,HOOGSTRATEN,Anvers,500.0
+1120,BRUXELLES,Bruxelles (19 communes),494.0
+9051,GENT,Flandre-Orientale,496.0
+6721,HABAY,Luxembourg,355.0
+3665,AS,Limbourg,181.0
+7941,BRUGELETTE,Hainaut,62.0
+5336,ASSESSE,Namur,367.0
+4218,HÉRON,Liège,272.0
+1831,MACHELEN,Brabant Flamand,276.0
+5644,METTET,Namur,139.0
+4130,ESNEUX,Liège,385.0
+2440,GEEL,Anvers,254.0
+7041,QUÉVY,Hainaut,74.0
+4730,RAEREN,Liège,311.0
+7334,SAINT-GHISLAIN,Hainaut,36.0
+2200,HERENTALS,Anvers,293.0
+4681,OUPEYE,Liège,132.0
+2920,KALMTHOUT,Anvers,538.0
+7621,BRUNEHAUT,Hainaut,441.0
+9521,SINT-LIEVENS-HOUTEM,Flandre-Orientale,356.0
+2845,NIEL,Anvers,317.0
+7861,LESSINES,Hainaut,112.0
+1742,TERNAT,Brabant Flamand,492.0
+2381,RAVELS,Anvers,547.0
+3806,SINT-TRUIDEN,Limbourg,192.0
+1457,WALHAIN,Brabant Wallon,442.0
+3111,ROTSELAAR,Brabant Flamand,384.0
+4257,BERLOZ,Liège,415.0
+4851,PLOMBIÈRES,Liège,149.0
+7973,BELOEIL,Hainaut,347.0
+3054,OUD-HEVERLEE,Brabant Flamand,557.0
+9300,AALST,Flandre-Orientale,227.0
+7380,QUIÉVRAIN,Hainaut,2.0
+2600,ANTWERPEN,Anvers,334.0
+8791,WAREGEM,Flandre-Occidentale,297.0
+5542,HASTIÈRE,Namur,14.0
+7603,PÉRUWELZ,Hainaut,57.0
+2150,BORSBEEK,Anvers,313.0
+2288,GROBBENDONK,Anvers,463.0
+7133,BINCHE,Hainaut,33.0
+4700,EUPEN,Liège,169.0
+6686,BERTOGNE,Luxembourg,184.0
+3792,FOURONS,Limbourg,480.0
+1851,GRIMBERGEN,Brabant Flamand,436.0
+3970,LEOPOLDSBURG,Limbourg,122.0
+2547,LINT,Anvers,449.0
+5501,DINANT,Namur,138.0
+3920,LOMMEL,Limbourg,256.0
+4633,SOUMAGNE,Liège,205.0
+6061,CHARLEROI,Hainaut,19.0
+9403,NINOVE,Flandre-Orientale,267.0
+7020,MONS,Hainaut,40.0
+5352,OHEY,Namur,223.0
+6692,VIELSALM,Luxembourg,92.0
+4621,FLÉRON,Liège,97.0
+6044,CHARLEROI,Hainaut,19.0
+4606,DALHEM,Liège,377.0
+3980,TESSENDERLO,Limbourg,304.0
+3793,FOURONS,Limbourg,480.0
+4791,BURG-REULAND,Liège,88.0
+7031,MONS,Hainaut,40.0
+9950,LIEVEGEM,Flandre-Orientale,408.0
+6223,FLEURUS,Hainaut,35.0
+4983,TROIS-PONTS,Liège,360.0
+6834,BOUILLON,Luxembourg,44.0
+2530,BOECHOUT,Anvers,495.0
+2221,HEIST-OP-DEN-BERG,Anvers,450.0
+2930,BRASSCHAAT,Anvers,529.0
+6971,TENNEVILLE,Luxembourg,183.0
+7903,LEUZE-EN-HAINAUT,Hainaut,237.0
+4253,GEER,Liège,226.0
+3071,KORTENBERG,Brabant Flamand,546.0
+3600,GENK,Limbourg,180.0
+3582,BERINGEN,Limbourg,193.0
+3000,LEUVEN,Brabant Flamand,465.0
+6238,PONT-À-CELLES,Hainaut,108.0
+9180,MOERBEKE-WAAS,Flandre-Orientale,288.0
+8950,HEUVELLAND,Flandre-Occidentale,55.0
+6831,BOUILLON,Luxembourg,44.0
+3621,LANAKEN,Limbourg,125.0
+4624,FLÉRON,Liège,97.0
+9112,SINT-NIKLAAS,Flandre-Orientale,319.0
+8573,ANZEGEM,Flandre-Occidentale,330.0
+4161,ANTHISNES,Liège,42.0
+2531,BOECHOUT,Anvers,495.0
+9772,KRUISEM,Flandre-Orientale,519.0
+3831,WELLEN,Limbourg,388.0
+1050,IXELLES,Bruxelles (19 communes),564.0
+7811,ATH,Hainaut,104.0
+3128,TREMELO,Brabant Flamand,446.0
+7300,BOUSSU,Hainaut,16.0
+7642,ANTOING,Hainaut,7.0
+1341,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,523.0
+5641,METTET,Namur,139.0
+1090,JETTE,Bruxelles (19 communes),259.0
+6642,VAUX-SUR-SÛRE,Luxembourg,143.0
+8572,ANZEGEM,Flandre-Occidentale,330.0
+3070,KORTENBERG,Brabant Flamand,546.0
+3201,AARSCHOT,Brabant Flamand,335.0
+9971,KAPRIJKE,Flandre-Orientale,530.0
+9990,MALDEGEM,Flandre-Orientale,312.0
+6590,MOMIGNIES,Hainaut,3.0
+6032,CHARLEROI,Hainaut,19.0
+6511,BEAUMONT,Hainaut,28.0
+1853,GRIMBERGEN,Brabant Flamand,436.0
+1472,GENAPPE,Brabant Wallon,506.0
+1474,GENAPPE,Brabant Wallon,506.0
+2110,WIJNEGEM,Anvers,535.0
+1200,WOLUWE-SAINT-LAMBERT,Bruxelles (19 communes),539.0
+3130,BEGIJNENDIJK,Brabant Flamand,396.0
+3211,LUBBEEK,Brabant Flamand,476.0
+9900,EEKLO,Flandre-Orientale,220.0
+7502,TOURNAI,Hainaut,281.0
+7011,MONS,Hainaut,40.0
+6952,NASSOGNE,Luxembourg,102.0
+7531,TOURNAI,Hainaut,281.0
+7611,RUMES,Hainaut,56.0
+4830,LIMBOURG,Liège,6.0
+7501,TOURNAI,Hainaut,281.0
+3583,BERINGEN,Limbourg,193.0
+2627,SCHELLE,Anvers,299.0
+8793,WAREGEM,Flandre-Occidentale,297.0
+3051,OUD-HEVERLEE,Brabant Flamand,557.0
+5333,ASSESSE,Namur,367.0
+4683,OUPEYE,Liège,132.0
+2323,HOOGSTRATEN,Anvers,500.0
+9052,GENT,Flandre-Orientale,496.0
+4031,LIÈGE,Liège,83.0
+6671,GOUVY,Luxembourg,434.0
+6673,GOUVY,Luxembourg,434.0
+4784,SAINT-VITH,Liège,58.0
+8540,DEERLIJK,Flandre-Occidentale,202.0
+9831,SINT-MARTENS-LATEM,Flandre-Orientale,579.0
+3941,HECHTEL-EKSEL,Limbourg,134.0
+7504,TOURNAI,Hainaut,281.0
+1332,RIXENSART,Brabant Wallon,568.0
+5031,GEMBLOUX,Namur,177.0
+4351,REMICOURT,Liège,175.0
+4720,LA CALAMINE,Liège,89.0
+6111,MONTIGNY-LE-TILLEUL,Hainaut,243.0
+6811,CHINY,Luxembourg,130.0
+1342,OTTIGNIES-LOUVAIN-LA-NEUVE,Brabant Wallon,523.0
+6688,BERTOGNE,Luxembourg,184.0
+8552,ZWEVEGEM,Flandre-Occidentale,158.0
+6110,MONTIGNY-LE-TILLEUL,Hainaut,243.0
+9401,NINOVE,Flandre-Orientale,267.0
+9100,SINT-NIKLAAS,Flandre-Orientale,319.0
+6461,CHIMAY,Hainaut,95.0
+9473,DENDERLEEUW,Flandre-Orientale,213.0
+8954,HEUVELLAND,Flandre-Occidentale,55.0
+2610,ANTWERPEN,Anvers,334.0
+9060,ZELZATE,Flandre-Orientale,160.0
+8550,ZWEVEGEM,Flandre-Occidentale,158.0
+5544,HASTIÈRE,Namur,14.0
+2030,ANTWERPEN,Anvers,334.0
+7382,QUIÉVRAIN,Hainaut,2.0
+9881,AALTER,Flandre-Orientale,318.0
+6838,BOUILLON,Luxembourg,44.0
+5363,HAMOIS,Namur,413.0
+5522,ONHAYE,Namur,133.0
+8940,WERVIK,Flandre-Occidentale,90.0
+1473,GENAPPE,Brabant Wallon,506.0
+2540,HOVE,Anvers,517.0
+9472,DENDERLEEUW,Flandre-Orientale,213.0
+4101,SERAING,Liège,26.0
+4701,EUPEN,Liège,169.0
+7810,ATH,Hainaut,104.0
+5573,BEAURAING,Namur,38.0
+2400,MOL,Anvers,239.0
+7543,TOURNAI,Hainaut,281.0
+3668,AS,Limbourg,181.0
+2380,RAVELS,Anvers,547.0
+3732,HOESELT,Limbourg,94.0
+9040,GENT,Flandre-Orientale,496.0
+2300,TURNHOUT,Anvers,277.0
+3721,KORTESSEM,Limbourg,206.0
+3018,LEUVEN,Brabant Flamand,465.0
+8431,MIDDELKERKE,Flandre-Occidentale,71.0
+2160,WOMMELGEM,Anvers,428.0
+3746,BILZEN,Limbourg,178.0
