@@ -2,10 +2,10 @@
     "version": 3,
     "mappings": "ACCA,AAAA,OAAO,CAAC;EACN,QAAQ,EAAE,QAAQ,CAAA,UAAU;EAC5B,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CAEZ;;AAED,AAAA,IAAI,AAAA,YAAY,CAAC;EACf,KAAK,EAAE,eAAe;EACtB,SAAS,EAAE,KAAK;EAChB,eAAe,EAAE,IAAI;EACrB,cAAc,EAAE,IAAI;CACrB;;AACD,qCAAqC",
     "sources": [
-        "../ImmoEliza/assets/SCSS/style.scss",
-        "../ImmoEliza/assets/SCSS/_calcul.scss",
-        "../ImmoEliza/assets/SCSS/_accueil.scss",
-        "../ImmoEliza/assets/SCSS/_nav.scss"
+        "../assets/SCSS/style.scss",
+        "../assets/SCSS/_calcul.scss",
+        "../assets/SCSS/_accueil.scss",
+        "../assets/SCSS/_nav.scss"
     ],
     "names": [],
     "file": "style.css"
