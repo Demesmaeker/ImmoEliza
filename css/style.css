@@ -1,7 +1,13 @@
-div.container.bg {
-  background-image: url(//assets/IMG/pexels-pixabay-207142.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.cadre1 {
+  position: absolute !important;
+  height: auto;
+  width: 20px;
+}
+
+.btn.btn-primary {
+  width: 6rem !important;
+  font-size: small;
+  text-decoration: none;
+  pointer-events: none;
 }
 /*# sourceMappingURL=style.css.map */
