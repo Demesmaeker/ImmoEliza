@@ -1,7 +1,16 @@
-div.container.bg {
-  background-image: url(//assets/IMG/pexels-pixabay-207142.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.murG1 {
+  position: absolute;
+  margin-left: -10px;
+}
+
+.murD1 {
+  position: absolute;
+}
+
+.btn.btn-primary {
+  width: 6rem !important;
+  font-size: small;
+  text-decoration: none;
+  pointer-events: none;
 }
 /*# sourceMappingURL=Calcul.css.map */

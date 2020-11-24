@@ -26,7 +26,7 @@
     <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
 
     <!-- Custom styles -->
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
     
     <title>ImmoEliza</title>
     
@@ -62,8 +62,10 @@
 
             <!-- THE NAV BAR -->
 
+                
+
 <div class="container-fluid">
-    <div class="row justify-content-center">
+    <div class="row justify-content-right">
                 <div class="col-9 ">
                     <div class="container bg-danger">
                         <!-- premiere rangée de fenetre maison -->
@@ -78,24 +80,22 @@
                                 </div>
                             </div>
                         </div>
+                            <img src="./assets/IMG/murG.png"  class="murG1">
+                            <img src="./assets/IMG/murD.png"  class="murD1">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
-                  
                                         <label>
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="Service" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
-              
                                     <div class="btn btn-primary justify-content-start" class="keep" style="width:6.1rem;">
                                         Service
                                     </div>
                                 </div>
                                 <div class="col-1 m-3">
-                         
                                         <label>
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Bungaloo" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
-             
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Bungaloo
                                     </button>
@@ -199,6 +199,7 @@
                                 </div>
                             </div>
                         </div>
+                            <img src="./assets/IMG/murG.png" class="murG2">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
