@@ -1,5 +1,7 @@
-.murG1 {
-  position: absolute;
+.cadre1 {
+  position: relative !important;
+  width: auto;
+  height: 200px;
 }
 
 .btn.btn-primary {
@@ -7,9 +9,5 @@
   font-size: small;
   text-decoration: none;
   pointer-events: none;
-}
-
-.murG2 {
-  position: absolute;
 }
 /*# sourceMappingURL=style.css.map */
