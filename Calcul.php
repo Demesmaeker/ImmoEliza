@@ -68,6 +68,7 @@
     <div class="row justify-content-right">
                 <div class="col-9 ">
                     <div class="container bg-danger">
+                    <img src="./assets/IMG/cadremur.png" class="cadre1">
                         <!-- premiere rangée de fenetre maison -->
                         <div class="container">
                             <div class="row" id="button-maison">
@@ -80,8 +81,6 @@
                                 </div>
                             </div>
                         </div>
-                            <img src="./assets/IMG/murG.png"  class="murG1">
-                            <img src="./assets/IMG/murD.png"  class="murD1">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">

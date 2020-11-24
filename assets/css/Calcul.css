@@ -1,13 +1,6 @@
-.murG1 {
-  display: block;
+.cadre1 {
   position: absolute;
   margin-left: -10px;
-}
-
-.murD1 {
-  display: block;
-  position: absolute;
-  margin-right: 100px;
 }
 
 .btn.btn-primary {
