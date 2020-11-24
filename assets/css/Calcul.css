@@ -1,37 +1,7 @@
-.murG1 {
+.cadre1 {
   position: absolute !important;
-  width: auto;
-  height: 500px;
-}
-
-.murG2 {
-  position: absolute !important;
-  width: auto;
-  height: 500px;
-}
-
-.murG3 {
-  position: absolute !important;
-  width: auto;
-  height: 500px;
-}
-
-.murD1 {
-  position: -webkit-sticky !important;
-  position: sticky !important;
-  right: 500px;
-}
-
-.murD2 {
-  position: -webkit-sticky !important;
-  position: sticky !important;
-  right: 900px;
-}
-
-.murD3 {
-  position: -webkit-sticky !important;
-  position: sticky !important;
-  right: 500px;
+  height: auto;
+  width: 20px;
 }
 
 .btn.btn-primary {

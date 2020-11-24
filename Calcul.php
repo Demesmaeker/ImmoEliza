@@ -67,7 +67,7 @@
 <div class="container-fluid">
     <div class="row justify-content-right">
                 <div class="col-9 ">
-                    <div class="container bg-danger">
+                    <div class="container bg-danger ">
                         <!-- premiere rangée de fenetre maison -->
                         <div class="container">
                             <div class="row" id="button-maison">
@@ -80,8 +80,8 @@
                                 </div>
                             </div>
                         </div>
-                        <img src="./assets/IMG/murG.png" class="murG1">
-                        <img src="./assets/IMG/murD.png" class="murD3">
+                        <img src="./assets/IMG/murG.png" class="murG1" style="position:absolute; left:25px; top:5px; height:36%">
+                        <img src="./assets/IMG/murD.png" class="murD1" style="position:absolute; left:900px; top:5px; height:36%">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
@@ -199,8 +199,8 @@
                                 </div>
                             </div>
                         </div>
-                            <img src="./assets/IMG/murG.png" class="murG2">
-                            <img src="./assets/IMG/murD.png" class="murD2">
+                        <img src="./assets/IMG/murG.png" class="murG2" style="position:absolute; left:25px; top:36%; height:36%">
+                        <img src="./assets/IMG/murD.png" class="murD2" style="position:absolute; left:900px; top:36%; height:36%">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
@@ -303,8 +303,8 @@
                                 </div>
                             </div>
                         </div>
-                        <img src="./assets/IMG/murG.png" class="murG3">
-                        <img src="./assets/IMG/murD.png" class="murD3">
+                        <img src="./assets/IMG/murG.png" class="murG3" style="position:absolute; left:25px; top:70%; height:36%">
+                        <img src="./assets/IMG/murD.png" class="murD3" style="position:absolute; left:900px; top:70%; height:36%">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
@@ -393,6 +393,7 @@
                                         </label>
                                     </div>
                                 </div>
+                                <img src="./assets/IMG/plafond.png" class="plafond1" style="position:absolute; left:-25em; top:-35em; width:150em;">
                             </div>
                         </div>
                     </div>
