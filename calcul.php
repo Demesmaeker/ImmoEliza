@@ -32,14 +32,15 @@
     
 </head>
 <body>
+    <img src="./assets/IMG/bgimmo.jpg" style="position:fixed; height: 100%; background-repeat:repeat-x; opacity: 0.5;">
     <!-- ***** HEADER START ***** -->
 
     <!--<header class="container-fluid" id="header">-->
 
   
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;">
-            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="150" width="200">
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61; margin-bottom:1em;" >
+            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style=" position:relative; margin-top:2em;">
             </div>
              
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,12 +49,12 @@
               </span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-              <div class="navbar-nav">
-                <a class="nav-link active" href="#">A VENDRE <span class="sr-only">(current)</span></a>
-                <a class="nav-link" href="#">A LOUER</a>
-                <a class="nav-link" href="#">ESTMIER</a>
-                <a class="nav-link" href="#">AGENCES</a>
-                <a class="nav-link" href="#">SERVICES</a>
+              <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
+                <a class="nav-link active" style="color: #ffff;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
               </div>
             </div>
             <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
@@ -380,27 +381,27 @@
     <!-- MAIN START -->
 
     <!-- FOOTER START -->
-    <nav class="navbar navbar-default">
-        <div class="container-fluid bg-primary">
-
-            <div class="navbar-header">
-
-                <a href="#" class="navbar-brand">Immo Eliza</a>
-            
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;" >
+            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="150" width="auto">
             </div>
-            <ul class="nav navbar-nav">
-            
-                <li><a href="#">A Vendre</a></li>
-                <li><a href="#">A Louer</a></li>
-                <li><a href="#">Estimer</a></li>
-                <li><a href="#">Agences</a></li>
-                <li><a href="#">Services</a></li>
 
-
-            </ul>
-        
-        </div>
-    </nav>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+            </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
+                    <a class="nav-link active" style="color: #ffff;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
+                </div>
+            </div>
+            <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button">FR</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button">NL</button>
+        </nav>
     <!-- JavaScript -->
     <script src=""></script>
     <script src=""></script>

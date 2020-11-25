@@ -1,14 +1,14 @@
-
 body {
-  background-image: url(../IMG/bgimmo.jpg)!important;
+  background-image: url(../IMG/bgimmo.jpg) !important;
   background-size: cover;
-  background-repeat:repeat;
+  background-repeat: repeat-x;
+
 }
+
 .cadre1 {
-  position: absolute!important;
+  position: absolute !important;
   height: auto;
   width: 20px;
-  
 }
 
 .btn.btn-primary {
