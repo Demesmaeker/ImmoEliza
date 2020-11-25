@@ -382,9 +382,7 @@
 
     <!-- FOOTER START -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;" >
-            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="150" width="auto">
-            </div>
-
+            
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon">
             </span>
@@ -397,10 +395,10 @@
                     <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
                     <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
                 </div>
+                <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style="position:relative; margin-left:30em;">
             </div>
-            <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
-                <button class="btn btn-sm btn-outline-secondary" type="button">FR</button>
-                <button class="btn btn-sm btn-outline-secondary" type="button">NL</button>
+
+            </div>
         </nav>
     <!-- JavaScript -->
     <script src=""></script>
