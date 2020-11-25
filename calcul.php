@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
     <!-- Bootstrap CSS -->
 
@@ -36,30 +36,31 @@
 
     <!--<header class="container-fluid" id="header">-->
 
-    <nav class="navbar navbar-default">
-        <div class="container-fluid bg-primary">
-
-            <div class="navbar-header">
-
-                <a href="#" class="navbar-brand">Immo Eliza</a>
-            
+  
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;">
+            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="150" width="200">
             </div>
-            <ul class="nav navbar-nav">
-            
-                <li><a href="#">A Vendre</a></li>
-                <li><a href="#">A Louer</a></li>
-                <li><a href="#">Estimer</a></li>
-                <li><a href="#">Agences</a></li>
-                <li><a href="#">Services</a></li>
-
-
-            </ul>
-        
-        </div>
-    </nav>
-
-
-
+             
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon">
+                  
+              </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a class="nav-link active" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">A LOUER</a>
+                <a class="nav-link" href="#">ESTMIER</a>
+                <a class="nav-link" href="#">AGENCES</a>
+                <a class="nav-link" href="#">SERVICES</a>
+              </div>
+            </div>
+            <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button">FR</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button">NL</button>
+        </nav>
+    </header>
             <!-- THE NAV BAR -->
 
                 
