@@ -248,7 +248,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Studio P P
+                                        Studio PP
                                     </button>
                                 </div>
                             </div>
@@ -274,7 +274,7 @@
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="<i class='far fa-hand-pointer'></i>" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <div class="btn btn-primary justify-content-start" class="keep" style="width:6.1rem;">
-                                        Service
+                                    S habitable
                                     </div>
                                 </div>
                                 <div class="col-1 m-3">
@@ -282,7 +282,7 @@
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Bungaloo
+                                    M²
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -290,7 +290,7 @@
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Duplex
+                                    S terrain<br>(habitation comprise)
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -298,7 +298,7 @@
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Maison
+                                    M²
                                     </button>
                                     </div>
                                 <div class="col-1 m-3">
@@ -306,7 +306,7 @@
                                             <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Campagne
+                                    Etat du batiment
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -314,7 +314,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Ville
+                                    Menu D
                                     </button>
                                 </div>
                             </div>
@@ -324,7 +324,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Manor" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Manoir
+                                    Nombre de chambres
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -333,7 +333,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Mix
+                                    Réponse
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -343,7 +343,7 @@
                                     </label>
 
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Exceptionnel
+                                    Terrasse
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -351,7 +351,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Triplex
+                                    M²
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -359,7 +359,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Villa
+                                    Jardin
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -367,7 +367,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        A LOUER
+                                    M²
                                     </button>
                                 </div>
                             </div>
