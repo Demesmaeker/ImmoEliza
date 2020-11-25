@@ -86,7 +86,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="Service" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="<i class='far fa-hand-pointer'></i>" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <div class="btn btn-primary justify-content-start" class="keep" style="width:6.1rem;">
                                         Service
@@ -94,7 +94,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Bungaloo" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Bungaloo
@@ -102,7 +102,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Duplex" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Duplex
@@ -110,7 +110,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Simple" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Maison
@@ -118,7 +118,7 @@
                                     </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Campagne" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Campagne
@@ -126,7 +126,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Town" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Ville
@@ -136,7 +136,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Manor" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Manoir
@@ -145,7 +145,7 @@
                                 <div class="col-1 m-3">
 
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Mix" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Mix
@@ -154,7 +154,7 @@
                                 <div class="col-1 m-3">
 
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="Exceptional" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
 
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
@@ -163,7 +163,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="TRIPLEX" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Triplex
@@ -171,7 +171,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="House" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Villa
@@ -179,10 +179,10 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="YOLO" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Spatiale
+                                        A Louer
                                     </button>
                                 </div>
                             </div>
@@ -193,7 +193,7 @@
                                 <div classe="col-12">
                                     <div class="checkbox" >
                                         <label >
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="50"  data-off="Appt" data-on="<i class='fas fa-building'></i> Appartement" data-onstyle="info" data-offstyle="success">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="50"  data-off="<i class='fas fa-check-circle'></i>" data-on="<i class='fas fa-building'></i> Appartement" data-onstyle="info" data-offstyle="success">
                                         </label>
                                     </div>
                                 </div>
@@ -205,103 +205,50 @@
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="Service" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="<i class='far fa-hand-pointer'></i>" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <div class="btn btn-primary justify-content-start" class="keep" style="width:6.1rem;">
-                                        Service
+                                    Appartement
                                     </div>
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Bungaloo" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Bungaloo
+                                        KOT
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Duplex" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Duplex
+                                        Loft
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Simple" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Maison
+                                        Penthouse
                                     </button>
                                     </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Campagne" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Campagne
+                                        R-d-C
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Town" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Ville
-                                    </button>
-                                </div>
-                            </div>
-                            <div class="row justify-content-center">
-                                <div class="col-1 m-3">
-                                    <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Manor" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
-                                    </label>
-                                    <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Manoir
-                                    </button>
-                                </div>
-                                <div class="col-1 m-3">
-
-                                    <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Mix" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
-                                    </label>
-                                    <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Mix
-                                    </button>
-                                </div>
-                                <div class="col-1 m-3">
-
-                                    <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="Exceptional" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
-                                    </label>
-
-                                    <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Exceptionnel
-                                    </button>
-                                </div>
-                                <div class="col-1 m-3">
-                                    <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="TRIPLEX" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
-                                    </label>
-                                    <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Triplex
-                                    </button>
-                                </div>
-                                <div class="col-1 m-3">
-                                    <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="House" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
-                                    </label>
-                                    <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Villa
-                                    </button>
-                                </div>
-                                <div class="col-1 m-3">
-                                    <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="YOLO" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
-                                    </label>
-                                    <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Spatiale
+                                        Studio P P
                                     </button>
                                 </div>
                             </div>
@@ -324,7 +271,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="Service" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-height="150" data-on="<i class='far fa-hand-pointer'></i>" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <div class="btn btn-primary justify-content-start" class="keep" style="width:6.1rem;">
                                         Service
@@ -332,7 +279,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Bungaloo" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Bungaloo
@@ -340,7 +287,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Duplex" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Duplex
@@ -348,7 +295,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Simple" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Maison
@@ -356,7 +303,7 @@
                                     </div>
                                 <div class="col-1 m-3">
                                         <label>
-                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Campagne" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                            <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                         </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Campagne
@@ -364,7 +311,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Town" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Ville
@@ -374,7 +321,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Manor" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Manor" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Manoir
@@ -383,7 +330,7 @@
                                 <div class="col-1 m-3">
 
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Mix" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Mix
@@ -392,7 +339,7 @@
                                 <div class="col-1 m-3">
 
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="Exceptional" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
 
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
@@ -401,7 +348,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="TRIPLEX" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Triplex
@@ -409,7 +356,7 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="House" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Villa
@@ -417,10 +364,10 @@
                                 </div>
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="YOLO" data-height="150" data-off="Check"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                        Spatiale
+                                        A LOUER
                                     </button>
                                 </div>
                             </div>
