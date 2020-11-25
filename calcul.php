@@ -321,7 +321,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-1 m-3">
                                     <label>
-                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="Manor" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
+                                        <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                     Nombre de chambres
@@ -359,7 +359,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                    Jardin
+                                    Nombre de facades
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
@@ -367,7 +367,7 @@
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
-                                    M²
+                                    Réponse
                                     </button>
                                 </div>
                             </div>
