@@ -4,14 +4,10 @@
   text-decoration: none;
   pointer-events: none;
 }
-
-.fa-spinner {
-  -webkit-animation: fa-spin 2s infinite linear;
-          animation: fa-spin 2s infinite linear;
-}
 body {
   background-image: url(../IMG/bgimmo.jpg);
-  background-size: cover;
+  background-position: center;
   background-repeat: repeat;
+  background-size: cover;
 }
 /*# sourceMappingURL=style.css.map */
