@@ -1,19 +1,19 @@
-body {
-  background-image: url(../IMG/bgimmo.jpg) !important;
-  background-size: cover;
-  background-repeat: repeat;
-}
-
-.cadre1 {
-  position: absolute !important;
-  height: auto;
-  width: 20px;
-}
-
 .btn.btn-primary {
   width: 6rem !important;
   font-size: small;
   text-decoration: none;
   pointer-events: none;
+}
+
+body {
+  background-image: url("../IMG/mur.jpg");
+  background-repeat: repeat;
+  background-size: 50em;
+  z-index: 1234;
+}
+body {
+  background-image: url("../IMG/mur.jpg");
+  background-repeat: repeat;
+  background-size: 50em;
 }
 /*# sourceMappingURL=style.css.map */
