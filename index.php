@@ -109,13 +109,12 @@
         </section>
             <!-- JUMBOTRON - HERO ZONE -->
             
-        <div class="jumbotron jumbotron-fluid" id="jumbotron" style="background-color:#219ebc;;">
+        <div class="jumbotron jumbotron-fluid" id="jumbotron" style="background-color:#219ebc;">
 
             <div class="container">
                 <div class="row">
-                    <div class="col-4">IMMO ELIZA</div>
                     <div class="col-8">
-                        <a href="Calcul.php" type="button" class="btn btn-light" role="button">Quelle est la valeur de mon bien ?</a>
+                        <a href="calcul.php" type="button" style="font-size:2em;" class="btn btn-light" role="button">Quelle est la valeur de mon bien ?</a>
                     </div>
                 </div>
             </div>

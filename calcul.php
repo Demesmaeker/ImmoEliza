@@ -32,7 +32,6 @@
     
 </head>
 <body>
-    <img src="../assets/IMG/mur.jpg" style="background-repeat:repeat; background-size: 50em;">
     <!-- ***** HEADER START ***** -->
 
     <!--<header class="container-fluid" id="header">-->
