@@ -45,7 +45,7 @@ def get_mask(path, shape):
 def get_dataframe(datas):
     '''
     Take datas with the xyz position in a dataframe + the bases coordinates
-    (Return the dataframe modified with the bases coordinates.) => not anymore
+    Return the dataframe modified with the bases coordinates.
     '''
 
     raw_df= datas[0]
@@ -53,11 +53,8 @@ def get_dataframe(datas):
 
     df = pd.DataFrame()
 
-    # df['x'] = raw_df['x'] + bases[1]
-    # df['y'] = raw_df['y'] + bases[0]
-    # Finally, want to keep (0,0) as bases, to get the 3D centered in the .obj
-    df['x'] = raw_df['x']
-    df['y'] = raw_df['y']
+    df['x'] = raw_df['x'] + bases[0]
+    df['y'] = raw_df['y'] + bases[1]
     df['z'] = raw_df['z']
 
     return df
