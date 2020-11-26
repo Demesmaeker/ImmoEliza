@@ -400,6 +400,195 @@
 
             </div>
         </nav>
+
+    <!-- PHP --> 
+    <?php  
+  // This condition checks if form is submitted...
+  if ((!isset($_POST['rue'])) || (!isset($_POST['rue'])) || (!isset($_POST['rue']))){
+    //echo 'not yet submitted';      
+  } else {   
+    // error handle
+    // ------------
+    $error_handle = [];
+    $debug = [];
+    $feedback = [];
+    
+    // pré validation, les champs doivent exister et ne pas être vide.
+    if ((isset($_POST["cp"]) && !empty(trim($_POST["cp"]))) && (isset($_POST["rue"]) && !empty(trim($_POST["rue"]))) && (isset($_POST["numero"]) && !empty(trim($_POST["numero"])))){
+      // function declaration
+      // --------------------
+      function get_api_output($p_url){
+        $url = $p_url;
+        $data = array('key1' => 'value1', 'key2' => 'value2');
+
+        // use key 'http' even if you send the request to https://...
+        $options = array(
+            'http' => array(
+                'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+                'method'  => 'POST',
+                'content' => http_build_query($data)
+            )
+        );
+        $context  = stream_context_create($options);
+        $result = file_get_contents($url, false, $context);
+        if ($result === FALSE) {
+           /* Handle error */           
+          return null;
+        } else {
+          return $result;
+        }
+        
+      }
+      
+      // 1. Sanitisation
+      // ---------------
+   
+      // anti xss
+      $cp = filter_var($_POST["cp"], FILTER_SANITIZE_STRING);
+      $rue = filter_var($_POST["rue"], FILTER_SANITIZE_STRING);
+      $numero = filter_var($_POST["numero"], FILTER_SANITIZE_STRING);     
+   
+      // trim enlève les blancs à gauche et à droite
+      $cp = trim($cp);
+      $rue = trim($rue);
+      $numero = trim($numero);
+
+      // 2. Validation
+      // -------------
+      
+      // validation CP
+      // Test si $variable est un code postal
+      // le cp belge vas de 1000 à 9999 (4 chiffres)
+            
+      if (preg_match("#^[0-9]{4}$#",$cp)){
+          //echo "le CP est valide.";
+      } else {
+        $error_handle['cp'] = "Le CP n'est pas valide. (Veuillez encoder un CP valide numérique entre 1000 et 9999)."; 
+      }
+
+      if(count($error_handle) == 0){
+        // amélioration de l'expérience d'encodage coté utilisateur   
+        // --------------------------------------------------------   
+        // on supprime les blancs en trop entre les mots !
+        $rue = preg_replace('#[\s]+#', ' ', $rue);
+
+        // 3. execution
+        // ----------
+        // If we get here, it's because everything's fine, we can do the next step
+        // Fetch API with our data
+        // Data from HTML <form>
+        array_push($debug, "<u><b>Sanitized Data from HTML form</b></u>");                     
+        array_push($debug, "cp : ".$cp);      
+        array_push($debug, "rue : ".$rue);      
+        array_push($debug, "numero : ".$numero);  
+        
+        // API GET request
+        // -----------
+        // Base URL: https://static.wallonia.ml/file/wallonia-lidar/web/
+        array_push($debug, '<u><b>API request</u></b>');
+                        
+        // Etape 1: Point d’entrée, les code postaux
+        // -----------------------------------------
+        $result_cp_collection = get_api_output("http://static.wallonia.ml/file/wallonia-lidar/web/postal_codes.json");
+
+        if ($result_cp_collection === null){
+          $error_handle['no API connection'] = "No API connection (check your URL API please...)" ;
+        } else {
+          
+        // decode string output json to php object or php associative array ("key" => "value")
+        // ----------------------------------------------------------------
+        // arg2 option not set or set to false will give a php object
+        // arg2 option set to true will give a php associative array
+        $array_cp = json_decode($result_cp_collection, true);
+
+        // check if user cp is in the array
+        // --------------------------------
+        if (array_key_exists ($cp, $array_cp)){
+          array_push($debug, "Le code postal existe dans l'API");
+        } else {
+          $error_handle['cp not exist'] = "Le code postal n'existe pas dans l'API !";
+        }
+        
+        if(count($error_handle) == 0){
+          // Etape 2: Obtenir les rues de la ville
+          // -------------------------------------
+          // ok now that we have the cp
+          // let us get all the street of that cp
+          $result_street_collection = get_api_output("http://static.wallonia.ml/file/wallonia-lidar/web/$cp.json");
+
+          if ($result_street_collection === null){
+            $error_handle['no API connection'] = "No API connection (check your URL API please...)" ;
+          } else {  
+            // json decode
+            $array_street = json_decode($result_street_collection, true); 
+                  
+            // to compare data string API, we create new variables in lower caser
+            // rue_lower_case and array_street_lower_case
+            $rue_lower_case = strtolower($rue);
+            $array_street_lower_case = array_change_key_case($array_street,CASE_LOWER);
+          
+            // check if user street is in the array      
+            if (array_key_exists ($rue_lower_case, $array_street_lower_case)){
+              array_push($debug, "La rue existe dans l'API");
+            } else {
+              $error_handle['rue not exist'] = "La rue n'existe pas dans l'API !";
+            }
+            
+            if(count($error_handle) == 0){
+              // get value of key representing the street            
+              $id_street = $array_street_lower_case[$rue_lower_case];
+              array_push($debug, "l'ID de la rue est : ".$id_street);
+                          
+              // Etape 3: Obtenir l’id unique de la maison
+              // -----------------------------------------
+              // ok now that we have the cp and the street
+              // let us get all the number of house in that street
+              $result_house_collection = get_api_output("http://static.wallonia.ml/file/wallonia-lidar/web/$cp/$id_street.json");
+
+              if ($result_house_collection === null){
+                $error_handle['no API connection'] = "No API connection (check your URL API please...)" ;
+              } else {  
+                // json decode
+                $array_house = json_decode($result_house_collection, true); 
+
+                // check if user numero of house is in the array
+                // ---------------------------------------------
+                if (array_key_exists ($numero, $array_house)){
+                  array_push($debug, "Le numéro de maison existe dans l'API");
+                } else {
+                  $error_handle['house number is not into API'] = "Le numéro de maison n'existe pas dans l'API !";
+                }
+                
+                if(count($error_handle) == 0){
+                  // get value of key representing the unique house 
+                  // ----------------------------------------------
+                  $id_house = $array_house[$numero];     
+                      
+                  // 4. debug, Display the response interface.
+                  // --------------------------------------------
+                  // envoi de id_house finale dans le champ <p id="id_house">
+                  // il servira pour le relais js 3D https://api.wallonia.ml/v1/model/$id_house
+
+                  array_push($debug, "l'ID de la maison est : ");
+                  array_push($debug, '<p id="house">'.$id_house.'</p>');
+
+                  array_push($feedback, "l'ID de la maison a bien été obtenu.");
+                  array_push($feedback, '<p id="house" class="invisible">'.$id_house.'</p>');
+
+                }
+              }
+            }
+          }
+        }
+       }
+      }
+    } else {
+      $error_handle['not a valid submission'] = 'Non Valide : ni le code postal, ni la rue et ni le numéro ne peuvent être vide.';      
+    }    
+
+  } // end if not submitted   
+
+?>
     <!-- JavaScript -->
     <script src=""></script>
     <script src=""></script>

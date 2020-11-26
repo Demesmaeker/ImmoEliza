@@ -19,32 +19,31 @@
  <!-- ***** HEADER START ***** -->
 <div class="jumbotron" style="primary">
     <!-- NAV -->
-        <div class="nav">
-            <div>
-                <ul>
-                    <li><p>A VENDRE</p></li>
-                    <li><p>A LOUER</p></li>
-                    <li><p>ESTIMER</p></li>
-                    <li><p>AGENCES</p></li>
-                    <li><p>SERVICES</p></li>
-                <ul>
+  
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61; margin-bottom:1em;" >
+            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style=" position:relative; margin-top:2em;">
             </div>
-            <div class="connecter">
-                <ul>
-                    <li>
-                        <button type="button" class="btn btn-outline-info">se connecter</button>
-                    </li>
-                </ul>
+             
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon">
+                  
+              </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
+                <a class="nav-link active" style="color: #ffff;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
+                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
+              </div>
             </div>
-            <div class="langue">
-                <ul>
-                    <li>
-                        <button type="button" class="">Nl | Fr</button>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
+            <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button">FR</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button">NL</button>
+        </nav>
+    </header>
     <!-- MAIN -->
     <div class="titre">
         <div class="container">
@@ -123,6 +122,25 @@
     </div>
 
             <!-- THE NAV BAR -->
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;" >
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+            </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
+                    <a class="nav-link active" style="color: #ffff;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
+                </div>
+                <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style="position:relative; margin-left:30em;">
+            </div>
+
+            </div>
+        </nav>
 
 
             <!-- BOTTOM NAVBAR -->

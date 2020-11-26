@@ -1,8 +1,7 @@
 body {
   background-image: url(../IMG/bgimmo.jpg) !important;
   background-size: cover;
-  background-repeat: repeat-x;
-
+  background-repeat: repeat;
 }
 
 .cadre1 {
@@ -16,5 +15,10 @@ body {
   font-size: small;
   text-decoration: none;
   pointer-events: none;
+}
+
+.fa-spinner {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear;
 }
 /*# sourceMappingURL=style.css.map */
