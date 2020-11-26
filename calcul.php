@@ -32,7 +32,7 @@
     
 </head>
 <body>
-    <img src="./assets/IMG/bgimmo.jpg" style="position:fixed; height: 100%; background-repeat:repeat-x; opacity: 0.5;">
+
     <!-- ***** HEADER START ***** -->
 
     <!--<header class="container-fluid" id="header">-->
@@ -40,7 +40,8 @@
   
     <header>
         <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61; margin-bottom:1em;" >
-            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style=" position:relative; margin-top:2em;">
+            <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" href="index.php" height="300" width="auto" style=" position:relative; margin-top:2em;">
+            
             </div>
              
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

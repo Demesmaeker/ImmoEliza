@@ -4,6 +4,12 @@
   text-decoration: none;
   pointer-events: none;
 }
+
+body {
+  background-image: url(../IMG/mur.jpg);
+  background-repeat: repeat;
+  background-size: 50em;
+}
 body {
   background-image: url(../IMG/mur.jpg);
   background-repeat: repeat;
