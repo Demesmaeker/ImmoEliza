@@ -24,13 +24,16 @@ if {($maison == $appartement)
 }
 
 */
+$choix = [$ChoixA, $ChoixM, $ChoixO];
 
-$Rmaison [''] = '';
-$Rappapartement [''] = '';
-$Roption [''] = '';
+$Rmaison [''] = '$ChoixM';
+$Rappapartement [''] = '$ChoixA';
+$Roption [''] = '$ChoixO';
+
+
             
-            foreach($maison as $appartement => $option){
-                echo $Roption. ' a ' .$. ' ans<br>';
+            foreach($valeur as $Choix => $option){
+                echo  $valeur 'Vous avez selectionez' $Choix. 'avec' $Roption;
             }
         ?>
         <p>Voici une estimation du prix pour votre bien</p>
