@@ -64,8 +64,6 @@
     </header>
             <!-- THE NAV BAR -->
 
-                
-
 <div class="container-fluid">
     <div class="row justify-content-right">
                 <div class="col-9 ">
@@ -375,6 +373,220 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="col-3">
+                    <form action="" method="post" class="form p-5" id="form_estimate">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="ZIP">Code postal</label>
+                                <input type="number" class="form-control" id="ZIP" name="ZIP" placeholder="3306">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="type_of_property">Type de logement</label>
+                                <select id="type_of_property" class="form-control" name="type_of_property">
+                                    <option id="house" value="house" selected>Maison</option>
+                                    <option id="apart" value="apart" checked="checked">
+                                        Appartement</option>
+                                </select>
+                            </div>
+
+                            <!-- *** SUBTYPE OF PROPERTY *** -->
+
+                            <div class="form-group">
+                                <label for="subtype_of_property">Type d'habitation</label>
+                                <select id="subtype_of_property" name="subtype_of_property" class="form-control">
+                                    <option selected value="to be done up"> To be done up </option>
+                                    <option value="as new"> As new </option>
+                                    <option value="good"> Good </option>
+                                    <option value="to restore"> To restore </option>
+                                    <option value="just renovated"> Just renovated </option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="State_of_building">State of building</label>
+                                <select id="State_of_building" name="State_of_building" class="form-control">
+                                    <option selected value="to be done up"> To be done up </option>
+                                    <option value="as new"> As new </option>
+                                    <option value="good"> Good </option>
+                                    <option value="to restore"> To restore </option>
+                                    <option value="just renovated"> Just renovated </option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="Construction_year">Année de construction</label>
+                                <input type="number" min="0" class="form-control" id="construction_year" name="construction_year"
+                                    placeholder="1930">
+                            </div>
+
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="inputAddress">Address</label>
+                                <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="Rue Covid">
+                            </div>
+                            <div class="form-group">
+                                <label for="inputAddress2">Number</label>
+                                <input type="number" min="0" class="form-control" id="inputAddress2" name="inputAddress2" placeholder="19">
+                            </div>
+                        </div>
+                        <div class="form-row">
+
+                            <div class="form-group">
+                                <label for="inputCity">City</label>
+                                <input type="text" class="form-control" id="inputCity" name="inputCity" placeholder="Corona">
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="rooms">Nombre de chambres</label>
+                                <input type="number" min="0" class="form-control" id="rooms" placeholder="159" name="rooms">
+                            </div>
+                            <div class="form-group">
+                                <label for="facades">Nombre de façades</label>
+                                <input type="number" min="0" class="form-control" id="facades" name="facades" placeholder="2">
+                            </div>
+
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="House_area">Surface Habitable (m²)</label>
+                                <input type="number" min="0" class="form-control" id="House_area" name="House_area" placeholder="15 025">
+                            </div>
+                            <div class="form-group">
+                                <label for="surface">Surface du terrain (m²)</label>
+                                <input type="number" min="0" class="form-control" id="surface" name="surface" placeholder="24 917" name="surface">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <fieldset class="form-group">
+                                <div class="row">
+                                    <legend class="col-form-label col-md-4 pt-0">Jardin ?</legend>
+                                    <div class="col-md-8">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="garden" name="garden"
+                                                value="yes">
+                                            <label class="form-check-label" for="yes">
+                                                Oui
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="garden" name="garden"
+                                                value="no" checked="checked">
+                                            <label class="form-check-label" for="no">
+                                                Non
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+                            <fieldset class="form-group col-md-6">
+                                <div class="row">
+                                    <legend class="col-form-label col-md-4 pt-0">Terrasse ?</legend>
+                                    <div class="col-md-8">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="terrace" name="terrace"
+                                                value="yes">
+                                            <label class="form-check-label" for="yes">
+                                                Oui
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="terrace" name="terrace"
+                                                value="no" checked="checked">
+                                            <label class="form-check-label" for="no">
+                                                Non
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6 display">
+                                <label for="garden-area">Surface du jardin (m²)</label>
+                                <input type="number" min="0" class="form-control" id="garden-area" placeholder="23 920"
+                                    name="garden-area">
+                            </div>
+                            <div class="form-group col-md-6 display">
+                                <label for="terrace-area">Surface du terrasse (m²)</label>
+                                <input type="number" min="0" class="form-control" id="terrace-area" placeholder="24 917"
+                                    name="terrace-area">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <fieldset class="form-group col-md-6">
+                                <div class="row">
+                                    <legend class="col-form-label col-md-4 pt-0">Open fire ?</legend>
+                                    <div class="col-md-8">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="open-fire" name="open-fire"
+                                                value="yes">
+                                            <label class="form-check-label" for="yes">
+                                                Oui
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="open-fire" name="open-fire"
+                                                value="no" checked="checked">
+                                            <label class="form-check-label" for="no">
+                                                Non
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+                            <fieldset class="form-group col-md-6">
+                                <div class="row">
+                                    <legend class="col-form-label col-md-4 pt-0">Piscine ?</legend>
+                                    <div class="col-md-8">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="swimming-pool"
+                                                name="swimming-pool" value="yes">
+                                            <label class="form-check-label" for="yes">
+                                                Oui
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" id="swimming-pool"
+                                                name="swimming-pool" value="no" checked="checked">
+                                            <label class="form-check-label" for="no">
+                                                Non
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+
+                        <div class="form-row">
+                            <fieldset class="form-group col-md-6">
+                                <div class="row">
+                                    <legend class="col-form-label col-md-4 pt-0">Cuisine equipé ?</legend>
+                                    <div class="col-md-8">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="equiped-kitchen" value="yes"
+                                                id="equiped-kitchen">
+                                            <label class="form-check-label" for="yes">
+                                                Oui
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="equiped-kitchen" value="no"
+                                                checked="checked" id="equiped-kitchen">
+                                            <label class="form-check-label" for="no">
+                                                Non
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+
+                        <button type="submit" class="button" value="OK">Estimer</button>
+                    </form>
                 </div>
     </div>
 </div>

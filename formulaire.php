@@ -29,9 +29,9 @@ if {($maison == $appartement)
     $Rappapartement [''] = '';
     $Roption [''] = '';
             
-            foreach($maiosn as $appartement => $option){
-                echo $Roption. ' a ' .$. ' ans<br>';
-            }
+            // foreach($maiosn as $appartement => $option){
+            //     echo $Roption. ' a ' .$. ' ans<br>';
+            // }
         ?>
         <p>Voici une estimation du prix pour votre bien</p>
     </body>
