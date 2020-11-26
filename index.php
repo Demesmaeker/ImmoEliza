@@ -109,7 +109,7 @@
         </section>
             <!-- JUMBOTRON - HERO ZONE -->
             
-        <div class="jumbotron jumbotron-fluid" id="jumbotron">
+        <div class="jumbotron jumbotron-fluid" id="jumbotron" style="background-color:#219ebc;;">
 
             <div class="container">
                 <div class="row">
