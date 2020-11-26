@@ -6,7 +6,16 @@ $bleu: #219ebc;
 $white: #FFF; 
 $black: #000;
 
+
+//@import'';
+
 @import'_calcul.scss';
 @import'_accueil.scss';
 @import'_nav.scss';
-//@import'';
+
+
+body {
+    background-image: url(../IMG/bgimmo.jpg);
+    background-size: cover;
+    background-repeat:repeat;
+}

@@ -47,7 +47,7 @@
         <!-- MAIN -->
         <div class="titre">
             <div class="container">
-                <div class="row col-12">
+                <div class="row col-12" style="font-weight:bold; color:white;">
                     <h1>Bienvenue sur IMMOEliza</h1>
                 </div>
             </div>
@@ -55,10 +55,9 @@
         <div class="filtre">
             <div class="container">
                 <div class="row col-12">
-                    <ul>
-                        <li><button type="button" class="btn btn-link">PRIX</button></li>
-                        <li><div class="dropdown">
-                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <button type="button" style="margin:5em;" class="btn btn-link">PRIX</button></li>
+                        <div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" style="margin:5em;" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Type de bien
                         </a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
@@ -66,15 +65,14 @@
                                 <a class="dropdown-item" href="#">Appartement</a>
                                 <a class="dropdown-item" href="#">Loft</a>
                         </div>
-                        <li><button type="button" class="btn btn-primary">RECHERCHER</button></li>
-                    </ul>
+                        <button type="button" style="margin:5em;" class="btn btn-primary">RECHERCHER</button></li>
                 </div>
             </div>
         </div>
         <section class="contente">
             <div class="container">
-                <div class="row col-12">
-                    <h2>Dernières publications à vendre</h2>
+                <div class="row col-12" style="font-size:10em; color:#219ebc; font-weight:bold;">
+                    <h2>Dernières publications à vendre </h2>
                 </div>
             </div>
             <div class='imageimmo'>
