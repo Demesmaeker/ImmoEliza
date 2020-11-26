@@ -6,7 +6,17 @@ $bleu: #219ebc;
 $white: #FFF; 
 $black: #000;
 
+
+//@import'';
+
 @import'_calcul.scss';
 @import'_accueil.scss';
 @import'_nav.scss';
-//@import'';
+
+
+body {
+    background-image: url(../IMG/mur.jpg);
+    background-repeat: repeat;
+    background-size: 50em;
+    
+    }
