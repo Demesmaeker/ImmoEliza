@@ -3,7 +3,7 @@
     <head>
         <title>Formulaire IMMO</title>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="cours.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     
     <body>
@@ -25,11 +25,11 @@ if {($maison == $appartement)
 
 */
 
-    $Rmaison [''] = '';
-    $Rappapartement [''] = '';
-    $Roption [''] = '';
+$Rmaison [''] = '';
+$Rappapartement [''] = '';
+$Roption [''] = '';
             
-            foreach($maiosn as $appartement => $option){
+            foreach($maison as $appartement => $option){
                 echo $Roption. ' a ' .$. ' ans<br>';
             }
         ?>
