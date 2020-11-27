@@ -61,7 +61,31 @@ All the work done was made during the BeCode's web dev/AI's formation 2020-2021.
 
 
 ### Preview
+
+#### Application
 **Coming soon**
+
+
+#### API
+
+##### API's Documentation
+![API](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/API_documentation.png)
+
+##### API's Exemple : predict request
+![API](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/predict_request.png)
+
+##### API's Exemple : predict response
+![API](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/predict_response.png)
+
+##### API's Exemple : 3D request
+![API](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/3D_request.png)
+
+##### API's Exemple : 3D response
+![API](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/3D_response.png)
+
+##### Opening the 3D file under Blender
+![API](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/3D_open_in_blender.png)
+
 
 
 ### Progress
