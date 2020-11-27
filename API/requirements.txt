@@ -1,0 +1,9 @@
+flask
+flask-restx
+numpy
+pandas
+scikit-learn
+geopy
+geopandas
+open3d-python
+matplotlib
