@@ -2,7 +2,7 @@
 First group project between the Kellers (web dev promotion) and the Turings (AI promotion).
 
 The purpose of this project is to create an application for the client ImmoEliza, with a form to predict the price of a house or apartment.
-The datas were scrapped from immoweb the 07/09/2020.
+
 
 ### Who
 For this first crossed project, we were 4, 3 from the web dev formation, 1 from the AI/Datas formation :
