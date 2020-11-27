@@ -89,4 +89,5 @@ All the work done was made during the BeCode's web dev/AI's formation 2020-2021.
 
 
 ### Progress
-**FINISHED**
+Application -- Work In Progress
+API -- Finished
