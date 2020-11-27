@@ -38,39 +38,36 @@
 
   
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61; margin-bottom:1em;" >
-            <div id="enteteimage" >
-                <a href="index.php">
-                    <img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style=" position:relative; margin-top:2em;">
-                </a>
-            </div>
-             
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon">
-                  
-              </span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-              <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
-                <a class="nav-link active" style="color: #ffff;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
-                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
-                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">ESTIMER</a>
-                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
-                <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
-              </div>
-            </div>
-            <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
-                <button class="btn btn-sm btn-outline-secondary" type="button">FR</button>
-                <button class="btn btn-sm btn-outline-secondary" type="button">NL</button>
-        </nav>
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61; margin-bottom:1em;" >
+                <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style=" position:absolute; margin-top:-2em; margin-left:-4.6em;">
+                </div>
+                
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+                    
+                </span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
+                    <a class="nav-link active" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
+                </div>
+                </div>
+                <button class="btn btn-outline-success" type="button" style="color: red; background-color: white;">SE CONNECTER</button>
+                    <button class="btn btn-sm btn-outline-secondary" type="button">FR</button>
+                    <button class="btn btn-sm btn-outline-secondary" type="button">NL</button>
+            </nav>
     </header>
             <!-- THE NAV BAR -->
-
-<div class="container-fluid">
+<div><h1 style="margin-left:8em; margin-top:2em;">Allumez le different appartement afin de remplir l'estimation</h1></div>
+<div class="container-fluid" style="margin-top:5em;">
     <div class="row justify-content-right">
                 <div class="col-9 ">
                     <div class="container bg-danger" style="background-image:url(./assets/IMG/cadremur.png);background-repeat: repeat-y;background-size:83em;background-position:36% 0%;">
-                        <!-- premiere rangée de fenetre maison -->
+                    <!-- premiere rangée de fenetre maison -->
                         <div class="container">
                             <div class="row" id="button-maison">
                                 <div classe="col-12">
@@ -145,7 +142,6 @@
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
-
                                     <label>
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
@@ -154,11 +150,9 @@
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
-
                                     <label>
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
-
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                         Exceptionnel
                                     </button>
@@ -330,7 +324,6 @@
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
-
                                     <label>
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100" data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
@@ -339,11 +332,9 @@
                                     </button>
                                 </div>
                                 <div class="col-1 m-3">
-
                                     <label>
                                         <input type="checkbox" checked data-toggle="toggle" data-width="100"  data-on="<i class='far fa-hand-pointer'></i>" data-height="150" data-off="<i class='fas fa-check-circle'></i>"  data-onstyle="dark" data-offstyle="warning">
                                     </label>
-
                                     <button class="btn btn-primary" class="keep" style="width:6.1rem;">
                                     Terrasse
                                     </button>
@@ -393,9 +384,7 @@
                                         Appartement</option>
                                 </select>
                             </div>
-
                             <!-- *** SUBTYPE OF PROPERTY *** -->
-
                             <div class="form-group">
                                 <label for="subtype_of_property">Type d'habitation</label>
                                 <select id="subtype_of_property" name="subtype_of_property" class="form-control">
@@ -462,44 +451,31 @@
                                             </label>
                                         </div>
                             </fieldset>
-
-
-
-
-
-
                             <div class="form-group">
                                 <label for="Construction_year">Année de construction</label>
                                 <input type="number" min="0" class="form-control" id="construction_year" name="construction_year"
                                     placeholder="1930">
                             </div>
-
                         </div>
                         <div class="form-row">
-   
                             <div class="form-group">
                                 <label for="inputAddress2">Number</label>
                                 <input type="number" min="0" class="form-control" id="inputAddress2" name="inputAddress2" placeholder="19">
                             </div>
                         </div>
                         <div class="form-row">
-
                             <div class="form-group">
                                 <label for="inputCity">City</label>
                                 <input type="text" class="form-control" id="inputCity" name="inputCity" placeholder="Corona">
                             </div>
                         </div>
-                        
                         <div class="form-row">
-
                             <div class="form-group">
                                 <label for="facades">Nombre de façades</label>
                                 <input type="number" min="0" class="form-control" id="facades" name="facades" placeholder="2">
                             </div>
-
                         </div>
                         <div class="form-row">
-
                             <div class="form-group">
                                 <label for="surface">Surface du terrain (m²)</label>
                                 <input type="number" min="0" class="form-control" id="surface" name="surface" placeholder="24 917" name="surface">
@@ -605,7 +581,6 @@
                                 </div>
                             </fieldset>
                         </div>
-
                         <div class="form-row">
                             <fieldset class="form-group col-md-6">
                                 <div class="row">
@@ -629,7 +604,6 @@
                                 </div>
                             </fieldset>
                         </div>
-
                         <button type="submit" class="button" value="OK">Estimer</button>
                     </form>
                 </div>
@@ -638,23 +612,25 @@
     <!-- MAIN START -->
 
     <!-- FOOTER START -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;" >
-            
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#084c61;" >
+                <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style=" position:absolute; margin-top:-11em; margin-left:-4.6em;">
+                </div>
+                
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+                    
+                </span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav" style="margin-left:2em; margin-right:2em;">
-                    <a class="nav-link active" style="color: #ffff;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
-                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
-                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
-                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
-                    <a class="nav-link" style="color: #ffff; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
+                    <a class="nav-link active" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em;" href="#">A VENDRE <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">A LOUER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">ESTMIER</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">AGENCES</a>
+                    <a class="nav-link" style="color: #ffff; margin-left:15em; margin-bottom:3em; margin-top:3em; margin-left:2em; margin-right:2em;" href="#">SERVICES</a>
                 </div>
-                <div id="enteteimage" ><img class="enteteimage" src="assets/IMG/logoimmoeliza.png" height="300" width="auto" style="position:relative; margin-left:30em;">
-                </div>
-            </div>
-    </nav>
+                
+            </nav>
 
     <!-- JavaScript -->
     <script src=""></script>

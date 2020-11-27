@@ -6,7 +6,12 @@ $bleu: #219ebc;
 $white: #FFF; 
 $black: #000;
 
-
+// BODY //
+body {
+    background-image: url("../IMG/mur.jpg");
+    background-repeat: repeat;
+    background-size: 40em;
+    }
 //@import'';
 
 @import'_calcul.scss';
@@ -14,9 +19,3 @@ $black: #000;
 @import'_nav.scss';
 
 
-body {
-    background-image: url("../IMG/mur.jpg");
-    background-repeat: repeat;
-    background-size: 50em;
-    
-    }
