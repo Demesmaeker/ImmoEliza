@@ -31,7 +31,7 @@ For this first crossed project, we were 4, 3 from the web dev formation, 1 from 
 **Optional objectives**
 
 - (DEV) Original and interactive form in the shape of a building
-- (AI) The API return a 3D model based on the coordinate (works only for the city of Mons, files too heavy for more)
+- (AI) The API return a 3D model based on the coordinates (works only for the city of Mons, files too heavy for more)
 
 
 ### When
