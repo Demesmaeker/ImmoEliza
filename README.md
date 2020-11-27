@@ -25,18 +25,21 @@ For this first crossed project, we were 4, 3 from the web dev formation, 1 from 
 - Be able to deploy your model
 - Be able to work in a team
 - Be able to build an api.
+
 [Api on Azure](http://api.immoeliza.ml/)
 
 **Optional objectives**
 
+- (DEV) Original and interactive form in the shape of a building
 - (AI) The API return a 3D model based on the coordinate (works only for the city of Mons, files too heavy for more)
 
 
 ### When
 - Deadline: 26/11/2020 16:30
 - Duration: 5 days
-- Situation:  - 3rd month of the BeCode's formation about web development
-              - 4th month of the BeCode's formation about AI and Machine learning
+- Situation:
+            3rd month of the BeCode's formation about web development
+            4th month of the BeCode's formation about AI and Machine learning
 
 **Updates**
 
