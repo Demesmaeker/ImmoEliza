@@ -63,8 +63,17 @@ All the work done was made during the BeCode's web dev/AI's formation 2020-2021.
 ### Preview
 
 #### Application
-**Coming soon**
 
+##### Concepts
+![logo](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/logo.png)
+![form](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/concept_form.jpg)
+![home](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/concept_home.jpg)
+
+##### Visualisation
+![home](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/form_01.png)
+![home](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/form_02.png)
+![form](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/home_01.png)
+![form](https://github.com/Goudmant/ImmoEliza/blob/main/Preview/home_02.png)
 
 #### API
 
